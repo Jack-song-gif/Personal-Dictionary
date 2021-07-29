@@ -1,0 +1,123 @@
+ag=>ag = do ， act 做，动
+agri=>agri = field 田地，农田 agri 也作 agro agr
+ann=>ann = year 年 （ann也作enn）
+audi=>audi=hear 听 （audi也作audit）
+bell=>bell=war 战争
+brev=>brev=short 短
+ced=>ced=go 行走（ced也作ceed，cess）
+cept=>cept=take 拿，取
+cid,cis=>cid，cis=cut，kill 切，杀
+circ=>circ=ring 环，圆
+claim，clam=>claim，clam=cry，shout 喊叫
+clar=>clar=clear 清楚，明白
+clud=>clud=close，shut 关闭（clud也作clus）
+cogn=>cogn=know 知道
+cord=>cord=heart 心
+corpor=>corpor=body （corpor也作corp）
+cred=>cred=believe，trust 相信，信任
+cruc=>cruc=cross十字
+cur=>cur=care关心，挂念，注意
+cur，curs，cour，ccurs=>cur，curs，cour，ccurs=run 跑
+dent=>dent=tooth 牙齿
+di=>di=day 日
+dict=>dict=say 言，说（dict也作dic）
+dit=>dit=give 给
+don=>don=give 给（don也作do）
+du=>du=two 二
+duc=>duc，duct=lead 引导
+ed=>ed=eat 吃
+equ=>equ=equal 等，均，平
+ev=>ev=age年龄，寿命，时代，时期
+fact=>fact=do，make 做，作（fact也作fac）
+fer=>fer=bring，carry 带拿
+flor=>flor=flower 花(flor也作flour)
+flu=>flu=flow 流
+fus=>fus=pour 灌，流，倾泻
+grad=>grad=step，go，grade 步，走，级
+gram=>gram=write，something written of drawn 写，画，文字，图形
+grap=>graph=write，writing，an instrument for making records 写，画，文字，图形，记录器
+gress=>gress=go，walk 行走
+habit=>habit=dwell 居住
+hibit=>hibit=hold 拿，持
+hospit=>hospit=guest客人
+idio=>idio=peculiar，own，private，proper特殊的，个人的，专有的
+insul=>insul=island 岛
+it=>it=go 行走
+ject=>ject=throw 投掷
+juven=>juven=young 年轻，年少
+lect=>lect=choose，gather 选，收(lect也作leg，lig)
+lev=>lev=raise 举，升
+liber=>liber=free 自由
+lingu=>lingu=language 语言
+liter=>liter=letter 文字，字母
+loc=>loc=place 地方
+log=>log=speak 言，说
+loqu=>loqu=speak 言，说
+lun=>lun=moon 月亮
+man=>man=dwell，stay 居住，停留
+manu=>manu=hand 手(manu也作man)
+mar=>mar=sea 海
+medi=>medi=middle 中间
+memor=>memor=memory 记忆
+merg=>merg=dip，sink 沉，没(merg也作mers)
+migr=>migr=remove，move 迁移
+milit=>milit=soldier 兵
+mini=>mini=small，little 小(mini也作min)
+mir=>mir=wonder 惊奇，惊异
+miss=>miss=send 投，送，发(miss也作mit)
+mob=>mob=move 动
+mort=>mort=death 死
+mot=>mot=move 移动，动
+nomin=>nomin=name 名
+nov=>nov=new 新
+numer=>numer=number 数
+onym=>onym=name 名
+oper=>oper=work 工作
+ori=>ori=rise 升起
+paci=>paci=peace 和平，平静
+pel=>pel=push，drive 推，逐，驱
+pend=>(a) pend，pens=hang悬挂  （b）pend，pens=weigh称量  (c) pend，pens=pay付钱，支出，花费
+pet=>pet=seek 追求
+phon=>phon=sound 声音
+pict=>pict=paint 画，描绘
+plen=>plen=full 满，全
+plic=>plic=fold 折，重叠
+pon=>pon=put 放置
+popul=>popul=people 人民
+port=>port=carry 拿，带，运
+pos=>pos=put 放置
+preci=>preci=price 价值
+punct=>punct=point，prick 点，刺
+pur=>pur=pure 清，纯，净
+rect=>rect=right，straight 正，直
+rupt=>rupt=break 破
+sal=>sal=salt 盐
+scend=>scend，scens=climb 爬，攀
+sci=>sci=know 知
+sec,sequ=>sec，sequ=follow 跟随
+sect=>sect=cut 切割
+sent=>sent，sens=feel 感觉
+sid=>sid=sit 坐
+sist=>sist=stand 站立
+son=>son=sound 声音
+spect=>spect=look 看
+spir=>spir=breathe 呼吸
+tail=>tail=cut 切割
+tain，tan，tin=>tain，ten，tin=hold 握，持，守
+tect=>tect=cover 掩盖
+tele=>tele=far 远
+tempor=>tempor=time 时,时间
+tend=>tend(tends，tent)=stretch 伸
+terr=>terr=earth，land 土地，陆地
+text=>text=weave 编织
+tract=>tract=draw 拉，抽，引
+un=>un=one一(un也作uni)
+vac=>vac=empty 空(vac也作vacu)
+vad=>vad(vas)=walk，go行走
+vari=>vari=change
+ven=>ven=come 来
+vert=>vert，vers=turn 转
+vi,va=>vi，via=way 路
+vis=>vis，vid=see 看
+vit=>vit=life 生命
+viv=>viv=live 活

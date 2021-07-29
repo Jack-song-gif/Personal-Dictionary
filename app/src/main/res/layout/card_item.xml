@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="380dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="3dp"
+    android:layout_marginLeft="3dp"
+    android:layout_marginRight="3dp"
+    android:layout_gravity="center_horizontal"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical">
+
+        <TextView
+            android:scrollHorizontally="true"
+            android:id="@+id/day_sense"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:typeface="monospace"
+            android:autoSizeTextType="uniform"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+        <TextView
+            android:scrollHorizontally="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/day_mean"
+            android:textSize="16dp"
+            android:typeface="monospace"
+            android:autoSizeTextType="uniform"
+            android:fontFamily="casual" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.wordapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="org.litepal.LitePalApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <activity android:name=".NoteActivity"></activity>
+        <activity android:name=".Form.EWordForm" />
+        <activity android:name=".Form.RWordForm" />
+        <activity android:name=".Form.IrWordForm" />
+        <activity android:name=".DicActivity" />
+        <activity android:name=".fragment.fragment3" />
+        <activity android:name=".fragment.fragment2" />
+        <activity android:name=".fragment.fragment1" />
+        <activity android:name=".fragment.fragment0" />
+        <activity android:name=".WordTranslate" />
+        <activity android:name=".WordTest" />
+        <activity android:name=".WordSearch" />
+        <activity android:name=".Form.WordForm" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

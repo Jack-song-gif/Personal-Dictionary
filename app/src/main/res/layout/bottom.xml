@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_gravity="bottom"
+    android:baselineAligned="false">
+
+
+    <LinearLayout
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="35dp">
+
+            <ImageView
+                android:id="@+id/main_iv_Trans"
+                android:layout_weight="1"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/trans_normal"
+                android:layout_alignParentRight="true"/>
+
+            <ImageView
+                android:id="@+id/main_iv_Diary"
+                android:layout_weight="1"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/diary_normal"
+                android:layout_alignParentRight="true"/>
+            <ImageView
+                android:id="@+id/main_iv_Write"
+                android:layout_weight="1"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/write_normal"
+                android:layout_alignParentRight="true"/>
+
+
+            <ImageView
+                android:id="@+id/main_iv_own"
+                android:layout_weight="1"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/person_normal"
+                android:layout_alignParentRight="true" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="           翻译      "
+                android:textSize="10dp"
+                />
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="         每日笔记"
+                android:textSize="10dp"
+                />
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="         写作"
+                android:textSize="10dp"
+                />
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="            我的"
+                android:textSize="10dp"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

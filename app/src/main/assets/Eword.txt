@@ -1,0 +1,1980 @@
+agent=> [ag做，办理，ent名词后缀，表示人；做事者，“办理人”] 代理人=>ag
+agential=> [见上，ial形容词后缀，……的] 代理人的=>ag
+subagent=> [sub-副的，agent 代理人] 副代理人=>ag
+coagent=> [co-共同，ag 做，作 ent 表示人] 共事者，合作者=>ag
+agency=> [ag 做，作 ency 名词后缀] 代理，代理处，机构，作用=>ag
+coagency=> [co-共同 ag 做，行动 ency 名词后缀] 共事，协作，合作=>ag
+agenda=> [ag 做，end 名词后缀 a 表示复数；原义为：things to be done， “待做的事项”] 议事日程=>ag
+agile=> [ag 动→活动→灵活 ile 形容词后缀 …..的] 灵活的，敏捷的=>ag
+agility=> [见上，-ility名词后缀，表示抽象名词] 灵活，敏捷=>ag
+agitate=> [ag 动 –it-，-ate 动词后缀 使….. “使骚动”→] 鼓动，煽动，搅动，使不安定=>ag
+agitation=> [见上，-ion 名词后缀] 鼓动，煽动=>ag
+agitator=> [见上，-or表示人] 鼓动者，煽动者=>ag
+agitatress=> [见上，-ress表示女性] 女鼓动家=>ag
+agitated=> [见上，-ed形容词后缀，……的] 不安的=>ag
+agitating=> [见上，-ing 形容词后缀，使……的] 使人不安的，进行鼓动的=>ag
+counteragent=>[counter 反，ag 做，作用，-ent表示物] 反作用剂，反抗力=>ag
+agriculture=>[agri 田地，农田，cult 耕作 –ure 名词后缀] 农业，农艺=>agri
+agricultural=>[见上，-al 形容词后缀，…的] 农业的，农艺的=>agri
+agriculturist=>[见上，-ist表示人] 农学家=>agri
+agricorporation=>[agri 农田→农业，corporation 公司] 农业综合公司=>agri
+agrimotor=>[agri 农田→农业，motor 机器] 农用拖拉机=>agri
+agronomy=>[agro农田→农业，nomy …..学] 农学 农艺学，作物学=>agri
+agronomic=>[见上， -ic形容词后缀，…..的] 农学的，农艺学的=>agri
+agronomist=>[见上，-ist表示人] 农学家=>agri
+agrology=>[agro 田地，logy …..学] 农业土壤学=>agri
+agrobiology=>[agro 田地→农业，biology 生物学] 农业生物学=>agri
+agrotechnique=>[agro 田地→农业，technique 技术] 农业技术=>agri
+agro-town=>[agro 农田→农村，town城镇] 建在农村地区的城镇=>agri
+agrochemicals=>[agro 农田，chemicals 化学药品] 农药=>agri
+agro-industry=>[agro 农田→农业，industry 工业] 农业工业=>agri
+agrarian=>[agr 田地，-arian 形容词后缀，……的] 土地的，耕地的=>agri
+agrestic=>[agr 田地→乡村→乡野] 乡间的，乡野的，粗野的=>agri
+anniversary=>[ann 年 -i- 连接字母，vers 转 –ary 名词后缀；时间转了一年] 周年纪念日，周年纪念=>ann
+annual=> [ann 年，-ual 形容词后缀，……的] 每年的，年度的=>ann
+annals=> [ann 年，-al 名词后缀] 编年史=>ann
+annalist=> [见上，-ist 表示人] 编年史作者=>ann
+annuity=> [ann 年，-u 连接字母，-ity名词后缀] 年金；年金享受权=>ann
+annuitant=> [annuit(y) 年金，-ant表示人] 领受年金的人=>ann
+superannuate=> [super 超过，ann 年→年龄，-u- ，-ate 动词兼形容词后缀；“超过年龄”] 因年老而令退休，太旧的，过时的=>ann
+superannuation=> [见上，-ation名词后缀] 年老退休=>ann
+perennial=> [per-通，全，enn年，-ial形容词后缀，…的] 全年的，四季不断的=>ann
+perenniality=> [见上，-ity 名词后缀] 全年，四季不断=>ann
+semiannual=> [semi半，ann年，-ual ….的]半年一次的=>ann
+audience=> [audi听，-ence名词后缀] 听众，倾听=>audi
+auditorium=> [audi听，-orium 名词后缀，表示场所，地点；“听讲的场所”] 礼堂，讲堂，听众席=>audi
+audible=> [aud(i)听，-ible形容词后缀，可….的] 听得见的，可闻的=>audi
+audibility=> [aud(i)听，-ibility名词后缀，可….性] 可听性，可闻度=>audi
+inaudible=> [in不，见上] 听不见，不能听到的=>audi
+audit=> 旁听，审计=>audi
+auditor=> [-or表示人] 旁听生，旁听者，审计员=>audi
+auditory=> [audit听，-ory形容词后缀，……的] 听觉的=>audi
+audiphone=> [audi听，phone声音] 助听器=>audi
+audition=> [audit听，-ion名词后缀] 听觉，听=>audi
+audiometer=> [audi听，-o-连接字母，meter测量器，计] 听力计，听力测量器=>audi
+audiology=> [audi听，-o-，logy …学] 听觉学=>audi
+audio=> 听学的，声音的=>audi
+audiovisual=> [见上，visual视觉的] 视听法的，视觉听觉的=>audi
+audiovisuals=> [见上] 视听教材，直观教具=>audi
+rebel=> [re-相反，bel(l)战争，战斗；“反戈”，“反战”] 反叛，反抗=>bell
+rebellion=> [见上，-ion名词后缀] 反叛，反抗，叛乱=>bell
+rebellious=> [见上，-ious形容词后缀，…的] 反叛的，反抗的，叛乱的=>bell
+bellicose=> [bell战争，-icose复合后缀，由-ic+-ose而成，表示有…性的] 好战的，好斗的=>bell
+bellicosity=> [见上，-ity名词后缀，表性质] 好战性=>bell
+bellicism=> [见上，-ism名词后缀，表性质] 好战性，好战倾向=>bell
+belligerent=> [bell战争，-i-，ger=to wage，-ent形容词后缀，…的] 好战的，挑起战争的=>bell
+belligerency=> [见上，-ency名词后缀，表性质] 好战性=>bell
+abbreviate=> [ab-加强意义，brev短，-i-，-ate动词后缀，使…] 缩短，缩写，节略(读物等)=>brev
+abbreviation=> [见上，-ation名词后缀] 缩写，缩短，节略，缩写式，缩写词=>brev
+abbreviator=> [见上，-ator表示人] 缩写者，节略者=>brev
+brevity=> [brev短，-ity名词后缀] （陈述等的）简短，简洁；（生命等的）短暂，短促=>brev
+breviary=> [brev短，-i-，-ary名词后缀] 缩略，摘要=>brev
+brief=> [brief→brev短] 短暂的，简短的，简洁的，摘要，短文，概要=>brev
+briefness=> [见上，-ness名词后缀] 短暂，简短，简洁=>brev
+breve=> 短音符号=>brev
+precedent=> [pre-先，前，ced行，-ent名词后缀，表示物，先行的事物，前例，先例；（-ent形容词后缀，…的）] 先行的，在前的=>ced
+precedented=> [见上，-ed形容词后缀，…的] 有先例的，有前例的=>ced
+unprecedented=> [un-无，见上] 无先例的，空前的=>ced
+precede=> [pre-先，前，ced行] 先行，领先，居先，优先=>ced
+preceding=> [见上，-ing形容词后缀，…的] 在前的，在先的=>ced
+exceed=> [ex-以外，超出，ceed行，“超越而行”] 超过，越过，胜过=>ced
+excess=> [ex-以外，超出，cess行，“超出限度以外”]超过，越过，过分，过度=>ced
+excessive=> [见上，ive形容词后缀，…的] 过分的，过度的，过多的=>ced
+proceed=> [pro-向前，ceed行] 前进，进行=>ced
+procedure=> [pro-向前，ced行，-ure名词后缀；“进行的过程”] 过程，步骤，手续=>ced
+process=> [pro-向前，cess行] 过程，进程，程序=>ced
+procession=> [见上，-ion名词后缀] 进行，行进的行列，队伍=>ced
+antecedent=> [ante-先，前，ced行，-ent形容词及名词后缀] 先行的，居先的；先例，前例，先行词=>ced
+antecessoer=> [ante-先，cess行，-or者] 先行者，先驱者=>ced
+antecede=> [ante-先，ced行] 居中…之先=>ced
+successor=> [suc-后面，cess行，-or者] 后行者，继任者，接班人，继承人=>ced
+succession=> [suc-后面，cess行，-ion名词后缀] 相继，接续，继承，继任=>ced
+successive=> [见上，-ive形容词后缀，…的] 相继的，连续的，连接的=>ced
+recession=> [re-反，回，cess行，-ion名词后缀；“回行”] 后退，退回，（经济）衰退=>ced
+recede=> [re-反，回，ced行；“往回走”] 后退，退却，引退，退缩=>ced
+retrocede=> [retro-向后，ced行] 后退，退却=>ced
+retrocession=> [retro-向后，cess行，-ion名词后缀] 后退，退却，引退=>ced
+intercede=> [inter-中间，…之中，ced行；“介入其中”] 居间调停，调解，代为说情，代为请求=>ced
+intercession=> [inter-中间，…之中，cess行，-ion名词后缀；“介入其中”] 居间调停，调解，说情=>ced
+intercessor=> [见上，-or者] 居间调停者，调解者，说情者=>ced
+except=> [ex-外，出，cept拿；“拿出去”→排除，除外] 除…之外，把…除 外=>cept
+exception=> [见上，-ion名词后缀] 例外，除外=>cept
+exceptional=> [见上，-al 形容词后缀，…的] 例外的，异常的，特殊的=>cept
+exceptive=> [见上，-ive形容词后缀，…的] 作为例外的，特殊的=>cept
+accept=> [ac-加强意义，cept拿→接] 接受，领受，承认=>cept
+acceptance=> [见上，-ance名词后缀] 接受，领受，承认=>cept
+acceptable=> [见上，able形容词后缀，可…的] 可接受的=>cept
+intercept=> [inter-中间→从中，cept拿，取；“从中截取”] 截取，截击，拦截，截断=>cept
+interception=> [见上， -ion名词后缀] 截取，截住，拦截，截击=>cept
+intercepter=> [见上，-er表示物] 截击机=>cept
+incept=> [in-入，cept拿，取；“拿入”→收进] 接收（入会）摄入，摄取=>cept
+decide=> [de-表示加强意义，cid切，切断→裁断→裁决] 决定，裁决，判决，下决心=>cid，cis
+decidable=> [见上，-able形容词后缀，可…的] 可以决定的=>cid，cis
+undecided=> [见上，un-不，未，decide决定，-ed形容词后缀，…的] 未定的，未决的=>cid，cis
+decision=> [见decide，字母转换；d→s，因此，cid→cis，-ion名词后缀] 决定，决心，决议=>cid，cis
+indecision=> [in-无，不，decision决定] 无决断力，犹豫不决=>cid，cis
+decisive=> [见上，-ive形容词后缀，…的] 决定性的=>cid，cis
+indecisive=> [in-非，不，见上] 非决定性的，不决断的=>cid，cis
+concise=> [con-表示加强意义，cis切；“切短”，“切除”不必要的部分，删除除冗言赘语，留下精简扼要的部分] 简明的，简洁的，简要的=>cid，cis
+precise=> [pre-先，前，cis切；“预先切除不清楚的部分”] 明确的，准确的，精确的=>cid，cis
+precision=> [见上，-ion名词后缀] 精确性，精密度=>cid，cis
+incise=> [in-入，cis切，“切入”] 切开，雕刻=>cid，cis
+incision=> [见上，-ion名词后缀] 切开，切口，雕刻=>cid，cis
+incisive=> [见incise，-ive形容词后缀，…的] 能切入的，锋利的，尖锐的=>cid，cis
+incisor=> [见incise，-or表示物；“能切断东西者”] 门牙，切牙=>cid，cis
+excide=> [ex-出，去，cid切] 切除，切去，切开，删去=>cid，cis
+excision=> [见上，-ion名词后缀] 切除，切去，删除=>cid，cis
+circumcise=> [circum-周围，环绕，cis切；“周围切割”，环状切割] 割去包皮，进行环切=>cid，cis
+suicide=> [sui自己，cid杀] 自杀，自杀者=>cid，cis
+homicide=> [homi人，cid杀] 杀人，杀人者=>cid，cis
+patricide=> [patri父，cid杀] 杀父，杀父者=>cid，cis
+insecticide=> [insect虫，-i-连接字母，cid杀] 杀虫剂=>cid，cis
+parasiticide=> [parasit(e)寄生虫，-i-连接字母，cid杀] 杀寄生虫药=>cid，cis
+bactericide=> [bacteri细菌，cid杀] 杀菌剂=>cid，cis
+circus=> [circ圆，-us名词后缀；“圆形的表演场地] 马戏场；[转为]马马戏团=>circ
+circle=> [circ圆，-le名词后缀] 圆，圈，环状物=>circ
+encircle=> [en作成…，circle圈；“作成一圈”] 包围，绕…行一周=>circ
+semicircle=> [semi-半，circle圆] 半圆=>circ
+circular=> [circul=circle圆，-ar形容词后缀，…的] 圆形的，环形的=>circ
+circularity=> [见上，-ity名词后缀] 圆形性，环行性，圆，迂回=>circ
+circulate=> [circul=circle环，-ate动词后缀，使…] 循环，环流，通行，流通，流传=>circ
+circulation=> [见上，-ion名词后缀] 循环，环流，流通，流传=>circ
+circulatory=> [见上，-ory形容词后缀，…的] 循环的（指血液），循环上的=>circ
+circlet=> [circle圆，-et表示小] 小圈，小环=>circ
+circuit=> [circ圆，环，-u，it行] 环行，周线，电路，回路=>circ
+circuitous=> [见上，-ous形容词后缀，…的] 迂回的，绕行的=>circ
+circuity=> [见上，-y名词后缀] （说话等的）转弯抹角，绕圈子=>circ
+exclaim=> [ex-外，出，claim叫，“大声叫出”] 呼喊，惊叫=>claim，clam
+exclamation=> [见上，exclam=exclaim，-ation名词后缀] 呼喊，惊叫，感叹词，惊叹词=>claim，clam
+exclamatory=> [见上，-atory形容词后缀，…的] 叫喊的，惊叹的=>claim，clam
+proclaim=> [pro-向前，claim叫喊→声言] 宣布，宣告，声明=>claim，clam
+proclamation=> [见上，-ation名词后缀] 宣布，公布，宣告，声明=>claim，clam
+proclamatory=> [见上，-atory形容词后缀，…的] 公告的，布告的，宣言的=>claim，clam
+acclaim=> [ac-表示加强意义，claim叫→呼喊] 欢呼，喝彩=>claim，clam
+acclamation=> [见上，-ation名词后缀] 欢呼，喝彩=>claim，clam
+acclamatory=> [见上，-atory形容词后缀，…的] 欢呼的，喝彩的=>claim，clam
+clamour=> [clam叫喊→吵，-our名词后缀] 喧嚷，吵闹=>claim，clam
+clamorous=> [见上，-ous形容词后缀，…的] 喧嚷的，吵吵嚷嚷的=>claim，clam
+clamant=> [clam叫喊，-ant形容词后缀，…的] 喧嚷的，吵闹的=>claim，clam
+declaim=> [de-表示加强意义，claim叫→大声说] 作慷慨激昂的演说，朗诵=>claim，clam
+declamation=> [见上，-ation名词后缀] 作慷慨激昂的演说，雄辩，朗诵=>claim，clam
+declamatory=> [见上，-atory形容词后缀，…的] 演说的，雄辩的，适宜于朗诵的=>claim，clam
+declare=> [de-表示加强意义，clar=clear清楚，明白；“to make clear”，“使明白”] 表明，声明，宣告，宣布=>clar
+declarer=> [见上，-er者] 宣告者，声明者=>clar
+declaration=> [见上，-ation名词后缀] 声明，宣言，宣布=>clar
+declarative=> [见上，-ative形容词后缀，…的] 宣言的，公告的，说明的=>clar
+clarify=> [clar=clear清楚，明白，-i-，-fy 动词后缀，使…；“使明白”] 讲清楚，阐明，澄清=>clar
+clarification=> [-fication名词后缀] 阐明，澄清=>clar
+clarity=> [clar=clear清澈，明白，-ity名词后缀] 清澈，透明=>clar
+exclude=> [ex-外，clud关；“关在外面”→不许入内] 排斥，拒绝接纳，把…排除在外=>clud
+exclusive=> [见上，-ive形容词后缀，…的] 排外的，排他的，除外的=>clud
+exclusion=> [见上，-ion名词后缀] 排斥，拒绝，排除，排外=>clud
+exclusionism=> [见上，-ism主义] 排外主义=>clud
+include=> [in-入，内，clud关闭；“关在里面”，“包入”] 包含，包括，包住，关住=>clud
+inclusion=> [见上，-ion名词后缀] 包含，包括，内含物=>clud
+inclusive=> [见上，-ive形容词后缀，…的] 包括在内的，包括的，包含的=>clud
+conclude=> [con-表示加强意义，clud关闭→结束，完结] 结束，完结，终了=>clud
+conclusion=> [见上，-ion名词后缀] 完结，结束，结局，结论=>clud
+conclusive=> [见上，-ive形容词后缀，…的] 结论的，总结性的，最后的=>clud
+seclude=> [se-离，分开，clud关闭；“关闭起来，与外界隔离] 使隔离，孤立，隐居，退隐=>clud
+seclusive=> [见上，-ive形容词后缀，…的] 隐居性的，爱隐居的=>clud
+secluded=> [见上，-ed形容词后缀，…的] 隔离的，隐退的，僻静的=>clud
+recluse=> [re-回，退，clus关闭；“闭门退居”] 退居的，隐居的，隐士，遁世者=>clud
+reclusive=> [见上，-ive形容词后缀，…的] 隐退的，隐居的，遁世的=>clud
+occlude=> [oc=against，clud关闭；“关闭起来，不让通过”] 使堵塞，使闭塞=>clud
+occlusion=> [见上，clud→clus，-ion名词后缀] 堵塞，闭塞=>clud
+occlusive=>[见上，-ive形容词后缀，…的] 闭塞的，堵塞的 =>clud
+preclude=> [pre-前，先，预先，clud关闭；“预先关闭”] 阻止，预防，排除，消除=>clud
+preclusion=> [见上，clud→clus，-ion名词后缀] 预防，防止，排除=>clud
+preclusive=> [见上，-ive形容词后缀，…的] 预防（性）的，排除的，阻止的=>clud
+cognition=> [cogn知道→认识，认知，-ition名词后缀] 认识=>cogn
+cognitive=> [cogn知道→认识，-itive形容词后缀，…的] 认识的=>cogn
+cognize=> [cogn知道，-ize动词后缀] 知道，认识=>cogn
+cognizable=> [见上，-able形容词后缀，可…的] 可认识的，可认知的=>cogn
+incognizable=> [in-不，见上] 不可认识的，不可知的=>cogn
+cognizance=> [cogniz(e)+ance名词后缀] 认识，认知=>cogn
+congnizant=> [cogniz(e)+ant形容词后缀，…的] 认识的，知晓的=>cogn
+incognizant=> [in-不，见上] 没认识到的=>cogn
+recognize=> [re-表示加强意义，cogn知道→认识，-ize动词后缀] 认识，认出，认知=>cogn
+recognizable=> [见上，-able形容词后缀，可…的] 可认识的，可认出的=>cogn
+irrecognizable=> [ir-不，见上] 不能认识的，不能认出的=>cogn
+recognition=> [re-表示加强意义，cogn知道→认识，-ition名词后缀] 认出，认识，识别=>cogn
+precognition=> [pre-预先，cogn知道，-ition名词后缀] 预知，预察，预见=>cogn
+cordial=> [cord心，-ial形容词后缀，…的] 衷心的，诚心的=>cord
+cordially=> [见上，-ly副词后缀，…的] 衷心的，诚心的，真诚的=>cord
+cordiality=> [见上，-ity名词后缀] 诚心，热诚，亲切=>cord
+record=> [re-回，再，cord心→想，忆；“回忆”→以备回忆之用] 记录，记载=>cord
+recorder=> [见上，-er表示人或物] 记录者，录音机=>cord
+recordable=> [见上，-able形容词后缀，可…的] 可记录的=>cord
+recordation=> [见上，ation名词后缀] 记录，记载=>cord
+recording=> [见上，-ing名词后缀] 记录，录音=>cord
+recordist=> [见上，-ist表示人] 录音员=>cord
+concord=> [con-共同，相同，合，cord心，意；“同心合意”] 和谐，同意，一致，协调=>cord
+concordant=> [见上，-ant形容词后缀，?…的] 和谐的，一致的，协调的=>cord
+discord=> [dis分，离，cord心，意；“分心离意”]　不一致，不协调，不和=>cord
+discordance=> [见上，-ance名词后缀]　不一致，不协调，不和=>cord
+discordant=> [见上，-ant形容词后缀，…的]　不一致的，不协调的，不和的=>cord
+accord=> [ac-表示to，cord心；“心心相印”]　一致，协调，符合，使一致=>cor
+accordance=>[见上，-ance名词后缀] 一致，协调，调和=>cord
+accordant=> [见上，-ant形容词后缀，…的] 一致的，协调的=>cord
+cordate=> [cord心，-ate形容词后缀，…的] 心脏形的=>cord
+core=> [cor=cord心] 核心=>cord
+corporation=> [corpor体，-ation名词后缀；由众人组成的一个“整体”] 团体，社团，公司=>corpor
+corporator=> [corpor体→团体，-ator表示人] 社团或公司的成员=>corpor
+corporate=> [corpor体→团体，-ate形容词后缀，…的] 团体的，社团的=>corpor
+incorporate=> [in-做，作成，corpor体，-ate动词后缀；“结成一体”] 合并，结合，组成=>corpor
+incorporation=> [见上，-ation名词后缀] 合并；[结合而成的组织] 团体，公司，社团=>corpor
+incorporator=> [见上，-ator人] 合并者，团体成员，社团成员=>corpor
+agricorporation=> [agri=agriculture农业，corporation公司] 农业综合公司=>corpor
+corporal=> [corpor体→身体，肉体，-al形容词后缀，…的] 身体的，肉体的=>corpor
+corporeal=> [corpor体→体形，-eal形容词后缀，…的] 形体的，有形的，物质的，肉体的=>corpor
+incorporeal=> [in-无，非，corporeal形体的] 无形体的，无实体的，非物质的=>corpor
+corporealize=> [见corporeal，-ize动词后缀，…化，使…] 使具有形体，合物质化=>corpor
+corporeality=> [见上，-ity名词后缀] 形体的存在，具体性=>corpor
+corps=> [corp体→团体] 军团，军，队，团=>corpor
+corpse=> 尸体，死体=>corpor
+corpulent=> [corp体，→肉体，-ulent=-lent多…的；“多肉体的”] 肥胖的=>corpor
+credible=> [cred相信，信任，-ible形容词后缀，可…的] 可信的，可靠的=>cred
+credibility=> [cred相信，信任，-bility名词后缀，表示性质] 可信，可靠，信用=>cred
+incredible=> [in-不，credible可信的] 不可信的=>cred
+incredibility=> [见上] 不可信，难信=>cred
+credulous=> [cred信任，ulous形容词后缀，易…的] 易信的，轻信的=>cred
+incredulous=> [in-不，见上] 不轻信的=>cred
+credit=> 信任，相信=>cred
+creditable=> [见上，-able形容词后缀，可…的] 可信的，使人信任的=>cred
+discredit=> [dis-不，credit信任] 不信任，丧失信用=>cred
+accredit=> [ac-表示to，credit信任] 相信，信任，委任=>cred
+credence=> [cred信任，-ence名词后缀] 信任=>cred
+credential=> [cred信任，-ential复合后缀（ent+-ail）…的] 信任的，[转为名词] 凭证；（复数）信任状，国书=>cred
+creed=> [creed→cred相信，信任] 信条，教义，信念=>cred
+crucial=> [cruc十字，-ial形容词后缀，…的] 十字形的；[处在“十字路口”的] 紧要关头的，决定性的，临于最后选择的=>cruc
+crusade=> [crus=cruc十字，-ade名词后缀，表示集体] 十字军=>cruc
+crusader=> [见上，-er表示人] 十字军参加者=>cruc
+cruise=> [cruis=cruc十字→纵横相交，在海洋上“纵横来往而行”] 巡游，巡航=>cruc
+cruiser=> [见上，-er表示物；在海洋上“纵横来往而行者”] 巡洋舰=>cruc
+cruisette=> [见上，-ette表示小] 小巡洋舰=>cruc
+crucifix=> [cruc十字，-i，fix固定→钉] 耶稣钉在十字架上的图像=>cruc
+crucifixion=> [crud十字，-i，fix固定→钉，-ion动词后缀] 在十字架上钉死的刑罚，酷刑=>cruc
+crucify=> [cruc十字，-i-，-fy动词后缀，做…事] 把…钉死在十字架上，折磨=>cruc
+crucifier=> [见上，-er表示人] 钉罪人于十字架上者，施酷刑的人=>cruc
+cruciform=> [cruc十字，-form形容词后缀，有…形状的] 十字形的=>cruc
+excruciate=> [ex-使…，做…，cruc十字，-ate动词后缀；“把…钉在十架上“] 使受酷刑，拷打，折磨=>cruc
+excruciation=> [见上，-ation名词后缀] 惨刑，酷刑，拷问=>cruc
+security=> [se-分开，脱离，cur挂念，担心，-ity名词后缀；“脱离挂念”→不用挂念，无须担心] 安全=>cur
+secure=> [见上] 安全的，无忧的=>cur
+insecure=> [in-不，secure安全的] 不安全的=>cur
+insecurity=> [in-不，security安全] 不安全=>cur
+curious=> [cur关心，注意，-ious形容词后缀，…的；“引人注意的”] 新奇的，奇怪的；[对…特别“关心”的] 好奇的，爱打听的=>cur
+curiosity=> [见上，-osity名词后缀] 好奇心，奇品，珍品，古玩=>cur
+curio=> [curiosity的缩写式] 珍品，古董，古=>cur
+incurious=> [in-不，无，curious见上，新奇的，好奇的] 不新奇的，无好奇心的=>cur
+incuriosity=> [in-不，无，见上] 不新奇，无好奇心，不关心=>cur
+cure=> [cur关心，关怀→（对病人）照料，护理] 医治，治疗=>cur
+curable=> [见上，-able形容词后缀，可…的] 可医治的，可治好的=>cur
+incurable=> [in-不，见上] 不可医治的，不治的，医不好的=>cur
+curative=> [cur-关心→医治，-ative形容词后缀，…的] 治病的，治疗的，有效的=>cur
+occur=> [oc-表示to ，或towards，cur跑；“跑来”→来临] 出现，发生=>cur，curs，cour，ccurs
+occurrence=> [见上，-ence名词后缀] 出现，发生，发生的事=>cur，curs，cour，ccurs
+occurrent=> [见上，-ent形容词后缀，…的] 偶然发生的，正在发生的=>cur，curs，cour，ccurs
+current=> [cur跑→行，-ent形容词后缀，…的] 流行的，通行的，流通的，现行的，当前的，现在的；[-ent名词后缀] 流，水流，气流=>cur，curs，cour，ccurs
+undercurrent=> [under-底下，current流] 暗流，潜流=>cur，curs，cour，ccurs
+currency=> [cur跑→行，-ency名词后缀] 流行，流通，流通货币，通货=>cur，curs，cour，ccurs
+excurse=> [ex-外，出，curs跑→行走；“跑出去”，“出行”] 远足，旅游，旅行=>cur，curs，cour，ccurs
+excursion=> [见上，-ion名词后缀] 远足，旅行，旅游=>cur，curs，cour，ccurs
+excursionist=> [见上，-ist表示人] 远足者，旅游者=>cur，curs，cour，ccurs
+excursive=> [ex-外，出，curs跑→行走；“走出”→走离→走离正题；-ive形容词后缀，…的] 离题的，扯开的=>cur，curs，cour，ccurs
+excursus=> [见上，-us名词后缀；“离题”的话] 离题语，附注，附记=>cur，curs，cour，ccurs
+course=> [cours跑→行进] 行程，进程，路程，道路，课程=>cur，curs，cour，ccurs
+intercourse=> [inter-在…之间，cours跑→行走→来往；“彼此之间的来往”] 交往，交际，交流=>cur，curs，cour，ccurs
+concourse=> [con-共同，一起，cours跑；“跑到一起来”] 汇合，集合，合流=>cur，curs，cour，ccurs
+courser=> [cours跑，-er者；“善跑的人或动物”] 跑者，追猎者，猎犬，骏马=>cur，curs，cour，ccurs
+courier=> [cour跑，-ier?表示人，“跑路的人”] 送急件的人，信使=>cur，curs，cour，ccurs
+succour=> [suc-后，随后，cour跑；“随后赶到”] 救助，救援，援助=>cur，curs，cour，ccurs
+cursory=> [surs跑→急行，-ory形容词后缀，…的；“急行奔走的”] 耸促的，草率的，粗略的=>cur，curs，cour，ccurs
+cursorial=> [见上，-ial形容词后缀，…的] （动物）疾走的，善于奔跑的=>cur，curs，cour，ccurs
+cursive=> [curs跑→速行，-ive形容词后缀，…的，“疾行的”，“速走的”] （字体）草写的，行书，草书，草写体=>cur，curs，cour，ccurs
+incursion=> [in-内，入内，curs跑→行走，-ion名词后缀；“走入”，“闯入”] 进入，侵入，入侵，侵犯=>cur，curs，cour，ccurs
+incursive=> [见上，-ive形容词后缀，…的] 入侵的，进入的=>cur，curs，cour，ccurs
+precursor=> [pre-先，前，curs跑→行，-or者] 先行者，先驱者，前任，前辈=>cur，curs，cour，ccurs
+precursory=> [pre-先，前，curs跑，-ory形容词后缀，…的] 先行的，先驱的，先锋的，前任的，前辈的=>cur，curs，cour，ccurs
+antecursor=> [ante-前，curs跑，-or者] 先行者，前驱者=>cur，curs，cour，ccurs
+concur=> [con-共同，cur跑；“共同跑来”] 同时发生，同意=>cur，curs，cour，ccurs
+concurrence=> [见上，-ence名词后缀] 同时发生，同意=>cur，curs，cour，ccurs
+concurrent=> [见上，-ent形容词后缀，…的] 同时发生的=>cur，curs，cour，ccurs
+recur=> [re-回，复，cur跑；“跑回”→返回→重来] 再发生，（养病等）复发，（往事等）重新浮现=>cur，curs，cour，ccurs
+recurrence=> [见上，-ence名词后缀] 复发，再发生，重新浮现=>cur，curs，cour，ccurs
+transcurrent=> [trans-越过，横过，cur跑，-ent形容词后缀，…的；“横跑过去”的] 横过的，横贯的=>cur，curs，cour，ccurs
+corridor=> [cor=cour跑→行走；“行走的地方”] 走廊=>cur，curs，cour，ccurs
+curriculum=> [cur=couse；a course of study] 课程=>cur，curs，cour，ccurs
+dentist=> [dent牙，-ist表示人；“医治牙病的人”] 牙科医生=>dent
+dentistry=> [见上，-ry表示…学，技术，职业] 牙科学，牙科，牙科业=>dent
+dental=> [dent牙，-al形容词后缀，…的] 牙齿的，牙科的=>dent
+denture=> [dent牙，-ure名词后缀] 假牙=>dent
+dentiform=> [dent牙，-i-，-form有…形状的] 齿状的=>dent
+dentate=> [dent牙，-ate形容词后缀，…的] 有齿的，齿状的=>dent
+dentoid=> [dent牙，-oid如…的] 有齿的，齿状的=>dent
+bident=> [bi-两个，二，dent牙；“有两个齿形”的矛] 两叉矛，两尖器=>dent
+trident=> [tri-三，dent牙；“有三叉齿形”的矛] 三叉戟，三叉尖器=>dent
+indent=> [in-使成…，作成…，dent牙] 使成犬牙状，刻成锯齿形=>dent
+multidentate=> [multi-多，dent牙，齿，-ate形容词后缀，…的] 多齿的=>dent
+interdental=> [inter-中间，dent齿，-al形容词后缀，…的] 齿间的=>dent
+denticle=> [dent齿，-icle表示小] 小齿，小齿状突起=>dent
+edentate=> [e-无，dent齿，-ate形容词后缀，…的] （动物）无齿的，贫齿目的=>dent
+diary=> [di日，-ary名词后缀，表示物] 日记，日记簿=>di
+diarist=> [见上，-ist?表示人] 记日记者=>di
+diarize=> [见上，-ize动词后缀，做…] 记日记=>di
+diarial=> [见上，-ial形容词后缀，…的] 日记体的，日记的=>di
+dial=> [di日，-al名词后缀，表示物] 日晷，电话机拨号盘（该物圆形似日晷）=>di
+meridian=> [meri中间，di日，-an名词后缀] 日中，正午，子午线；[-an形容词后缀，…的] 日中的，正午的=>di
+antemeridian=> [ante-前，meridian日中，正午] 日中以前的，午前的=>di
+postmeridian=> [post-后，meridian日中，正午] 日中以后的，午后的=>di
+contradict=> [contra相反，dict言；说出“相反之言”] 反驳，同…相矛盾，与…相抵触=>dict
+contradiction=> [见上，-ion名词后缀] 矛盾，抵触，对立=>dict
+contradictory=> [见上，-ory形容词后缀，…的] 矛盾的，对立的=>dict
+dictate=> [dict言，说→吩咐，命令，指示，-ate动词后缀；“口授命令或指示”] 口述而令别人记录，使听写，命令，支配=>dict
+dictation=> [见上，-ion名词后缀] 口授，命令，支配，口述，听写=>dict
+dictator=> [见上，-or者；“口授命令者”→支配者，掌权者] 独裁者，专政者，口授者=>dict
+dictatorial=> [见上，-ial形容词后缀，…的] 专政的，独裁的=>dict=>dict
+dictatorship=> [见上，-ship名词后缀] 专政，独裁=>dict
+predict=> [pre-前，先，预先，dict言] 预言，预告=>dict
+prediction=> [见上，-ion名词后缀] 预言，预告=>dict
+predictable=> [见上，-able形容词后缀，可…的] 可预言的，可预报的=>dict
+malediction=> [male-恶，坏，dict言，-ion名词后缀；“恶言”] 咒骂，诽谤=>dict
+maledictory=> [见上，-ory形容词后缀，…的] 咒骂的=>dict
+benediction=> [bene-好，dict言词，-ion名词后缀；“好的言词”] 祝福=>dict
+benedictory=> [见上，-ory形容词后缀，…的] 祝福的=>dict
+indicate=> [in-表示at，dic言，说→说明，表明，表示，-ate动词后缀] 指示，指出，表明=>dict
+indication [见上，-ion名词后缀] 指示，指出，表示=>dict
+indicator=> [见上，-or表示人或物] 指示者，指示器=>dict
+indicative=> [见上，-ive形容词后缀，…的] 指示的，表示的=>dict
+dictionary=> [dict言，词，diction措词，-ary名词后缀，表示物；“关于措词的书”] 字典，词典=>dict
+diction=> [dict言，词，-ion名词后缀] 措词，词令=>dict
+dictum=> [dict言，词，-um名词后缀] 格言，名言=>dict
+edict=> [c-外，出，dict言，词→指示；“统治者发出的话，“当局发出的指示”] 法令，布告=>dict
+dictaphone=> [dict言，说，-a-连接字母，phone声音，电话] 口述录音机，录音电话机=>dict
+indict=> [in-表示on，upon，against，dict言，诉说] 控告，告发，对…起诉=>dict
+indictment=> [见上，-ment名词后缀] 控告，起诉，起诉书=>dict
+indictor=> [见上，-or表示人，主动者] 原告，起诉者（亦作indicter）=>dict
+indictee=> [见上，-ee表示人，被动者] 被告，被起诉者=>dict
+interdict=> [inter-中间，dict言；“从中插言”→使停止] 制止，禁止=>dict
+interdiction=> [见上，-ion名词后缀] 制止，禁止=>dict
+interdictory=> [见上，-ory形容词后缀，…的] 制止的，禁止的=>dict
+verdict=> [ver=very真正的，绝对的，恰好的，dict言] 裁决，判决，定论=>dict
+tradition=>[tra=trans转，传达室，dit给，-ion名词后缀；“传给”] 传统，传说，口传=>dit
+traditional=> [见上，-al形容词后缀，…的] 传统的，惯例的=>dit
+traditionalism=> [见上，-ism 主义] 传统主义=>dit
+edit=> [e-出，dit给，“给出”→发表，出版；将稿件编好以备发表] 编辑=>dit
+editor=> [见上，-or表示人] 编者，编辑=>dit
+editorial=> [见上，-ial形容词后缀，…的] 编者的，编辑的 [编者写的文章] 社论=>dit
+editorship=> [见上，-ship名词后缀] 编辑的职位，编辑工作=>dit
+subeditor=> [sub-副，editor编辑] 副编辑=>dit
+edition=> [edit编辑，-ion名词后缀，“编成的样本”] 版，版本=>dit
+extradite=> [ex-=out出，tra=trans转，dic给；“转给”，“转交出”] 引渡（逃犯，战俘等），使（逃犯等）被引渡=>dit
+extradition=> [见上，-ion名词后缀] （对逃犯等的）引渡=>dit
+extraditable=> [见上，-able形容词后缀，可…的] （逃犯等）可引渡的=>dit
+pardon=> [par-=per完全，彻底，don给，舍给→舍弃；“完全舍弃他人罪过”] 原谅，宽恕，赦罪=>don
+pardoner=> [见上，-er表示人] 原谅者，宽恕者=>don
+pardonable=> [见上，-able形容词后缀，可…的] 可以原谅的，可以宽恕的=>don
+donor=> [don给，赠给，-or表示人] 赠给者，捐献者=>don
+donee=> [don给，赠给，-ee表示人，被…者] 被赠给者，受赠者=>don
+condone=> [con加强意义，don给→舍给→舍弃；“舍弃他人罪过”] 宽恕，不咎（罪过）=>don
+condonation=> [见上，-ation名词后缀] 宽恕，赦免=>don
+donate=> [don给，赠给，-ate动词后缀] 捐赠，赠给=>don
+donator=> [见上，-or者] 捐赠者，赠给者=>don
+donative=> [见上，-ive形容词后缀，…的] 捐赠的，赠送的；[-ive名词后缀，表示物] 赠品，捐赠物=>don
+dose=> [do给，被“给”的→饮用药量] 一剂药，一剂=>don
+dot=> [do给，女子出嫁时，娘家所“给”之物] 嫁妆，妆奁=>don
+dotal=> [见上，-al形容词后缀，…的] 嫁妆的，妆奁的=>don
+anecdote=> [an-不，未，ec-外，向外，do给，给出→发表；“未曾向外发表过的”事] 轶事；奇闻，趣闻=>don
+anecdotist=> [见上，-ist人] 收集轶事者；好谈轶事者=>do
+anecdotical=> [见上，-ical形容词后缀，…的] 轶事的，奇闻的，爱谈奇闻轶事的=>don
+dual=> [du双，二，-al形容词后缀，..的] 二重的，双的，二元的=>du
+dualism=> [见上，-ism表示性质，…论] 双重性，二元性，二元论=>du
+dualist=> [见上，-ist者] 二元论者=>du
+dualistic=> [见上，-istic形容词后缀，…的] 二元论的，二元的=>du
+duality=> [见上，-ity名词后缀，表示性质] 两重性，二元性=>du
+dualize=> [见上，-ize动词后缀，使…] 使具有两重性，使二元化=>du
+duplicate=> [du双，二，plic重复，重，-ate使…] 使成双，复制，复写；[-ate…的] 二重的，二倍的，复制的，副的；[转作名词] 复制品=>du
+duplication=> [见上，-ation名词后缀] 成双，成倍，复制，复制品=>du
+duplicity=> [见上，-icity表示性质] 二重性，口是心非，表里不一=>du
+duplex=> [du双，plex=(fold)重] 双重的，二重的=>du
+duel=> [du双，二] 两人决斗=>du
+duelist=> [见上，-ist者] 决斗者=>du
+duet=> [du双，二] 二重唱，二重奏=>du
+duettist=> [-ist者] 二重唱者，二重奏者=>du
+educate=> [e-出，duc引导，-ate动词后缀；“引导出来，”“把…由无知状态中引导出来”→教导出来] 教育=>duc
+education=> [见上，-ion名词后缀] 教育=>duc
+educable=> [见上，-able形容词后缀，可…的] 可教育的=>duc
+introduce=> [intro-入，duc引；“引入”] 引进，介绍=>duc
+introduction=> [intro-入，duct引，-ion名词后缀] 引进，介绍=>duc
+introductory=> [见上，-ory形容词后缀，…的] 介绍的，导言的=>duc
+conduct=> [con加强意义，duct引导，领导] 引导，指导，管理，经营=>duc
+conductor=> [见上，-or表示人] 指导者，管理者，（乐队等的）指挥，（电车等的）售票员；[duct引导→传导，-or表示物] 导体=>duc
+semiconductor=> [semi-半，conductor导体] 半导体=>duc
+misconduct=> [mis-误，错，conduct指导→办理] 办错，对…处理不当=>duc
+produce=> [pro-向前，duc引导；“向前引”→引出…来→制出，产生出] 生产，出产，制造，产生，引进=>duc
+product [见上] 产品，产物，产量，出产=>duc
+production=> [见上，-ion名词后缀] 生产，制造=>duc
+productive=> [见上，-ive形容词后缀，…的] 生产的，生产性的=>duc
+reproduce=> [re-再，produce生产] 再生产，再造，复制=>duc
+abduct=> [ab-离，去，duct引；“引去”] 诱拐，劫持=>duc
+abduction=> [见上，-ion名词后缀] 诱拐，动持=>duc
+abductor=> [见上，-or表示人] 诱拐者，拐子=>duc
+seduce=> [se-离，去，duc引；“引诱去”] 诱惑，诱使…堕落，勾引=>duc
+seducer=> [见上，-er者] 引诱者，勾引者=>duc
+seduction=> [见上，-ion名词后缀] 勾引，诱惑=>duc
+aqueduct=> [aque水，duct引导；“引导水流之物”] 导水管，引水渠，沟渠，高架渠=>duc
+viaduct=> [via道路，duct引导；“把路引导过去”] 高架桥，跨线桥，旱桥，栈道=>duc
+ventiduct=> [venti风，duct引导；“引导风的”管道] 通风管，通风道=>duc
+reduce=> [re-回，向后，duc引；“引回”，“向后引、”→退缩，减退] 减少，缩减=>duc
+reduction=> [见上，-ion名词后缀] 减少，减小，缩减=>duc
+reductor=> [见上，-or表示物] 减速器，减压器=>duc
+induce=> [in-加强意义，duc引→引诱] 引诱，诱使，诱导=>duc
+inducer=> [见上，-er表示人] 引诱者，诱导者=>duc
+inducement=> [见上，-ment名词后缀] 引诱，劝诱=>duc
+educe=> [e-外，出，duc引] 引出，推断出=>duc
+educible=> [见上，-ible形容词后缀，可…的] 可引出的，可推断出的=>duc
+edible=> [ed吃，-ible形容词后缀，可…的] 可以吃的，食用的=>ed
+edibility=> [ed吃，-ibility名词后缀，可…性] 可食性=>ed
+inedible=> [in-不，edible可吃的] 不可吃的，不适合食用的=>ed
+inedibility=> [见上] 不可食性=>ed
+edacious=> [ed吃，-acious形容词后缀，表示有…性质的，好…的] 贪吃的，狼吞虎咽的=>ed
+edacity=> [ed吃，-acity名词后缀，表示性质，情况] 贪吃，狼吞虎咽=>ed
+equal=> [equ相等，-al形容词后缀，…的] 相等的，平等的，相同的=>equ
+equality=> [见上，-ity名词后缀] 同等，平等，均等=>equ
+equalitarian=> [见上，-arian形容词后缀，…的] 平均主义的；[-arian表示人] 平均主义者=>equ
+equalitarianism=> [见上，-ism主义] 平均主义=>equ
+equalize=> [见上，-ize动词后缀，使…] 使相等，使均等，使平等=>equ
+adequate=> [ad-=to，equ相等，-ate形容词后缀，…的；“equal to”“与所需要的数量相等的”→能满足需要的] 足够的，充分的，适当的=>equ
+inadequate=> [in-不，见上] 不充足的，不适当的=>equ
+inadequacy=> [见上] 不充足，不适当=>equ
+equable=> [equ平，-able形容词后缀，…的] 平稳的，平静的=>equ
+equability=> [见上，-ability名词后缀] 平稳，平静=>equ
+equivalent=> [equ(i)相等，val=value价值，-ent…的] 等价的，相等的；[-ent表示物] 相等物，等值物，等价物=>equ
+equivalence=> [见上，-ence名词后缀] 相等，均等，相当，等价，等值=>equ
+equate=> [equ相等，-ate动词后缀，使…] 使相等，使等同=>equ
+equation=> [equ相等，-ation名词后缀] 平衡，均衡，平均，相等；（数学）等式=>equ
+equator=> [equ相等，-ator表示物；“均分地球为南北两半球的纬线”] 赤道=>equ
+equatorial=> [见上，-ial形容词后缀，…的] 赤道（附近）的=>equ
+equivocal=> [equ(i)相等，等同→两者均可，voc声音，语言，-al形容词后缀，…的；“…语作两种解释均可的”] 模棱两可的，双关的，多义的，含糊的，歧义的=>equ
+equivocate=> [见上，-ate动词后缀] 含糊其词，支吾=>equ
+equiangular=> [equ(i)相等，angular角的] 等角的=>equ
+equilateral=> [equ(i)相等，later边，-al…的] 等边的=>equ
+equidistance=> [equ(i)相等，distance距离] 等距离=>equ
+equity=> [equ平，ity名词后缀] 公平，公道=>equ
+equanimity=> [equ平，anim心神，-ity名词后缀；“心神平静”] 沉着，平静，镇定=>equ
+longevity=> [long长，ev年龄，寿命，ity名词后缀] 长寿，长命=>ev
+longevous=> [long长，ev寿命，-ous形容词后缀，…的] 长寿的，长命的=>ev
+medieval=> [medi中，ev时代，-al形容词后缀，…的] 中古时代的，中世纪的=>ev
+medievalism=> [见上，-ism表示性质，状态，情况] 中世纪精神（或特征，状态，风俗，信仰等）=>ev
+medievalist=> [见上，-ist表示人] 中世纪史专家，中世纪文化研究者=>ev
+primeval=> [preim最初，ev时期，al形容词后缀，…的] 早期的，原始的，远古的=>ev
+coeval=> [co-共同，ev时代，-al形容词后缀，…的] 同时代的，同年代的，同时期的；[-al名词后缀] 同时代的人（或物）=>ev
+coevality=> [见上，-ity名词后缀] 同时代，同年代，同期性，同年龄=>ev
+factory=> [fact作，制作，-ory名词后缀，表示场所，地点；“制作的场所”] 工厂，制造厂=>fact
+manufacture=> [manu手，fact作，制作；“用手制作”，古时生产用手操作] 制造，加工=>fact
+manufacturer=> [见上，-er表示人] 制造者，制造商，工厂主=>fact
+manufactory=> [见上，-ory表示场所] 制造厂，工厂=>fact
+benefactor=> [bene-好，fact做，-or表示人；“做好事者”] 施恩者，恩人，捐助者=>fact
+benefaction=> [见上，-ion名词后缀] 施恩，行善，善行，捐助物=>fact
+malefactor=> [male-恶，坏，fact做，-or者；“做坏事者”] 作恶者，坏分子，犯罪分子=>fact
+malefaction=> [见上，-ion名词后缀] 犯罪的行为，坏事=>fact
+factitious=> [fact做，itious形容词后缀，属于…的；“做作”出来的] 人为的，做作的，不自然的=>fact
+facsimile=> [fac做，simil相似；“作出相似的东西”，作出与原物相似之物] 摹写，摹真本=>fact
+facile=> [fac做，-ile形容词后缀，易…的] 易做到的，易得到的=>fact
+facility=> [见上，-ity名词后缀；“易做”] 容易，便利=>fact
+facilitate=> [见上， -ate动词后缀，使…] 使容易做，使容易，使便利，促进=>fact
+fact=> [fact做；“已经做出”的事] 事实=>fact
+factual=> [见上，-ual形容词后缀，…的] 事实的，实情的，真实的=>fact
+facture=> [fact作，制作，-ure名词后缀] 制作，制作法=>fact
+confer=> [con共同，一起，fer拿；把意见“拿到一起来”] 协商，商量，交换意见=>fer
+conference=> [见上，-ence名词后缀] 协商会，讨论会，会议，会谈，讨论=>fer
+differ=> [dif-分开，fer拿，持；“分开拿”，“分取”，“各持已见”，“各执一词”→互异] 不同，相异，意见不同=>fer
+difference=> [见上，-ence名词后缀] 相异，差别，差异，不同=>fer
+different=> [见上，-ent形容词后缀，…的] 不同的，相异的=>fer
+differential=> [见上，-ial形容词后缀，...的] 不同的，差别的，区别的=>fer
+differentiate=> [见上，-ate动词后缀，使…] 使不同，区分，区别=>fer
+differentiation=> [见上，-ation名词后缀] 区别，分别=>fer
+offer=> [of-向，向前，fer拿;’拿到前面来”] 提出，提供，奉献，贡献=>fer
+offering=> [见上，-ing名词后缀，表示行为，物] 提供，捐献物=>fer
+prefer=> [pre-先，fer拿，取;对某物’先取”，’先选”，宁愿’先要”某事物] 宁可，宁愿(选择)， 更喜欢…，偏爱…=>fer
+preferable=> [见上，-able形容词后缀，可…的] 更可取的，更好的=>fer
+preference=> [见上，-ence名词后缀] 优先，偏爱，优先权=>fer
+preferential=> [见上，-ial形容词后缀，…的] 代先的，优待的=>fer
+transfer=> [trans-越过，转过，fer拿;’拿过去”] 转移，传递，传输，转让=>fer
+transference=> [见上，-ence名词后缀] 转移，传递，转让=>fer
+floriferous=> [flor花，-i-，fer带有，-ous形容词后缀，…的] 有花的，多花的=>fer
+aquiferous=> [aqu水，-i-，fer带有，-ous形容词后缀，…的] 含水的=>fer
+cruciferous=> [cruc十字形，-i-，fer带有，-ous形容词后缀，…的]=>fer
+florist=> [flor花，-ist表示人] 种花者，花卉研究者=>flor
+floral=> [flor花，-al形容词后缀，…的] 花的，如花的=>flor
+florid=> [flor花，-id如…的] 如花的，鲜艳的，华丽的，绚丽的=>flor
+floridity=> [见上，-ity名词后缀] 绚丽，华丽=>flor
+floriculture=> [flor花，-i-，culture培养] 养花，种花，花卉，栽培，花艺=>flor
+floriculturist=> [见上，-ist表示人] 养花者，花匠，花卉，栽培家=>flor
+defloration=> [de-除去，去掉，毁掉，flor花，-ation名词后缀] 摘花，采花，奸污处女=>flor
+uniflorous=> [uni单独，一个，flor花，-ous形容词后缀，…的] 单花的=>flor
+multiforous=> [multi-多，flor花，-ous形容词后缀，…的] 有花的，多花的=>flor
+floret=> [flor花，-et表示小] 小花=>flor
+floriferous=> [flor花，-i-，fer带有，-ous形容词后缀，…的] 有花的，多花的=>flor
+effloresce=> [el出→开出，flor花，-esce动词后缀] 开花=>flor
+efflorescence=> [见上，-escence名词后缀] 开花，开花期=>flor
+flourish=> [flour花，-ish动词后缀;’如开花一样”] 繁荣，茂盛，兴旺，昌盛=>flor
+flourishing=> [见上，-ing形容词后缀，…的] 茂盛的，兴旺的，欣欣向荣的=>flor
+reflourish=> [re-再，见上] 再繁荣，再兴旺=>flor
+noctiflorous=> [nocti夜，flor花，-ous形容词后缀，…的] (植物)夜间开花的=>flor
+fluent=> [flu流，-ent形容词后缀，…的] 流动的，流畅的，(语言)流利的=>flu
+fluency=> [flu流，-ency名词后缀] 流利，流畅=>flu
+influence=> [in-入，flu流，-ence名词后缀;’流入”→波及→对周围事物产生影响] 影响，感动，势力;[转为动词] 感化，影响，对…有作用，左右=>flu
+influential=> [见上，-ial形容词后缀，…的] 有影响的，施以影响的=>flu
+uninfluential=> [un-不，无，见上] 不产生影响的，没有影响的=>flu
+influenza=> [见上，影响→感染] 流行性感冒=>flu
+confluent=> [con-共同，flu流，-ent形容词后缀，…的] 合流的，汇合的=>flu
+confluence=> [见上，-ence名词后缀] 合流，汇合，合流点，汇合处，汇流而成的河=>flu
+fluid=> [flu流，-id形容词后缀，…的] 流动的，流体的，液体的;[转为名词] 流体，液=>flu
+fluidity=> [见上，ity名词后缀] 流动性，流度=>flu
+refluent=> [re-回，反，flu流，-ent形容词后缀，…的] 倒流的，退潮的=>flu
+refluence=> [见上，-ence名词后缀] 倒流，逆流，回流，退潮=>flu
+defluent=> [de-向下，flu流，-ent形容词后缀，…的] 向下流的=>flu
+circumfluent=> [circum-周围，flu流，-ent形容词后缀，…的] 周流的，环流的=>flu
+effluent=> [ei-外，出，flu流，-ent形容词后缀，…的] 流出的，发出的=>flu
+superfluous=> [super-超过→过多，flu流，-ous形容词后缀，…的] 过剩的，多余的=>flu
+superfluity=> [见上，-ity名词后缀] 过剩，多余，奢侈=>flu
+superfluid=> [super-超，fluid流体] 超流体=>flu
+interfluent=> [inter-互相，flu流，-ent形容词后缀，…的] 交流的;[inter-中间，flu流，-ent形容词后缀，…的] 流在中间的=>flu
+flux=> [flux=flu流] 流，流出，流动，变动=>flu
+fluxion [见上，-ion名词后缀] 流动，流出物，变动=>flu
+fluxional=> [见上，-al形容词后缀，…的] 流动的，变动的=>flu
+afflux=> [af-表示to，flux流] 流向，流入=>flu
+reflux=> [re-回，反，flux流] 回流;倒流，逆流=>flu
+influx=> [in-入，flux流] 流入=>flu
+refuse=> [re-回，fus流;’流回”→倒灌，倒流→退回→不接纳] 拒绝，拒受=>fus
+refusal=> [见上，-al名词后缀] 拒绝=>fus
+confuse=> [con-共同，合，fus流;’合流”，’流到一处”→混在一起] 使混杂，混乱，混淆，使迷乱=>fus
+confusion=> [见上，-ion名词后缀] 混乱，混乱状态，骚乱=>fus
+transfuse=> [trans-越过，转移，fus流，注入;’转流过去”，’移注过去”] 移注，灌输，输(血)，给…输血(将某人血液移注于另一人) transfusion [见上，-ion名词后缀] 移注，输血=>fus
+infuse=> [in-入，内，fus流，灌注;’流入”] (向…)注入，灌输=>fus
+infuser=> [见上，-er表示物] 注入器=>fus
+infusion=> [见上，-ion名词后缀] 灌输=>fus
+diffuse=> [dif-分开，散开，fus流;’分开流”，’散开流”→到处流] 散开，传播，(使)散开，(使)扩散=>fus
+diffusion=> [见上，-ion名词后缀] 散开，扩散，弥漫，传布=>fus
+interfuse=> [inter-互相，fus灌，流;’互灌”，’互流”→合流] (使)混合，(使)融合，渗透=>fus
+interfusion=> [见上，-ion名词后缀] 混合，融合，渗透=>fus
+affusion=> [af-表示at，to，fus灌，注] 注水，注水法，灌水法=>fus
+perfuse=> [per-贯穿，全，fus流] 泼洒，灌注，使充满=>fus
+profuse=> [pro-向前，fus流，泻;’随意倾泻了的”，’流走了的”，流掉了的”] 浪费的，挥霍的，过多的，充沛的=>fus
+profusion=> [见上，-ion名词后缀] 浪费，奢侈，挥霍，丰富，充沛=>fus
+gradual=> [grad步，-ual形容词后缀，…的] 逐步的，逐渐的=>grad
+retrograde=> [retro-向后，grad步，行走;’向后走”] 后退，退步，逆行=>grad
+retrogradation=> [见上，-ation名词后缀] 后退，退步，逆行=>grad
+graduate=> [grad步，级，-u-，-ate动词后缀;’在学业上走完某一步”，’在学业上完成某一级”] 毕业;[转为] 毕业生=>grad
+graduation=> [见上，-ation名词后缀] 毕业=>grad
+undergraduate=> [under-低于，不够，不到，不足，graduate毕业生] 沿未毕业者，大学肄业生=>grad
+postgraduate=> [post-后，在…之后，见上] 大学毕业后的;研究生=>grad
+degrade=> [de-下，向下，grad步，走，级;’往下走”，’降级”] 下降，堕落，退化，使降级，贬黜=>grad
+degradation=> [见上，-ation名词后缀] 堕落，退化，降级，贬黜=>grad
+grade=> 等级，年级，级别，阶段，程度=>grad
+gradation=> [见上，-ation名词后缀] 等级，分等，分级=>grad
+upgrade=> [up上，grad步，级] 上升，升级，提升，上坡=>grad
+downgrade=> [down下，grad步，级] 降低，贬低，降级，下坡=>grad
+gradine=> [grad步，级→阶梯，-ine名词后缀] 阶梯的一级，阶梯座位的一排=>grad
+grammar=> [gram写，文字，m重复字母，-ar名词后缀;关于’文字的法则] 语法，文法=>gram
+grammarian=> [见上，-ian名词后缀，表示人] 语法学家，文法家=>gram
+grammatical=> [见上，-atical形容词后缀，…的] 语法的，属于语法上的=>gram
+diagram=> [dia-对穿，gram画;’上下左右对穿画线”] 图解，图表=>gram
+diagrammatic=> [见上，-atic形容词后缀，…的] 图表的，图解的=>gram
+telegram=> [tele远，gram写，文字;’从远方通过电波传来的文字”] 电报=>gram
+program=> [pro-在前面，gram写-书，表，单;’写在前面的说明文字”] 节目单，戏单，说明书，大纲，方案=>gram
+cryptogram=> [crypto隐，秘密，gram写，文字] 密码，密码文，暗记=>gram
+parallelogram=> [parallel平行的，gram图形;’对边平行的图形”] 平等四边形=>gram
+gram=> [gram写→刻写;在重量计上所’刻写”的一个符号→重量单位] 克(国际重量单位)=>gram
+kilogram=> [kilo-千，gram克] 千克，公斤=>gram
+gramophone=> [gram写→记录，-o-，phon声音;’记录声音”的仪器] 留声机=>gram
+phonogram=> [phon声音，-o-，gram文字] 音标文字，表音符号;唱片，录音片=>gram
+hologram=> [holo全，gram画，图形] 全息图=>gram
+seismogram=> [seismo地震，gram画，图形] 地震图=>gram
+electrocardiogram=> [elector电，cardi心，-o-gram图] 心电图=>gram
+photograph=> [photo光，影，graph写→记录;’把实物的影像录下来”] 照相，拍照，摄影，照片=>graph
+phototgraphy=> [见上，-y名词后缀] 摄影术=>graph
+autograph=> [auto-自己，grahp写;’自己写的”，亲自写的] 新笔，手稿=>graph
+geography=> [geo地，大地，graph写→论述，-y名词后缀;’关于大地的论述”] 地理学，地理=>graph
+biograph=> [bio生命，graph写，文字→论述，-y?名词后缀；’一人生平的记录”] 传记=>graph
+autobiography=>[auto-自己，biography传记] 自传=>graph
+ideograph=> [ideo意，graph写，文字] 表意文字，意符=>graph
+historiography=> [histori历史，-o-，graph写，编写] 编史工作=>graph
+orthography=> [ortho正，graph写，写字] 正字法=>graph
+monograph=> [mono-单一，一种，graph写，论述] 专题论文，专题著作=>graph
+pseudograph=> [pseudo-假，伪，graph写，文字→作品] 伪书，冒名作品=>graph
+polygraph=> [poly-多，graph写，写作，书写器] 多产作家，复写器=>graph
+micrograph=> [micro-微小，graph图形] 显微图，微观图=>graph
+macrograph=> [macro-宏大，graph图形] 宏观图，肉眼图=>graph
+seismograph=> [seismo地震，graph记录器] 地震记录仪=>graph
+barograph=> [baro重，压→气压，graph记录器] 气压记录器=>graph
+chronograph=> [chrono时，graph记录器] 记时器，录时器=>graph
+stereograph=> [setreo立体，graph画→图像→照片] 立体照片=>graph
+telegraph=> [tele远，graph写，文字;’从远方通过电波传来的文字”] 电报; [graph书写机] 电报机=>graph
+cyclograph=> [cyclo圆，graph画描器] 画圆器，圆弧规=>graph
+holography=> [holo-全，graphy描画，描记法] 全息摄影(术) graphics [graph画，图，-ics…学] 制图学，制图法=>graph
+progress=> [pro-向前，gress行走] 前进，进步=>gress
+progressive=> [见上，-ive形容词后缀，…的] 前进的，进步的=>gress
+progressist=> [见上，-ist表示人] 进步分子=>gress
+retrogress=> [retro-向后，gress行走] 后退，退步，退化=>gress
+retrogression=> [见上，-ion名词后缀] 倒退，退步，退化=>gress
+retrogressive=> [见上，-ive形容词后缀，…的] 后退的，退步的，退化的=>gress
+congress=> [con-共同，一起，gress走，来到;’大家走到一起来”→共聚一堂→开会→会议] (代表)大会，国会，议会=>gress
+congressional=> [见上] (代表)大会的，国会的，议会的=>gress
+congressman=> [见上] 国会议员=>gress
+aggress=> [ag-=at，to向，gress走;’走向”→来到→副近→闯来→进攻] 侵略，侵入，攻击=>gress
+aggression=> [见上，-ion名词后缀] 侵略，入侵=>gress
+aggressive=> [见上，-ive形容词后缀，…的] 侵略的=>gress
+aggressor=> [见上，-or表示人] 侵略者=>gress
+egress=> [e-外，出，gress行走] 出去，离去，外出=>gress
+egression=> [见上，-ion名词后缀] 出去，离去，外出=>gress
+ingress=> [in-入内，gress行走] 进入=>gress
+ingression=> [见上，-ion名词后缀] 进入=>gress
+transgress=> [trans超过，gress行走] 超过(限度、范围等)，越界，违反，犯法=>gress
+transgressor=> [见上，-or表示人] 犯法者，违反者=>gress
+digress=> [di-=dis-离开，gress行走;’离正道而行”] 离开主题，入歧路=>gress
+regress=> [re-回，向后，gress行] 退回，返回，退后，退步=>gress
+habitable=> [habit居住，-able形容词后缀，可…的] 可居住的=>habit
+habitant=> [habit居住，-ant表示人] 居住者=>habit
+habitation=> [habit居住，-ation名词后缀] 居住=>habit
+inhabit=> [in-表示in，habit居住] 居住于，栖居于=>habit
+inhabitable=> [见上，-able形容词后缀，可…的] 可居住的，可栖居的=>habit
+inhabitancy=> [见上，-ancy表示情况，状态] 居住，有人居住的状态=>habit
+inhabitant=> [见上，-ant表示人] 居民，住户，常住居民=>habit
+inhabitation=> [见上，?-ation名词后缀] 居住，栖居=>habit
+cohabit=> [co-共同，habit居住] (男女)同居，姘居=>habit
+cohabitant=> [见上，-ant表示人] 同居者=>habit
+conhabitation=> [见上，-ation名词后缀] 同居=>habit
+exhibit=> [ex-外，出，hibit拿，持;’拿出去”→摆出去给人看] 展出，展览，陈列，展示，显示=>hibit
+exhibition=> [见上，-ion名词后缀] 展览，展览会，展示=>hibit
+exhibitioner=> [见上，-er表示人] 展出者=>hibit
+exhibitor=> [见上，-or表示人] 展览会的参加者=>hibit
+inhibit=> [in-表示in，hibit持，握;’to hold in”，’to maintain in”] 阻止，禁止，抑制=>hibit
+inhibition=> [见上，-ion名词后缀] 阻止，禁止，抑制=>hibit
+inhibitor=> [见上，-or表示人或物] 阻止者，禁止者，抑制剂=>hibit
+prohibit=> [pro-向前，hibit持，握;’挡住”] 阻止，禁止=>hibit
+prohibition=> [见上，-ion名词后缀] 禁止，禁令=>hibit
+prohibitor=> [见上，-or表示人] 禁止者，阻止者=>hibit
+hospital=> [hospit客人，-al名词后缀;原义为接待’客人”的地方→接待’病客”的地方] 医院=>hospit
+hospitalize=> [见上，-ize动词后缀] 把…送入医院治疗=>hospit
+hospitable=> [hospit客人→待客，好客-able形容词后缀，…的] 好客的，招待周到的，殷勤的=>hospit
+hospitality=> [见上，-ality名词后缀] 好客的，殷勤=>hospit
+inhospitable=> [in-不，hospitable好客的] 不好客的，不殷勤的=>hospit
+inhospitality=> [见上] 不好客，不殷勤=>hospit
+idiom=> [idio特殊的，专有的;’特殊的语言”、’专用的语言”] 惯用语，方言，习语，成语=>idio
+idiomatic=> [见上，-atic形容词后缀，…的] 惯用语的，成语的=>idio
+idiot=> [idio特殊的;’特殊的人”→异予正常人的人] 傻子，痴人，白痴=>idio
+idiotic=> [见上，-ic形容词后缀，…的] 白痴的，愚蠢的=>idio
+idiocy=> [见上，-cy名词后缀] 白痴，极端愚蠢=>idio
+idiograph=> [idio个人的，专有的，graph写，文字，图形] 个人的签名，商标=>idio
+idiopathy=> [idio特殊的，自己的，pathy病] 特发病，自发病=>idio
+idiochromatic=> [idio个人的，自己的，chrom色，-atic形容词后缀，…的] 自色的，本色的=>idio
+peninsula=> [pen-相似，相近，似乎，insul岛，-a名词后缀;’和岛相似”，’似乎是一个岛”→不完全是一个岛] 半岛=>insul
+peninsular=> [见上，-ar形容词后缀，…的] 半岛的;[-ar名词后缀] 半岛的居民=>insul
+insular=> [insul岛，-ar形容词后缀，…的] 岛的，岛国的，岛民的，思想狭隘的，偏狭的=>insul
+insularism=> [见上，-ism表示特性] 岛国特性，狭隘性=>insul
+insularity=> [见上，-ity表示特性] 岛国性，孤立性，偏狭性=>insul
+insulate=> [insul岛→孤立→与外界隔绝，-ate动词后缀，使…;’使成岛状”→使孤立，使与…隔绝] 隔离，使孤立，使绝缘=>insul
+insulation=> [见上，-ation名词后缀] 隔绝，孤立，绝缘=>insul
+insulator=> [见上，-ator表示人或物] 隔绝者，绝缘体=>insu
+insulin=> [insul岛，-in名词后缀，表示’素”] 胰岛素=>insul
+exit=> [ex-出，外，it行走;’走出”，’向外走”] 出口，太平门，退出=>it
+initial=> [in-入，it走，-ial形容词后缀，…的;’走入”→进入→入门→开始] 开始的，最初的=>it
+initiate=> [见上，-ate动词后缀，使…] 使入门，开始，创始=>it
+initation=> [见上，-ation名词后缀] 开始，创始=>it
+initiative=> [见上，-ative形容词后缀，…的] 起始的，初步的=>it
+transit=> [trans-越过，it走;’to go across， to go over”] 通过，经过，通行，运送，过渡，转变=>it
+transitory=> [见上，-ory形容词后缀，…的;’走过的”，’经过的”→逝去的，消逝的] 瞬息即逝的，短暂的=>it
+transition=> [见上，-ion名词后缀] 过渡，转变=>it
+itinerary=> [it行走，→旅行，-ary形容词后缀，…的] 旅行的，旅程的，路线的;[-ary名词后缀] 旅程;路线，旅行指南=>it
+itinerate=> [it行走，-ate动词后缀] 巡游，巡回=>it
+circuit=> [cire圆，环，-u-，-it行] 环行，周线，电路，回路=>it
+circuitous=> [见上，-ous形容词后缀，…的] 迂回的，绕行的=>it
+sedition=> [sed=se离开，it走，-ion名词后缀;’走离”→离轨→越轨→越轨的言论或行动] 叛乱，暴动，煽动性的言论或行动=>it
+seditionary=> [见上，-ary表示人] 煽动叛乱者，煽动分子=>it
+seditious=> [见上，-ious形容词后缀，…的] 煽动性的，参与煽动的=>it
+project=> [pro-向前，ject掷] 抛出，投出，投掷，发射，射出;[投出→拿出，’提出一种设想”] 设计，计划，规则=>ject
+projection=> [见上，-ion名词后缀] 投掷，发射，投影，投影图，设计，规则=>ject
+projector=> [见上，-or表示人或物] 投射器，发射器，放映机，计划人，设计者=>ject
+projectile=> [见上，-ile表示物] 抛射体，射弹;[-ile形容词后缀，…的] 抛射的=>ject
+inject=> [in-入，ject投;’投入”→射入] 注入，注射=>ject
+injection=> [见上，-ion名词后缀] 注射=>ject
+injector=> [见上，-or表示人或物] 注射者，注射器=>ject
+reject=> [re-回，反，ject掷;’掷回”→不接受] 拒绝，抵制，驳回=>ject
+rejecter=> [见上，-er表示人] 拒绝者=>ject
+interject=> [inter-中间，ject投;’投入中间”] (突然)插入=>ject
+interjection=> [见上，-ion名词后缀] 插入，插入物;[插入句子中间的词] 感叹词，惊叹词=>ject
+subject=> [sub-在…之下，ject投;’投于某种管辖之下”] 使服从，使隶属，支配，统治;[转为’被统治的人”] 臣民，臣下;[在句子中属于支配，统治地位的词] (句子的)主语，主词=>ject
+subjection=> [见上，-ion名词后缀] 征服，臣服，隶属，服从=>ject
+subjective [见上，-ive形容词后缀，…的] 主语的，主词的，主观的=>ject
+object=> [ob-相对，相反，对面，ject投;’投放在对面(前面)之物”] 对象，目标，物体;[与主词(主词)相对者] 宾语，受词;[投向对立面] 反对，抗议=>ject
+objection=> [见上，-ion名词后缀] 反对=>ject
+objective=> [见上，object对象→客体→客观;-ive形容词后缀，…的] 客观的=>ject
+adjective=> [ad-表示to，ject投，-ive名词后缀;’投放在名词旁的词”] 形容词;[-ive形容词后缀，…的] 形容词的=>ject
+eject=> [e-出，ject掷，抛] 逐出，喷射，吐出，发出=>ject
+ejector=> [ab，离开，ject抛;’被抛弃的”] 卑我的，可怜的，凄惨的=>ject
+deject=> [de-下，ject投，抛;’抛下”→落下→使低落→使情绪低落] 使沮丧，使气馁=>ject
+dejected=> [见上，-ed形容词后缀，…的] 沮丧的，情绪低落的=>ject
+juvenile=> [juven年少，-ile形容词后缀，…的] 青少年的;[转作名词] 青少年=>juven
+juvenility=> [见上，-ility名词后缀] 年少，年轻=>juven
+juvenescence=> [juven年少，年轻，-escence名词后缀，表示逐渐形成某种状态] 变年轻，年轻=>juven
+juvenescent=> [见上，-escent形容词后缀，表示逐渐形成某种状态的] 由婴儿期向青年过渡的=>juven
+juvenilia=> [juvenile(e)少年，-ia名词后缀] 少年文艺读物;少年时代的作品=>juven
+rejuvenate=> [re-再，juven年轻，-ate动词后缀;’再年轻”] 返老还童，使返老还童，恢复活力=>juven
+rejuvenation=> [见上，-ition名词后缀] 返老还童=>juven
+rejuvenesce=> [见上，-esce动词后缀] 使返老还童，返老还童=>juven
+rejuvenescence=> [见上，-escence名词后缀] 返老还童=>juven
+rejvenescent=> [见上，-escent形容词后缀，…的] (使)返老还童的=>juven
+rejuvenator=> [见上，-ator表示人或物] (使)恢复青春活力的人(或物) =>juven
+elect=> [e-出，lect选;’选出”] 选举=>lect
+election=> [见上，-ion名词后缀] 选举=>lect
+elector=> [见上，-or表示人] 选举者，有选举权的人=>lect
+select=> [se-离开，分开，lect选] 挑选，选出，选择，选拔=>lect
+selection=> [见上，-ion名词后缀] 选择，选择物，选集，选品=>lect
+interllect=> [intel=inter中间，lect选;’从中选择”→‘能于其中择其善者”→选优择善的能力] 智力，力智，智慧=>lect
+intellectual=> [见上，-ual形容词后缀，…的] 有智力的;[转为名词] 有知识者，知识分子=>lect
+intelligence=> [见intellect，lig=lect选，-ence名词后缀] 智力，理解力，聪明=>lect
+intelligent=> [见上，-ent形容词后缀，…的] 理解力强的，聪明的=>lect
+intelligentsia=> [见上，-ia表示集合名词，总称] 知识界，知识分子(总称) collect [col-共同，一起，lect收集;’收到一起来”] 收集，聚集，集合=>lect
+collection=> [见上，-ion名词后缀] 收集，集合，收集物=>lect
+collective=> [见上，-ive形容词后缀，…的] 聚集的，集合的，集体的=>lect
+collectivism=> [见上，-ism主义] 集体主义=>lect
+elegant=> [e-出，leg-lect挑选，-ant形容词后缀，…的，’挑选出来的”，’众里挑一的”] 美好的，漂亮的，优美的，高雅的=>lect
+elegance=> [见上，-ance名词后缀] 漂亮，优美，雅致=>lect
+inelegant=> [in-不，elegant见上] 不雅的，粗俗的=>lect
+inelegance=> [见上，-ance名词后缀] 不雅，粗俗的=>lect
+eligible=> [e-出，lig=lect选，-ible形容词后缀，可…的] 有被选出资格的，符合被推选的条件的=>lect
+ineligible=> [in-不，无，见上] 无被选出资格的，不合格的=>lect
+neglect=> [neg-不，未，lect选，收;’未选取”，’未收取”→遗漏] 疏忽，忽视，忽略=>lect
+neglectful=> [见上，-ful形容词后缀，…的] 疏忽的=>lect
+negligence=> [见上，neglig=neglect(lig=lect)疏忽，-ence名词后缀] 疏忽，忽视，忽略=>lect
+negligent=> [见上，-ent形容词后缀，…的] 疏忽的，忽视的，不小心的=>lect
+elevate=> [e-出，lev举，-ate动词后缀;’举出”→举起] 抬起，举起，使升高=>lev
+elevator=> [见上，-or表示人或物] 升降机，电梯，起卸机，举起者，起重工人=>lev
+elevation=> [见上，-ion名词后缀] 提升，提高，高度=>lev
+elevatory=> [见上，-ory形容词后缀，…的] 举起的，高举的=>lev
+lever=> [lev举，-er表示物;’能举起重物之杆”] 杠杆=>lev
+leverage=> [见上，lever杠杆，-age表示抽象名词] 杠杆作用=>lev
+relieve=> [re-加强意义，live→lev举;’把压在…上面的东西举起”→使…减轻负担] 减轻，解除(痛苦等)，救济=>le
+relievable=> [见上，-able形容词后缀，可…的] z可减轻的，可解除的=>lev
+relief=> [见上，v→f] (痛苦、压迫等的)减轻，解除，免除，救济=>lev
+levitate=> [lev举，升，-it-，-ate动词后缀] (使)升在空中，(使)飘浮在空中=>lev
+levity=> [lev举，升，-ity名词后缀;’升起”→飘起→飘浮] 轻浮，轻率=>lev
+alleviate=> [al-加强意义，lev举，-i-，-ate动词后缀;’把压在上面的东西举起”→使减轻] 减轻(痛苦等)，缓和=>lev
+alleviation=> [见上，-ion名词后缀] 减轻，缓和=>lev
+alleviatory=> [见上，-ory形容词后缀，…的] 减轻痛苦的，起组缓和作用的=>lev
+liberate=> [liber自由，-ate动词后缀，使…;’使自由”] 解放，使获自由，释放=>liber
+liberation=> [见上，-ion名词后缀] 解放，释放=>liber
+preliberation=> [pre-前，以前，liberation解放] 解放前的=>liber
+postliberation=> [post-后，以后] 解放后的=>liber
+liberator=> [见上，-or者] 解放者，释放者=>liber
+liberty=> [liber自由，-ty名词后缀] 自由，自由权=>liber
+liberticide=> [liberty(y→i)自由，cid杀] 扼杀自由(者)，扼杀自由的=>liber
+liberal=> [liber自由，-al形容词后缀，…的] 自由的，自由主义的;Liberal(英国等的)自由党的=>liber
+liberalism=> [见上，-ism主义] 自由主义=>liber
+liberalist=> [见上，-ist主义] 自由主义者;[ist形容词后缀，…的] 自由主义的=>liber
+liberalize=> [见上，-ize动词后缀，使…化] (使)自由化，(使)自由主义化=>liber
+Liberia=> [liber自由，-ia名词后缀;意为’自由之国”] 利比里亚(非洲一国家名)=>liber
+linguist=> [lingu语言，-ist表示人] 语言学家=>lingu
+linguistie=> [见上，-ic形容词后缀，…的] 语言学的，语言的=>lingu
+linguistics=> [见上，-ics名词后缀，…学] 语言学=>lingu
+bilingual=> [bi-两，lingu语言，-al形容词后缀，…的] 两种语言的=>lingu
+bilingualist=> [见上，-ist表示人] 通晓两种语言者=>lingu
+bilingualism=> [见上，-ism表示行为或状况] 通晓两种语言，用两种语言=>lingu
+trilingual=> [tri-三，lingu语言，-al形容词后缀，…的] 三种语言的=>lingu
+multilingual=> [multi-多，lingu语言，-al形容词后缀，…的] 多种语言的，懂(或用)多种语言的=>lingu
+collingual=> [col-同，ligua语言，al形容词后缀，…的] (用)同一种语言的=>lingu
+Linguaphone=> [lingu语言，-a-，phone声音] 灵格风(一种运用唱片进行的口语训练)=>lingu
+literate=> [liter文字→识字，-ate名词后缀，表示人] 识字的人;[-ate形容词后缀，…的] 识字的，有文化的=>lite
+literacy=> [liter文字→识字，-acy表示情况，性质] 识字，有学问，有文化=>liter
+illiterate=> [it-不，literate识字的(人)] 不识字的，文盲的，不识字的人，无文化的人=>liter
+illiteracy=> [it-不，literacy识字] 不识字，文盲，未受教育，无知=>liter
+semiliterate=> [semi-半，literate识字的] 半识字的，半文盲的=>liter
+anti-illiteracy=> [anti-反，反对，illiteracy文盲] 扫除文盲=>liter
+literature=> [liter文字→由文字组成的→文章→文学，-ature=-ure名词后缀] 文学(作品) literary [liter文字→文章→文学，-ary形容词后缀，…的] 文学的=>liter
+literator=> [见上，-ator表示人] 文学家，文人，作家=>liter
+uniliteral=> [uni-单一，liter字母，-al形容词后缀，…的] 单字母的=>liter
+biliteral=> [bi-两个，见上] 两个字母(组成)的=>liter
+triliteral=> [tri-三个，见上] 三个字母的(词)=>liter
+transliteral=> [trans-转，换，liter字母，-ate动词后缀;’由一种字母转换成另一种字母”] 按照字母直译，音译=>liter
+transliteration=> [见上，-ion名词后缀] 按字母直译，音译=>liter
+obliterate=> [ob-离，去掉，liter字，字母→字迹，-ate动词后缀;’把字迹涂掉”] 涂抹，擦去，删除=>liter
+obliteration=> [见上，-ion名词后缀] 涂掉，涂抹，删除，灭迹=>liter
+literal=> [liter文字，-al形容词后缀，…的] 文字的，文字上的，字面的=>liter
+local [loc地方，-al形容词后缀，…的] 地方的，当地的，本地的=>loc
+localism [见上，-ism表示主义，语言] 地方主义，方言，士语=>loc
+dialogue=> [dia-对，相对，log言，说] 对话=>log
+dialogist=>[见上，-ist表示人] 对话者=>log
+eulogy=>[eu-美好，log言，-y名词后缀，’美言”] 赞美之词，颂词，赞扬=>log
+eulogize=> [见上，-ize动词后缀] 赞美，赞颂，颂扬=>log
+apology=> [apo-分开，离开，脱开，log言，说;’说开”→解说] 道歉，谢罪，辩解=>log
+apologize=> [见上，-ize动词后缀] 道歉，谢罪，辩解=>log
+prologue=> [pro-前，log言] 前言，序言=>log
+epilogue=> [epi-旁，外，log言，话;’正文以外的话”→正文后面的话] 结束语，后记，跋，闭幕词=>log
+epilogize=> [见上，-ize动词后缀] 作结束语=>log
+monologue=> [mono-单独，log言，说] (戏剧)独白=>log
+monologist=> [见上，-ist表示人] (戏剧)独白者=>log
+pseudology=>[pseudo-假，log言，话，-y名词后缀] 假话=>log
+neologism=> [neo-新，log言，词，-ism表示语言] 新语，新词=>log
+neologize=> [见上，-ize动词后缀] 使用新词，创造新词=>log
+antilogy=> [anti-反对，相反，log言;’相反之言”] 前后矛盾，自相矛盾=>log
+dyslogy=> [dys-恶，不良，log言;’恶言”] 非难，非议，指责，咒骂=>log
+logic=> [log语言→辩论→推理，论理，-ic名词后缀，表示…学] 逻辑=>log
+logical=> [见上，-al形容词后缀，…的] 逻辑的，符合逻辑的=>log
+illogical=> [il-不，见上] 不合逻辑的=>log
+philologist=> [philo爱好，log语言，-ist者] 语言学者=>log
+philology=> [见上，-y名词后缀] 语言学=>log
+eloquent=> [e-出，loqu说，-ent形容词后缀，…的;’说出的”，’道出的”→能说会道的] 有口才的，雄辩的，善辩的，有说服力的=>loqu
+eloquence=> [见上，-ence名词后缀] 雄辩，善辩，有口才=>loqu
+colloquial=> [col-共同，loqu说，-ial形容词后缀，…的] 口语的，会话的，白话的，用通俗口语的=>loqu
+colloquialism=> [见上，-ism表示语言] 俗语，口语，口语词=>loqu
+multiloquent=> [multi-多，loqu言，-ent形容词后缀，…的] 多言的=>loqu
+grandiloquent=> [grand大，-i-，loqu言，-ent形容词后缀，…的] 夸大的，夸张的=>loqu
+magniloquent=> [magni大，loqu言，-ent形容词后缀，…的] 大言的，夸张的=>loqu
+soliloquy=> [sol单独，独自，-i-，loqu言，-y名词后缀] 独白，自言自语=>loqu
+somniloquy=> [somn睡眠，-i-，loqu说，-y名词后缀;’睡梦中说话”] 梦语，梦呓，说梦话=>loqu
+obloquy=> [ob-反对，loqu言;’反对之言”] 大骂，诽谤=>loqu
+loquacious=> [loqu言，-acious形容词后缀，多…的] 多言的，饶舌的=>loqu
+loquacity=> [见上，-acity名词后缀，表示情况] 多话，过于健谈=>loqu
+lunar=> [lun月亮，-ar形容词后缀，…的] 月亮的，太阴的，似月的，新月形的=>lun
+semilunar=> [semi-半，lun月亮，-ar形容词后缀，…的] 半月形的，月牙形的=>lun
+demilune=> [demi-半，lun月亮] 半月，新月，弯月=>lun
+plenilune=> [plen满，全，-i-，lun月亮] 满月，望月，月满之时=>lun
+luniform=> [lun月亮，-i-，form如…形的] 月形的=>lun
+lunate=> [lun月亮，-ate形容词后缀，…的] 新月形的=>lun
+lunet=> [lun月亮，-et名词后缀，表示小] 小月=>lun
+lunitidal=> [lun月亮，-i-，tidal潮汐的] 月潮的，太阴潮的=>lun
+superlunar=> [super-上，在…之上，lun月亮，-ar形容词后缀，…的] 在月球上的，世外的，天上的=>lun
+sublunar=> [sub-下，在…之下，lun月亮，-ar形容词后缀，…的] 在月下的，地上的尘世的=>lun
+circumlunar=> [circum-周围，环绕，lun月亮，-ar形容词后缀，…的] 环月的，绕月的=>lun
+interlunar=> [inter-中间，…之间，lun月，-ar形容词后缀，…的;’介于新月与旧月之间的”，旧月已没，新月尚未出现之时] 无月期间的，月晦的=>lun
+translunar=> [trans-超过] 超过月球的，月球外侧的=>lun
+mansion=> [man居住，-sion名词后缀;’居住的地方”] 宅第，宅邸，大楼，大厦=>man
+manor=> [man居住，-or名词后缀] 庄园，庄园中的住宅=>man
+manorial=> [见上，-ial形容词后缀，…的] 庄园的=>man
+permanent=> [per-贯穿，从始至终，一直，man停留，-ent形容词后缀，…的;’一直停留下去的”] 永久的，常驻的，常设的=>man
+permanence=> [见上，-ence名词后缀] 永久，永久性=>man
+remain=> [re-再，main=man停留] 留下，逗留，继续存在下去，剩下，余留=>man
+remainder=> [见上，-er表示人或物] 留下的人;剩余物=>man
+remanent=> [见上，reman=remain留下，-ent形容词后缀，…的] 留下的，剩余的=>man
+immanent=> [im-内，man停留，留下，-ent形容词后缀，…的;’留在内里的”→存在于内的] 内在的，固有的=>man
+immanence=> [见上，-ence名词后缀] 内在(性)，固有(性)=>man
+manu=hand手(manu也作man)
+manuscript=> [manu手，script写] 手写本，手稿=>manu
+manufacture=> [manu手，fact做，制作;’用手做”] 制造，加工=>manu
+manufacturer=> [见上，-er表示人] 制造者，制造商=>manu
+manual=> [manu手，-al形容词后缀，…的] 手的，手工做的，用手的;[转为名词] 手册=>manu
+manumit=> [manu手，mit送，放;’to send forth by(or from) the hand”，”以手放出”] 释放，解放=>manu
+manumission=> [见上，miss=mit送，放，-ion名词后缀] 释放，解放=>manu
+manage=> [man=manu手;’以手操纵”，’以手处理”] 管理，掌管，处理=>manu
+manager=> [见上，-er表示人] 掌管者，管理人，经理=>manu
+manner=> [man=manu手→用手做→做事，行为;’the way of doing”] 举止，风度，方式，方法=>manu
+manacle=> [man=manu手，-acle名词后缀，表示小;’束缚手的小器械”] 手铐=>manu
+maintain=> [main→man手，tain持，握;’手持”，’握有”] 保持，保存，维持=>manu
+maintainable=> [见上，-able形容词后缀，可…的] 可保持的，可维持的=>manu
+maintenance=> [见上，ten=tain，-ance名词后缀] 保持，保存，保养，维修=>manu
+marine=> [mar海，-ine形容词后缀，…的] 海的，海上的.航海的=>mar
+mariner=>[见上，-er表示人] 海员，水手=>mar
+submarine=> [sub-在…下面，mar海，ine形容词后缀，…的] 海面下的，海底的，[转为名词;’潜入海面下之物”] 潜水艇=>mar
+supersubmarine=> [super-超，超级，submarine潜水艇] 超级潜水艇=>mar
+antisubmarine=> [anti-反，见上] 反潜艇的=>mar
+aeromarine=> [aero空中，航空，飞行，marine海上的] 海上飞行的=>mar
+transmarine=> [trans-越过，见上;’越过海的”] 来自海外的，海外的=>mar
+ultramarine=> [ultra-以外，见上] 在海那边的=>mar
+maritime=> [来自拉丁语maritimus，英语写作maritime] 海的，海上的，海事的，海运的，沿海的=>mar
+mariculture=> [mar海→水产，-i-，culture培养，养殖] 水产物的养殖=>mar
+marigraph=> [mar海，-i-，graph写，记录] 海潮记录仪，验潮计=>mar
+immediate=> [im-无，medi中间，-ate形容词后缀，…的;’没有中间空隙时间的”，’当中没有间隔的”] 立刻的，直接的=>medi
+medium=> [medi中间，-um名词后缀] 中间，中间物，媒介;[转为形容词] 中等的=>medi
+medial=> [medi中间，-al形容词后缀，…的] 中间的，中央的，居中的=>medi
+mediate=> [medi中间，-ate动词后缀] 居中调解，调停;[-ate形容词后缀，…的] 居间的，介于是中间的=>medi
+mediation=> [见上，-ion名词后缀] 居中调解，调解=>medi
+mediator=> [见上，-or表示人] 居中人;调解者，调停者=>medi
+mediacy=> [medi中间，-acy名词后缀] 中间状态，媒介，调停=>medi
+intermediate=> [inter-在…之间，medi中间] 中间的，居间的，居中调解，起调解作用=>medi
+medieval=> [medi中间，ev时代，-al形容词后缀，…的] 中古时代的，中世纪的=>medi
+mediterranean=> [medi中间，terr地，陆地，-anean=-an形容词后缀，…的，;’位于陆地中间的”] 地中的，被陆地包围的;[Mediterranean地中海]=>medi
+median=> [medi中间，-an形容词后缀，…的] 当中的，中央的;[转为名词] 中部，当中=>medi
+memory=> [memor记忆，-y表示情况，状态，行为] 记忆，记忆力，回忆，纪念=>memor
+memorize=> [memor记忆，-ize动词后缀，使…] 记住，熟记=>memor
+memorable=> [memor记忆，-able形容词后缀，可…的] 难忘的，值得纪念的=>memor
+memorial=> [memor记忆，-ial形容词后缀，…的] 记忆的，纪念的;[转为名词] 纪念物，纪念日，纪念碑，纪念仪式=>memor
+immemorial=> [im-不，无，memorial记忆的;’无法记忆的”] 无法追忆的，太古的，远古的=>memor
+memorandum=> [memor记忆，回忆，-andum=-and(-end)名词后缀，表示物;’以备回忆之物”，’something to be remembered”] 备忘录=>memor
+commemorate=> [com-加强意义，memor记忆→纪念，-ate动词后缀，做…事] 纪念=>memor
+commemoration=> [见上，-ion名词后缀，表示事物] 纪念，纪念会，纪念物=>memor
+commemorable=> [见上，-able形容词后缀，可…的] 值得纪念的=>memor
+commemorative=> [见上，-ative表示有…性质的] 纪念性的=>memor
+remember=> [re-回，再，member=memor记忆] 想起，回忆起，记得，记住=>memor
+rememberable=> [见上，-able形容词后缀，可…的] 可记得的，可记起的，可纪念的=>memor
+rememberance=> [见上，-ance表示情况，状态，行为] 回忆，记忆，记忆力=>memor
+misremember=> [mis-错，remember记住，记忆] 记错=>memor
+disremember=> [dis-不，remmber记得] 忘记=>memor
+emerge=> [e-外，merg沉，沉于水中;’由水中浮出”] 浮现，出现=>merg
+emergence=> [见上，-ence名词后缀] 浮现，出现=>merg
+emergent=> [见上，-ent形容词后缀] 浮现的，出现的，突然出现的，紧急的，意外的=>merg
+emergency=> [见上，-ency名词后缀] 突然出现的情况;突然事件，意外之变;紧急情况=>merg
+emersion=> [见上，-ion名词后缀] 突然出现的情况;突然事件，意外之变;紧急情况=>merg
+immerge=> [im-入内，merg沉] 沉入，侵入=>merg
+immerse=> [im-入内，mers沉] 沉浸=>merg
+imersible=> [见上，-ible形容词后缀，可…的] 可沉于水中的=>merg
+submerge=> [sub-下，merg沉] 沉下，沉于水中，没入水中=>merg
+submergence=> [sub-下，merg沉，-ence名词后缀] 沉没，浸没=>merg
+submergible=> [sub-下，merg沉，-ible形容词后缀，…的] 可沉入水中的=>merg
+submersed=> [sub-下，mers沉， -ed形容词后缀，…的;’沉在水下的”] 在水下的;[植物] 生于水下的，水生的=>merg
+submersible=> [sub-下，mers沉，-ible形容词后缀，...的] 可沉于水中的=>merg
+submersion=> [见上，-ion名词后缀] 沉没，没入，浸没=>merg
+demersal=> [de-向下，mers沉，-al形容词后缀，…的] 居于水底的=>merg
+emersed=> [e-外，出mers沉，-ed形容词后缀，...的;’由水中浮出的”] (水生植物等) 伸出水面的=>merg
+migrate=> [migr迁移，-ate动词后缀] 迁移，移居=>migr
+migration=> [migr迁移，-ation名词后缀] 移居外国，迁居=>migr
+migrant=> [migr迁移，-ant表示人或物] 迁移者，候鸟(随季节迁移的鸟) emigrate [e-外，出，migr迁移，-ate动词后缀] 移出，永久移居外国=>migr
+emigration=> [见上，-ation名词后缀] 移居，移民出境=>migr
+emigrant=> [见上，-ant表示人] 移居国外者，移民，移出者;[-ant形容词后缀，…的] 移出的，迁移的，移民的=>migr
+immigrate=> [in-入内，migr迁移，-ate动词后缀] 移居入境，(从外国)移来，移入=>migr
+immigration=> [见上，-ation名词后缀] 移入，移居，外来的，移民=>migr
+immigrant=> [见上，-ant表示人] 移入国内者，侨民，外来的移民;[-ant形容词后缀，…的] 移入国内的=>migr
+transmigrate=> [trans-转，migr迁移，-ate动词后缀] 移居(从一国或一地移到另一国或另一地) transmigration [见上，-ation名词后缀] 移居=>migr
+transmigrator=> [见上，-ator者] 移居者，移民=>migr
+intermigration=> [inter-互相，migr迁移] 互相迁移=>migr
+militia=> [milit兵，-is表示集合名词] 民兵组织，民兵(总称) military [milit兵，军人→军事，-ary形容词后缀，…的] 军事的，军用的，军队的=>milit
+militarism=> [见上，-ism主义] 军国主义=>milit
+militarist=> [见上，-ist表示人] 军国主义者，军事家=>milit
+militaristic=> [见上，-istic=-ic形容词后缀，…的] 军国主义的=>milit
+militarize=> [见上，-ize动词后缀，使…化] 使军事化，使军国主义化=>milit
+demilitarize=> [de-取消，非，见上] 使非军事化=>milit
+antimilitarism=> [anti-反对，militarism军国主义] 反军国主义=>milit
+militant=> [milit兵，→军事，战斗，-ant形容词后缀，…的] 战斗(性)的，好战的，交战中的=>milit
+militancy=> [见上，-ancy名词后缀，表性质、状态] 战斗性，好战，交战状态=>milit
+hypermilitant=> [hyper-超，极度，见上] 极度那战的=>milit
+minister=> [mini小，-ster名词后缀，表示人;’小人”→仆人→臣仆，古时大臣对君王自称为’小人”，仆人→君王或元首的仆人，转为现今的部长] 大臣，部长=>mini
+ministry=> [见上，minist(e)r，-y名词后缀] 部，内阁=>mini
+administer=> [ad-表示to，’执行大臣或部长的任务”] 管理，治理，执行，施政=>mini
+administration=> [见上，-ation名词后缀，表示行为或由行为面产生的事物] 管理，行政，行政当局，行政机关=>mini
+administrator=> [见上，-ator表示人] 行政官员，管理人=>mini
+administrative=> [见上，-ative形容词后缀，…的] 行政的，管理的=>mini
+minify=> [mini小，-fy动词后缀，使…] 使缩小=>mini
+minim=>[mini小] 微物，小量=>mini
+minimum=> [见上，-um名词后缀] 最小量=>mini
+minimize=> [见上，-ize动词后缀，使…的] 使缩到最小，使减到最少=>mini
+miniature=> [mini小，-ature名词后缀，表示物] 小型物，雏型，缩样;[转为形容词] 小型的=>mini
+minimal=> [见上，-al形容词后缀，…的] 最小的，最低限度的=>mini
+diminish=> [di-(=dis-)加强意义，min小，-ish动词后缀，使…] 使缩小，缩减，减少，减小=>mini
+diminishable=> [见上，-able形容词后缀，可…的] 可缩小的，可缩减的=>mini
+undiminishable=> [un-不，见上] 不可缩小的=>mini
+minor=> [直接来自拉丁语minor，意为small或less] 较小的，较少的，较年幼的，未成年人=>mini
+minority=> [见上， -ity名词后缀，表情况、性质] 少数，未成年=>mini
+minus=> [min小→减少，直接来自拉丁语minus] 减去，减号，负号，减去的，负的=>mini
+minute=> [min小→小部分，’一小时分出的六十个小部分”.比小时’小”的时间单位] 分，分钟，一分钟=>mini
+minute=> [min小，-ute形容词后缀，…性质的] 微小的，细微的=>mini
+mirror=> [mir惊奇，-or表示物;能映出影像，使人感到惊奇之物.最初人们对镜子能映出影像感到惊奇] 镜子=>mir
+admire=> [ad-加强意义，mir惊奇，惊异→惊叹] 赞赏，羡慕，赞美，钦佩=>mir
+admirable=> [见上，-able形容词后缀，可…的] 令人赞赏的，可钦佩的=>mir
+admirer=> [见上，-er表示人] 赞赏者，羡慕者=>mir
+admiration=> [见上，-ation名词后缀，表示行为、情况] 赞赏，羡慕，钦佩=>mir
+mirage=> [mir奇异→奇观，-age名词后缀，表示物] 奇景，幻景，海市蜃楼=>mir
+miracle=> [mir惊奇，奇异，-acle表示事物] 奇事，奇迹=>mir
+miraculous=> [见上，miracle+ous(…的)→miraculous] 像奇迹一样的，令人惊叹的=>mir
+missile=> [miss投掷，发射，-ile名词后缀，表示物] 投掷物，发射物，导弹，飞弹;[-ile形容词后缀，可…的] 可投掷的，可发射的=>miss
+dismiss=> [dis-离开，miss送;’送出”，打发走] 开除，免职，解散=>miss
+dismission=> [见上，-ion名词后缀] 开除，免职，解散=>miss
+mission=>[miss送，派送，委派，-ion名词后缀;’被派送(委派)出去者”] 使团，代表团，使命=>miss
+missionary=> [见上，-ary形容词后缀，…的] (被派遣出去)传教的;[转为名词] 传教士=>miss
+manumit=> [manu手，mit送出，放出;’以手放出’] 释入，解放=>miss
+manumission=> [见上，-ion名词后缀] 释放，解放=>miss
+remit=> [re-回，mit送;’送回”，’把钱发送回去”] 寄钱，汇款=>miss
+remittance=> [见上，t重复字母，-ance名词后缀] 汇款=>miss
+remittee=> [见上，-ee人] (汇票的)收款人=>miss
+transmit=> [trans-转，传，mit送，发] 传送，播送;发送=>miss
+transmission=> [见上，-ion名词后缀] 传送，发射，播送=>miss
+transmitter=> [见上，-er表示人和物] 传送者，发射机，发报机=>miss
+transmissible=> [见上，-ible形容词后缀，可…的] 能传送的，可发射的;可播送的=>miss
+intermit=> [inter-中间，mit投，送;’投入中间”，’中间插入”] 间歇，中断=>miss
+intermission=> [见上，-ion名词后缀] 中间休息，间歇，中断=>miss
+emissive=> [e-外，出，miss发，投-ive形容词后缀，…的] 发出的，发射的=>miss
+emission=> [e-外，出，miss发，-ion名词后缀] 发出，发射，散发=>miss
+emissary=> [e-出，miss送，派，-ary表示人] 派出的密使;间谍=>miss
+emit=> [e-出，mit发] 散发，放射;发行;发出=>miss
+immit=> [im-入内，mit投] 投入，注入=>miss
+immission=> [im-入内，miss投入，-ion名词后缀] 投入，注入=>miss
+promise=> [pro-前，先，mis(=miss)发;’事先发出”之言] 诺言，允诺=>mir
+compromise=> [见上，com-共同，promise诺言;a mutual promise to abide by a decision，’共同承诺”遵守一项决定] 妥协，和解=>miss
+commit=> [com-加强意义，mit送，委派] 委任，委派，把…交托给=>miss
+committee=> [见上，-ee表示人;’被委派的人”→被委派的一组人] 委员会=>miss
+commissary=> [见上，ary表示人] 委员，代表=>miss
+mobile [mob动，ile形容词兼名词后缀] 活动的，可动的，运动的，=>mob
+mobility [mob动，-ility形容词后缀，易…性] 易动性，运动性;变动性=>mob
+mobilize [见上，-ize动词后缀] 动员=>mob
+mobilization=> [见上，-ization名词后缀] 动员=>mob
+demobilize=> [de-相反;’与动员相反”] 使复员=>mob
+demobilization=> [见上] 复员=>mob
+immobile=> [im-不，mobile动的] 不动的，固定的=>mob
+immobility=> [见上] 不动性，固定性=>mob
+automobile=> [auto-自己，mob动;’自动车”] 汽车=>mob
+mob=> [mob动→动乱，暴动→暴动的人] 暴民;一群暴徒=>mob
+mobbish=> [见上，mob暴民，暴徒，-ish形容词后缀，…的] 暴徒般的，暴乱的=>mob
+mobocracy=> [见上，mob暴民，暴徒，-o-，cracy统治] 暴民政治，暴徒统治=>mob
+mobocrat=> [见上，-crat统治者] 暴民领袖，暴徒首领=>mob
+mobster=> [mob动→暴动，-ster表示人] 暴徒，匪徒=>mob
+mortal=> [mort死，-al形容词后缀，…的] 终有一死的，死的，临死的=>mort
+mortality=> [见上，-ity名词后缀，.表示性质] 必死性，死亡率=>mort
+immortal=> [im-不，mort死，-al形容词后缀，…的] 不死的，永生的，不朽的=>mort
+immortality=> [见上，-ity名词后缀，表示性质，情况] 不死，不朽，永存=>mort
+immortalize=> [见上，-ize动词后缀，使…] 使不朽，使不灭，使永存=>mort
+mortician=> [mort死，-ician做…职业的人] 承办殡葬的人=>mort
+mortuary=> [mort死→死尸，-u-，-ary表示场所，地点] 停尸室，殡仪馆=>mort
+postmortem [post-以后，…之后，mort死] 死的的=>mort
+motion=> [mot动，-ion名词后缀，表示行为，情况] 运动，动=>mot
+motive=> [mot动，-ive形容词后缀，…的] 发动的，运动的;[转为名词] 动机=>mot
+promote=> [pro-向前，mor移动;’使向前移动”] 推进，促进，提升，升级=>mot
+promotion=> [见上，-ion名词后缀，表示行为] 促进，推进，提升，升级=>mot
+promoter=> [见上，-er表示人] 促进者，推进者=>mot
+demote=> [de-向下，mot移动;’使向下移动”] 使降级=>mot
+demotion=> [见上，-ion名词后缀，表示行为] 降级=>mot
+remote=> [re-回，离mot移动;’移走的”，’removed to a distance”，远离的] 遥远的=>mot
+commotion=> [com-加强意义，mot动，-ion名词后缀，表示行为;’激烈的动荡”] 骚动，动乱=>mot
+locomotive [loc地方，-o-，mot移动，-ive形容词后缀，…的;’能由一个地方移动至另一个地方的”] 移动的，运动的;[转为名词，’能索引他物，由一地方移动至另一地方的机器”] 机车，火车头=>mot
+locomote=> [见上] 移动，行进=>mot
+motor=> [mot动，-or表示物] 发动机，机动车=>mot
+automotive=> [auto-自己，mot动，-ive形容词后缀，…的] 自动的，机动的=>mot
+motile=> [mot动，-ile形容词后缀，…的] (生物)能动的，有自动力的=>mot
+nominal=> [nomin名，-al形容词后缀，…的] 名义上的，有名无实的=>momin
+nominate=> [nomin名，-ate动词后缀，做…事] 提名，任命=>momin
+nomination=>[见上，-ation名词后缀，表示行为] 提名，任命=>momin
+nominator=> [见上，-ator…者] 提名者，任命者=>momin
+nominee=>[见上，-ee被…者] 被提名者=>momin
+denominate=> [de-加强意义，nomin名，-ate动词后缀，做…事] 给…命名=>momin
+denomination=> [见上，-ation名词后缀] 命名，名称=>momin
+ignominious=> [ig-=in-不，nomin名→名声，-ious形容词后缀，…的;’名声不好的”] 不名誉的，不光彩的，耻辱的=>momin
+ignominy=> [见上，-y名词后缀，表示性质，情况] 不名誉，不光彩，耻辱=>momin
+innominate=> [in-无，nomin名，-ate形容词后缀，…的] 无名的，匿名的=>momin
+novel=> [nov新，-el名词后缀，表示物;新→新奇，’新奇的事”→故事] 小说，长篇小说;新奇的=>nov
+novelist=> [见上，-ist表示人] 小说家，小说作者=>nov
+novelette=> [见上，-ette名词后缀，表示小，比长篇小说小(短)的] 中篇小说=>nov
+novelize=> [见上，-ize动词后缀，使成…] 使成小说，使小说化=>nov
+novelty=> [novel新奇的，-ty表示情况，事物] 新奇，新颖，新奇的事物=>nov
+novice=> [nov新，-ice表示人] 新手，初学者=>nov
+novation=> [nov新，-ation表示行为] 更新=>nov
+innovate=> [in-加强意义，-nov新，-ate动词后缀，使…，作…] 革新，创新=>nov
+innovator=> [见上，-or者] 革新者，创新者=>nov
+innovative=> [见上，-ive形容词后缀，…的] 革新的，创新的=>nov
+innovation=> [见上，-ation名词后缀，表示行为] 革新，创新，改革=>nov
+renovate=> [re-再，nov新，-ate动词后缀，使…;’使再新”] 更新，刷新，翻新，修复，革新=>nov
+renovation=> [见上，-ion名词后缀，表示行为] 更新，革新，翻新=>nov
+renovator=> [见上，-or者] 更新者，革新者，刷新者，修复者=>nov
+numeral=> [numer数，-al形容词后缀，…的] 数字的，示数的;[转为名词] 数字，(语法)数词=>numer
+numerable=> [numer数，-able可…的] 可数的，可计算的=>numer
+numerous=> [numer数，-ous形容词后缀，…的] 为数众多的，许多的=>numer
+numerate=> [numer数，-ate动词后缀，做…] 计算，计数，数=>numer
+numerator=> [numer数，-ator表示人或物] 计算者，计算器=>numer
+numerical=> [numer数，-ical形容词后缀，…的] 数字的，用数词表示的=>numer
+enumerate=> [e-出，numer数，-ate动词后缀，做…;’数出”] 数，点数，列举=>numer
+enumerable=> [见上，-able形容词后缀，可…的] 可点数的，可列举的=>numer
+enumeration=> [见上，-ation表示行为及行为的结果] 计数，列举，细目=>numer
+innumerable=> [in-无，不，numer数，-able形容词后缀，可…的] 数不清的，无数的=>numer
+denumerable=> [de-加强意义，numer数，-able形容词后缀，可…的] 可数的=>numer
+supernumerary=> [super-超，超出，numer数，-ary形容词后缀，…的;’超出定数之外的”] 额外的，多余的;[-ary表示人或物] 多余的人(或物)=>numer
+onymous=> [onym名，-ous形容词后缀，…的] 有名字的，署名的=>onym
+anonym=> [an-无，onym名] 匿名者，无名氏=>onym
+anonymous=> [an-无，onym名，-ous形容词后缀，…的] 无名的，匿名的=>onym
+anonymity=> [an-无，onym名，-ity名词后缀] 无名，匿名=>onym
+cryptonym=> [crypt隐，匿，onym名] 匿名=>onym
+homonymous=> [hom(o)同，onym名，-ous形容词后缀，…的] 同名的=>onym
+matronymic=> [matr母，onym名，-ic形容词后缀，…的] 取自母名的(名) patronymic [patr父，onym名，-ic形容词后缀，…的] 源于父名的(姓) pseudonym [pseud-假，onym名] 假名=>onym
+pseudonymous=> [pseud-假，onym名，-ous形容词后缀，…的] 假名的;用假名的=>onym
+pseudonymity=> [见上，-ity名词后缀] 使用假名=>onym
+synonym=> [syn-同，相同，onym名→单词的名称→单词;’意义相同的词”] 同义词，同义语=>onym
+synonymic=> [见上，-ic形容词后缀，…的] 同义的，同义词的=>onym
+synonymity=> [见上，-ity名词后缀] 同义=>onym
+antonym=> [ant-=anti相反，见上;’意义相反的词”] 反义词，反义字，反义语=>onym
+operate=> [oper工作，-ate动词后缀，做…] 工作，操作，运转，动手术=>oper
+operation=> [oper工作，-ation名词后缀，表示行为] 工作，操作，运转，(外科)手术=>oper
+operator=> [oper工作，操作，-ator者] 操作人员，(外科)施行手术者=>oper
+operative=> [oper工作，操作，-ative形容词后缀，…的] 工作的，操作的，手术的=>oper
+operable=> [oper工作，操作，-able形容词后缀，可…的] 可操作的，能施行手术治疗的=>oper
+operose=> [oper工作→劳动，出力，-ose形容词后缀，…的] 费力的，用功的，勤勉的=>oper
+inoperable=> [in-不，oper工作，操作→动手术，-able形容词后缀，能…的] 不能施行手术的的，不宜动手术的=>oper
+cooperate=> [co-共同，oper工作，-ate动词后缀，做…] 合作，协作=>oper
+cooperation=> [见上，-ation表示行为] 合作，协作=>oper
+cooperator=> [见上，-ator者] 合作者，合作社社员=>oper
+cooperative=> [见上，-ative形容词后缀，…的] 合作的，协作的，[转为名词] 合作社=>oper
+opera=> [oper工作→动作→表演，作戏→戏] 歌剧=>oper
+operatic=> [见上，-tic形容词后缀，…的] 歌剧的，歌剧式的=>oper
+orient=> [ori升起;原义为’太阳升起的地方”] 东方，东方的=>ori
+oriental=> [见上，orient东方，-al形容词后缀，…的] 东方的=>ori
+orientate=> [orient东方，-ate动词后缀，做…事] 指向东方，定方位，指示方向=>ori
+disorient=> [dis-离开，orient东方，方向] 使迷失方向(或方位) disorientate [见上-ate动词后缀] 不辩方向，迷向=>ori
+disorientation=> [见上，-ion名词后缀] 不辩方向=>ori
+reorientation=> [re-再，orientation定方向] 再定方向，重定方向=>ori
+origin=> [ori升→发生，发起→起源] 原始，起源，由来，出身=>ori
+original=> [见上，-al形容词后缀，…的] 起源的，原始的，最初的=>ori
+originate=> [见上，-ate动词后缀] 发起，发生，起源=>ori
+pacific=> [paci和平，-fic形容词后缀，…的] 和平的，太平的，平静=>paci
+pacify=> [paci和平，-fy动词后缀，使…的] 使和平，使平静，使平定，抚慰=>paci
+pacifier=> [见上，-er表示人] 平定者，平息者，抚慰者=>paci
+pacification=> [见上，-fication名词后缀，表示行为，情况] 平定，平息，绥靖，太平=>paci
+pacificator=> [见上，-ator者] 平定者=>paci
+pacifism=> [见上，-ism…主义] 和平主义，不抵抗主义=>paci
+pacifist=> [见上，-ist…主义者] 和平主义者，不抵抗主义者=>paci
+repacify=> [re-再，paciry平定] 再平定，再平息=>paci
+propel=> [pro-向前，pel推] 推进，推动=>pel
+propeller=> [见上，-er表示人或物] 推进者，推进器，螺旋桨=>pel
+propellent=> [见上，-ent形容词后缀，…的] 推进的;[-ent表示人或物] 推进物，推进者=>pel
+expel=> [ex-出，外，pel驱逐] 逐出，赶出，驱逐，开除=>pel
+expeller=> [见上，-er者] 逐出者，驱逐者=>pel
+expellee=> [见上，-ee被…的人] 被驱逐(出国)者=>pel
+expellable=> [见上，-able形容词后缀，可…的] 可逐出的=>pel
+expellant=> [见上，-ant形容词后缀，…的] 赶出的，驱除的=>pel
+repel=> [re-回，pel逐;’逐回”] 击退，反击，抵抗，防=>pel
+repellence=> [见上，-ence表示性质] 反击性，抵抗性=>pel
+repellent=> [见上，-ent形容词后缀，…的] 击退的，击回的，排斥的;[-ent表示物] 防护剂，防水布=>pel
+dispel=> [dis-分散，pel驱] 驱散=>pel
+compel=> [com-加强意义，pel驱逐，驱使;’驱之使做某事”] 强迫，迫使=>pel
+compellable=> [见上，-able可…的] 可强迫的=>pel
+comperller=> [见上，-er者] 强迫他人者，驱使别人者=>pel
+impel=> [im-加强意义，pel推] 推动，激励=>pel
+impeller=> [见上，-er表示人或物] 推动者，推动器=>pel
+depend=> [de-下，pend悬挂;’挂在他物下面”→依附于另一物体”] 依靠，依赖=>pend
+dependent=> [见上，-ent形容词后缀，…的] 依靠的，依赖的，不独立的，从属的=>pend
+dependence=> [见上，-ence名词后缀] 依靠，依赖=>pend
+dependency=> [见上，-ency名词后缀] 依赖，从属，属地，属国=>pend
+dependable=> [见上，-able形容词后缀，可…的] 可依赖的，可依靠的=>pend
+independent=> [in-不，depend依靠，-ent形容词后缀，…的] 独立的，自主的=>pend
+independence=> [见上，ence名词后缀，表示行为，情况] 独立，自主=>pend
+independency=> [见上，-ency=-ence] 独立，独立国=>pend
+interdepend=> [inter-相互，depend依赖] 互相依赖=>pend
+interdependence=> [见上，-ence名词后缀] 互相依赖=>pend
+interdependent=> [见上，-ent形容词后缀，…的] 互相依赖的=>pend
+pending=> [pend悬挂，ing形容词后缀，…的] 悬而未决的=>pend
+pendent=> [pend悬挂，-ent形容词后缀，…的] 悬空的，下垂的，悬而未决的;[-ent表示物] 悬垂物=>pend
+suspend=> [sus=sub下，pend悬，吊，挂，’挂起来”] 挂，悬，中止，暂停=>pend
+suspension=> [见上，-ion名词后缀，表示行为，情况] 悬挂，悬而不决，中止，暂停=>pend
+suspensive=> [见上，-ive形容词后缀，…的] 可悬挂的，可吊的=>pend
+append=> [ap-表示to，pend悬挂] 挂上，附加=>pend
+appendage=> [见上，-age名词后缀，表示物] 附加物，附属物=>pend
+impend=> [im-加强意义，pend悬挂] 悬挂;[悬在上面→悬在头上→事到临头] 即将发生，即将来临，逼近=>pend
+impending=> [ 见上，-ing形容词后缀，…的] 即将来临的，迫近的=>pend
+impendent=> [见上，-ent形容词后缀，…的] 悬挂的，即将发生的，逼近的=>pend
+dispense=> [dis-分散，pens称量;’分开称量物品的份量，进行分配”] 分配，分发，配发=>pend
+dispensary=> [见上， -ary表示场所，地点;’分配药品的地方”] 药房，配药处=>pend
+dispensation=> [见上，-ation名词后缀] 分配，分给，分配物=>pend
+dispenser=> [见上，-er表示人] 分配者，施与者，配药者，药剂师’[-er表示物] 分配器，配出器，自动售货机=>pend
+pensive=> [pen称量→衡量，权衡→思考，-ive形容词后缀，…的] 沉思的=>pend
+perpend=> [per-完全，十分，彻底，pend称量→衡量;’仔细称量”→仔细衡量”] 细思，思考，考虑=>pend
+ponder=> [pond→pend称量，-er动词后缀;称量→衡量，权衡→思量，思考] 深思，考虑，估量，衡量=>pend
+ponderable=> [见上，-able形容词后缀，可…的] 可衡量的，可估量的=>pend
+expend=> [ex-出，pend付钱;’把钱付出”] 花费，消费，用款=>pend
+expenditure=> [见上，-ture=-ure表示行为或行为的结果] 支出，消费，花费=>pend
+expendable=> [见上，-able形容词后缀，可…的] 可消费的=>pend
+expense=> [ex-出，pens付钱] 支出，花费，消费=>pend
+expensive=> [见上，-ive形容词后缀，…的] 花费的，花钱多的，昂贵的=>pend
+spend=> [s-为ex-或dis-的缩形，pend花费] 花钱，花费，消耗(时间) pension [pens付钱，-ion名词后缀，表示物;每年’付出的钱”] 年金，养老金，退休金=>pend
+pensioner=> [见上，-er者]领取养老金者=>pend
+compete=> [com-共同，pet追求;’共同追求”] 竞争，角逐，比赛=>pet
+competition=> [见上，-ition名词后缀，表示行为] 竞争，角逐，比赛=>pet
+competitive=> [见上，-itive形容词后缀，…的] 竞争的，比赛的=>pet
+competitor=> [见上，-itor表示人] 竞争者，比赛者=>pet
+appetite=> [ap-表示to向，pet追求→渴求，渴望] 欲望，食欲=>pet
+appetence=> [见上，-ence表示情况] 强烈的欲望，渴望=>pet
+appetent=> [见上，-ent形容词后缀，…的] 渴望的有欲望的=>pet
+appetizing=> [见上，-iz(e)+ing…的] 促进食欲的，开胃的=>pet
+petition=> [pet追求→请求，寻求，-ition表示行为] 申请，请求，请愿，请愿书=>pet
+petitionary=> [见上，-ary形容词后缀，…的] 请求的，申请的，请愿的=>pet
+petitioner=> [见上，-er者] 请求者，请愿者=>pet
+centripetal=> [centre中心，-i-，pet追求→趋向，-al形容词后缀，…的;’趋向中心的”] 向心的=>pet
+mircrophone=> [micro-微小，phon声音;’把微小声音放大的仪器”] 扩音器，麦克风，话筒=>phon
+telephone=> [tele远，phon声音;’由远处(通过电波)传来的声音”] 电话=>phon
+phone=> [telephone的缩略形式] 电话=>phon
+videophone=> [video电视，phone电话] 电视电话=>phon
+otophone=> [oto耳，phon声音] 助听器=>phon
+symphony=> [sym-共同→互相，?phone声音，音响，-y名词后缀，表示事物] 交响乐=>phon
+symphonic=> [见上，-ic形容词后缀，…的] 交响乐的=>phon
+phonetic=> [phon声音→语音，-etic形容词后缀，…的] 语音的=>phon
+phonetics=> [见上，-ics，…学] 语音学=>phon
+phonetist=> [见上，-ist表示人] 语音学家=>phon
+electrophone=> [electro电，phon声音] 电子乐器=>phon
+stereophone=> [stereo立体，phon声音] 立体音响=>phon
+gramophone=> [gram写→记录，-o-，phon声音;’记录声音”的仪器] 留声机=>phon
+phonology=> [phon音→音韵，-o-，logy，…学] 音韵学=>phon
+euphonious=> [eu-优美，好，phon音，-ious形容词后缀，…的] 声音好听的=>phon
+cacophonous=> [caco恶，phon音，-ous形容词后缀，…的] 音调不和谐的=>phon
+phonic=> [phon声音，-ic形容词后缀，…的] 声音的，语音的=>phon
+phonics=> [phon声音，-ics…学] 声学=>phon
+aphonia=> [a-无，phon声音，-ia名词后缀] 失音(症)=>phon
+dysphonia=> [dys困难，phon声音→发音] 发音困难=>phon
+polyphone=> [poly-多，phon声音] 多音字母，多音符号=>phon
+megaphone=> [mega大，’把声音扩大”的仪器] 扩音器，喇叭筒=>phon
+picture=> [pict绘，-ure名词后缀] 绘画，图画，画像;图片=>pict
+picturesque=> [见上，-esque形容词后缀，如…的] 如画的=>pict
+pictograph=> [pict绘→图形，-o-，graph写→文字] 象形文字=>pict
+pictographic=> [见上，-ic形容词后缀，…的] 象形文字的=>pict
+depict=> [de-加强意义，pict绘] 描绘，描述=>pict
+depicture=> [见上] 描绘，描述=>pict
+pictorial=> [pict画，-or，-ial形容词后缀，…的] 绘画的，图片的;[转为名词] 画报=>pict
+pictorialize=> [见上，-ize动词后缀] 用图画表示=>pict
+plenty=> [plen满→丰足，-ty表示情况，状态] 丰富，充足，大量=>plen
+plentiful [见上，-ful形容词后缀，…的] 丰富的，充足的，大量的=>plen
+plenitude=> [plen满，全，-itude表示情况，状态] 丰富，充足，完全，充分=>plen
+plenary=> [plen全，-ary形容词后缀，…的] 完全的，全部的，全体的=>plen
+plenum=> [plen满，全，-um表示抽象名词] 充满，充实，全体会议=>plen
+plenipotentiary=> [plen全，-i-，potent权力，权能，-i-，-ary表示人] 全权大使;[-ary形容词后缀，…的] 有全权的=>plen
+plenilune=> [plen满，-i-，lun月亮] 满月，望月.月满之时=>plen
+deplenish=> [de-非，相反，plen满，充满，-ish动词后缀，做…事;’与充满相反”的动作] 倒空，弄空，使空=>plen
+replenish=> [re-再，plen满，-ish动词后缀，使…] (再)填满，(再)装满=>plen
+replenisher=> [见上，-er者] (再)装满者，补充者=>plen
+complicate=> [com-加强意义，plic重叠，重复→多层，复杂，-ate动词后缀] 使复杂，变复杂;[-ate形容词后缀，…的] 复杂的=>plic
+complication=> [见上，-ation名词后缀] 复杂，混乱，纠纷=>plic
+complicated=> [见上，-ed形容词后缀，…的] 复杂的，难解的=>plic
+complicacy=> [见上，-acy名词后缀] 复杂，复杂性，复杂的事物=>plic
+explicate=> [ex-出，plic折叠→包藏→深藏→深度;’揭出深奥之处”，’tk unfold the meaning of”] 解释，说明=>plic
+explicable=> [见上，-able形容词后缀，可…的] 可解释的，可说明的=>plic
+explication=> [见上，-ation名词后缀] 解释，说明=>plic
+explicatory=> [见上，-atory形容词后缀，…的] 解释的，说明的=>plic
+supplicate=> [sup-下，plic折，-ate动词后缀;’向下折]→折下腰→弯下身→曲膝而求] 退求，哀求=>plic
+supplication=> [见上，-ation名词后缀] 恳求，哀求=>plic
+supplicatory=> [见上，-atory形容词后缀，…的] 恳求的，哀求的=>plic
+implicate=> [im-=in-内，plic=fold，-ate动词后缀;’to fold in”] 含有…意思;使卷入，使牵连=>plic
+implication=> [见上，-ation名词后缀] 含蓄，牵连=>plic
+duplicate=> [du双，二，plic重叠，重复，-ate使…] 使成双，复制，复写;[-ate形容词后缀，…的] 二重的，二倍的，复制的;[转为名词] 复制品=>plic
+duplication=> [见上，-ation名词后缀] 成双，成倍，复制，复制品=>plic
+duplicity=> [见上，-ity表示性质] 二重性，表里不一，口是心非=>plic
+multiplicate=> [multi-多，plic重叠，-ate，形容词后缀，…的] 多重的，多倍的，多样的=>plic
+multiplicity=> [见上，-ity表示性质] 多重性，多倍，多样，复杂=>plic
+postpone=> [post-后，pone放;’往后放”] 推后，推迟，延期=>pon
+antepone=> [ante-前，pon放;’往前放”] 移前=>pon
+component=> [com-共同，一起，pon放，-ent形容词后缀，…的;’放在一起的”→合在一起的] 合成的，组成的;[-ent表示物] 组成部份=>pon
+compound=> [com-共同，一起，poun=pon放;’放在一起的”] 混合的，化合的，混合物，化合物=>pon
+opponent=> [op-=ob-相反，相对，pon放置，-ent形容词后缀，…的;’置于相反位置上的”] 对立的，对抗的;[-ent表示人] 对手，敌手=>pon
+propone=> [pro-向前，pon放;’向前放”→向前垦出] 提出，提议，建立=>pon
+proponent=> [见上，-ent表示人] 提出者，提议者=>pon
+exponent=> [ex-出，外，pon放，摆，-ent形容词后缀，…的;’摆出来的”→摆明的] 说明的，讲解的;[-ent表示人] 说明者=>pon
+exponible=> [见上，-ible形容词后缀，可…的] 可说明的=>pon
+population=> [popul人民→居民，-ation名词后缀] 全体居民，人口=>popul
+populous=> [popul人民→居民，-ous形容词后缀，…的] 人口稠密的=>popul
+populate=> [popul人民，-ate动词后缀，使…，做…] 使人民居住于…中，使人口集中在…之中，移民于…=>popul
+repopulate=> [re-再，重新，见上] 使人民重新居住于…=>popul
+depopulate=> [de-除去，去掉，popul人民→人口，-ate动词后缀，使…] 使(某地)人口减少，减少人口=>popul
+depopulation=> [见上，-ation表示行为，情况] 人口减少=>popul
+popular=> [popul人民，民众→大众，-ar形容词后缀，…的] 人民的，大众的，大众化的，通俗的，大众喜欢的=>popul
+popularity=> [见上，-ity名词后缀，表示性质] 大众性，通俗性=>popul
+popularize=> [见上，-ize动词后缀，…化，使…] (使)大众经，(使)普及，推广=>popul
+popularizer=> [见上，-er者] 普及者，推广者=>popul
+popularization=> [见上，-ation表示行为] 普及，推广，通俗化=>popul
+unpopular=> [un-不，popular大众的，通俗的] 不通俗的，不流行的=>popul
+populace=> [popul人民→平民，-ace名词后缀] 平民，大众=>popul
+portable=> [port拿，带，-able形容词后缀，可…的] 可携带的，手提的=>port
+import=> [im-入，port拿，运;’拿进，运入”] 输入，进口=>port
+importation=> [见上，-ation名词后缀，表示行为] 输入，进口=>port
+reimport=> [re-再，见上] 再输入，再进口=>port
+export=> [ex-出，port运，拿;’运出去”] 输出，出口=>port
+exportation=> [见上，-ation名词后缀，表示行为] 输出，出口=>port
+reexport=> [re-再，见上] 再输出，再出口=>port
+transport=> [trans-转移，超过，由…到…，port运] 运送，运输=>port
+transportation=> [见上，-ation名词后缀，表示行为] 运送，运输，客运，货运=>port
+deport=> [de-离开，port运，送;’送离”，’送出去”] 驱逐出境，放逐=>port
+deportation=> [见上，-ation表示行为] 驱逐出境，放逐=>port
+deportee=> [见上，-ee被…的人] 被驱逐出境的人=>port
+report=> [re-回，port拿，带;’把消息、情况等带回来”] 报告，汇报=>port
+reportage=> [见上，-age表示行为，事物] 新闻报道，报告文学=>port
+portage=> [port运，-age表示行为，费用] 运输，搬运，运费=>port
+porter=> [port运→搬运，-er表示人] 搬运工人=>port
+support=> [sup=sub-下，port拿，持;’由下支撑”→使不倒下”] 支撑，支持，支援=>port
+supporter=> [见上，-er表示人] 支持者，支援者=>port
+portfolio=> [port拿，持，folio对折纸，对开本;’手持的对开本形之物] 公文夹，文件夹，公事包=>port
+sport=> [s-=dis-分开，离，port=carry;’to carry(or remove) oneself away from (one’s)work” ，自己由工作中分身出来，把自己从工作中解脱出来→使自己轻松一下] 娱乐，玩，运动=>port
+expose=> [ex-出，外，pos放，摆;’摆出来”→把…亮出来] 揭露，揭发，使暴露=>pos
+exposure=> [见上，-ure名词后缀] 揭露，揭发，暴露=>pos
+compose=> [com-共同，一起，pos放;’放在一起”→组合在一起] 组成，构成，创作=>pos
+composition=> [见上，-ition表示物;’构成的东西”，’创作出来的东西”] 作文，作品，乐曲=>pos
+preposition=> [pre-前，-pos放置，-ition表示物;’放在(名词)前面的词] 前置词，价词=>pos
+oppose=> [op-相反，相对，pos放置;’置于相反位置或立场”] 反对，反抗，对抗=>pos
+opposition=> [见上，-ition名词后缀，表示作为，情况] 反对，反抗，对立，相反=>pos
+opposite=> [见上，-ite形容词后缀，…的] 相反的，对立的，对面的=>pos
+dispose=> [dis-分开，pos放;’分开放置”，’分别摆设”] 布置，安排，配置，处理=>pos
+disposal=> [见上，-al名词后缀，表示行为，事情] 布置，安排，处理=>pos
+disposition=> [见上，-ition名词后缀] 布置，安排，处理=>pos
+propose=> [pro-向前，pos放置→呈;’向前呈”，’呈出”] 提出，提议，建议=>pos
+proposal=> [见上，-al名词后缀，表示事物，行为] 建议，提议，(建议等的)提出=>pos
+proposition=> [见上，-ation名词后缀] 建议，提议，提出=>pos
+pose=> [pos放置→摆放] 摆(好)姿势，摆样子，装腔作势=>pos
+posture=> [pos放置→摆放，-ture名词后缀;’摆出的姿势”] 姿势，姿态=>pos
+reposit=> [re-回，pos放;’放回去”] 保存，贮藏;[‘放回原处”] 使复位，使返回原处=>pos
+reposition=> [见上，-ion名词后缀] 贮藏，复位，回原处=>pos
+purpose=> [pur-(por-的变体)前面，pos放;’放在自己前面的…”,intention] 目的，意图，打算，意向=>pos
+position=> [pos放置，-ition名词后缀;’放置的地方”] 位置=>pos
+interpose=> [inter-中间，pos放置;’置于其中”] 插入，介入其中，干预=>pos
+transpose=> [trans-转换，改变，pos放置] 使互换位置，调换位置=>pos
+deposit=> [de-下，pos放;’放下”→存放] 寄存，存放，存款，储蓄=>pos
+depose=> [de-下，pos放;’往下放”→使降下] 罢…的官，废黜，免职=>pos
+deposition=> [见上，-ition名词后缀] 免职，罢官，废黜=>pos
+precious=> [preci价值，-ous形容词后缀，…的;’有价值的”] 宝贵的，珍贵的=>preci
+appreciate=> [ap-表示ar或to，preci价值，-ate动词后缀;’论价”] 评价，鉴赏，欣赏=>preci
+appreciation=> [见上，-ion名词后缀，表示行为] 评价，鉴赏，欣赏=>preci
+appreciative=> [见上，-ive形容词后缀，…的] 有评价能力的，有欣赏力的=>preci
+appreciator=> [见上，-or表示人] 评价者，欣赏者，鉴赏者=>preci
+depreciate=> [de-下→降下，preci价值，-ate动词后缀] 降低…的价值，跌价，贬值，轻视=>preci
+depreciation=> [见上，-ion名词后缀] 跌价，贬值，轻视=>preci
+depreciatory=> [见上，-ory形容词后缀，…的] 跌价的，贬值的，轻视的=>preci
+praise=> [prais=preci=price价值，评价;’称其有很高价值”，’给以很高评价”] 称赞，赞美，赞扬，颂扬=>preci
+punctuate=> [punct点，-u-，ate动词后缀] 加标点于，点标点=>punct
+punctuation=> [见上，-ation名词后缀] 点标点，标点法，标点符号=>punct
+punctate=> [punct点，-ate形容词后缀，…的] 缩成一点的，点状的=>punct
+punctual=> [punct点，-ual形容词后缀，…的;’着于一点的”→限于一点的→不偏不差的] 精确的，准确的，准时的=>punct
+punctuality=> [见上，-ity名词后缀] 准时，严守时刻=>punct
+punctum=> [punct点，-um名词后缀] 班点=>punct
+puncture=> [punct刺，-ure名词后缀] 刺，穿刺，刺痕;[转为动词] (用针)刺，刺破，刺穿=>punct
+puncturable=> [见上，-able形容词后缀，可…的] 可刺穿的=>punct
+acupuncture=> [acu针，puncture刺] 针刺，针刺疗法，针炙治疗=>punct
+compunction=> [com-加强意义，punct刺，-ion名词后缀;’良心受到刺痛”] 内疚，良心的责备，后悔=>punct
+compunctious=> [见上，-ious形容词后缀，…的] 内疚的，使内疚的，后悔的=>punct
+pungent=> [pung=punct(g→ct)刺，-ent形容词后缀，…的] (气味等)刺鼻的，刺激性的，辣的;(语言等)尖刻的辛辣的=>punct
+pungency=> [见上，-ency名词后缀] (气味等的)辛辣，刺激性;(语言等的)尖放刻，辛辣=>punct
+purify=> [pur纯净，-i-，-fy使] 使纯净，使洁净
+purifier=> [pur纯净，-i-，-fier使成…的人或物] 使洁净的人(或物) purification [pur纯净，-i-，-fication名词后缀，…化，化成…] 纯化，净化=>pur
+purity=> [pur纯净，-ity名词后缀，表示性质] 纯净，洁净，纯正=>pur
+impurity=> [im-不，见上] 不纯，不洁=>pur
+depurate=> [de-加强意义，pur洁净，-ate动词后缀，使成…] 使净化，净化，提纯=>pur
+depuration=> [见上，-ation名词后缀，表示行为，情况] 净化，提纯=>pur
+depurative=> [见上，-ative形容词后缀，…的] 净化的=>pur
+depurator=> [见上，-ator表示物] 净化剂，净化器=>pur
+depurant=> [见上，-ant表示物] 净化剂，净化器=>pur
+purism=> [pur纯净，-ism表示主义，流派] (艺术上的)纯粹派，纯粹主义=>pur
+Puritan=> [purit(y)清净，纯，-an表示人] 清教徒(基督教新教的一派)，[-an形容词后缀，…的] 清教徒的=>pur
+Puritanism=> [见上，-ism主义] 清教主义，清教徒的习俗和教义=>pur
+puritanize=> [见上，-ize使成…，变成…] (使)变成清教徒=>pur
+correct=> [cor-表示加强意义，rect正，直] 改正，纠正，正确的=>rect
+correction=> [见上，-ion名词后缀，表示行为，行为的结果] 改正，纠正，矫正，校正=>rect
+corrective=> [见上，-ive形容词后缀，…的] 改正的，纠正的，矫正的=>rect
+corrector=> [见上，-or者] 改正者，矫正者，校正者=>rect
+correctiude=> [见上，-itude名词后缀，表示情况，状态] (行为的)端正=>rect
+incorrect=> [in-不，correct正确的] 不正确的=>rect
+rectify=> [rect正，直，-i-，-fy使…，’使正”] 纠正，整顿=>rect
+rectification=> [见上，-fication名词后缀，表示行为] 纠正，整顿=>rect
+rectifier=> [见上，-fier使成…者] 纠正者，整顿者，矫正器=>rect
+rectitude=> [rect正，直，itude名词后缀，表示情况，状态，性质] 正直，正确，得寸笔直=>rect
+rectilineal=> [rect直，-i-，line线，-al形容词后缀，…的] 直线的，直线运动的=>rect
+rectangle=> [rect直，angle角;’直角的图形”] 矩形，长方形=>rect
+erect=> [e-出→向上，rect直] 直立的，垂直的，使竖直，使竖立=>rect
+erectile=> [见上，-ile形容词后缀，可…的] 可竖直的=>rect
+erection=> [见上，-ion名词后缀] 直立，竖直=>rect
+erective=> [见上，-ive形容词后缀，…的] 直立的，竖起的=>rect
+erector=> [见上，-or者] 树立者，建立者=>rect
+rectum=> [rect直，-um名词后缀，表示物] 直肠=>rect
+direct=> [di-=de-加强意义，rect正→矫正，纠正→指正，指导] 指示，指引，指挥，命令=>rect
+direction=> [见上，-ion名词后缀] 指示，指引，说明，指导;[批引的方位] 方向，方位=>rect
+directional=> [风上，-al形容词后缀，…的] 方向的，定向的=>rect
+director=> [见上，-or表示人] 指导者，处长，局长，主任，指挥，导演=>rect
+directress=> [见上，-ress表示女性] 女指导者，女指挥，女导演=>rect
+direct=> [di-=de加强意义，rect直→直接] 直接的=>rect
+directly=> [见上，-ly副词后缀，…地] 直接地=>rect
+indirect=> [in-不，非，direct直接的;’非直接的”] 间接的，迂回的=>rect
+indirectly=> [见上，-ly副词后缀，…地] 间接地=>rect
+indirection=> [见上，-ion名词后缀] 间接，迂回，兜圈子=>rect
+repture=> [rupt破，-ure名词后缀，表示情况，状态] 破裂，裂开，决裂;[转为动词] 使破裂，裂开=>rupt
+interrupt=> [inter-在…中间，rupt破→断] 中断，打断=>rupt
+interruption=> [见上，ion名词后缀] 中断，打断=>rupt
+disrupt=> [dis分开，rupt破裂] 分裂，瓦解，使崩裂=>rupt
+disruptive=> [见上，-ive形容词后缀，…的] 分裂的，瓦解的=>rupt
+disruption=> [见上，-ion名词后缀] 分裂，瓦解=>rupt
+bankrupt=> [bank=bench长凳，原指钱商用的长凳或台板，最初是作为钱商的柜台，rupt破，断;’钱商的柜台断了”→生意破产了] 破产的，破产者，使破产=>rupt
+bankruptcy=> [见上，-cy名词后缀，表示状态] 破产=>rupt
+corrupt=> [cor-表示加强意义，rupt破→坏→败坏，腐坏] 腐坏，腐烂，败坏，随落，腐败，使败坏;贪污的，腐败的=>rupt
+corruption=> [见上，-ion名词后缀] 败坏，腐坏，腐化，贪污=>rupt
+corruptible=> [见上，-ible易…的] 易腐坏的=>rupt
+corruptive=> [见上，-ive形容词后缀，有…作用的] 引起腐坏的=>rupt
+incorrupt=> [in-不，未，见上] 未腐蚀的，未败坏的，廉洁的=>rupt
+incorruptible=> [见上，-ible形容词后缀，易…的] 不易败坏的，不易腐蚀的=>rupt
+irrupt=> [ir-=in-入，内rupt破;’破门而入”] 闯入，侵入=>rupt
+irruption=> [见上，-ion名词后缀] 侵入，闯入，闯进=>rupt
+irruptive=> [见上，-ive形容词后缀，…的] 侵入的，闯进的=>rupt
+erupt=> [e-外，出，rupt破裂;’爆裂出来”] 爆发，喷出，冒出，喷发=>rupt
+eruption=> [见上，-ion名词后缀] 爆发，喷发，喷出物=>rupt
+eruptive=> [见上，-ive形容词后缀，…的] 爆发的，喷出的，喷发的=>rupt
+salary=> [sal(salt)盐，-ary名词后缀，表示物，原为古罗马士兵所领取的’买盐的钱”，作为生活津贴，由此转为’工资”] 薪金，工资=>sal
+salaried=> [见上，salary(y→i)，-ed形容词后缀，有…的] 有工资的，拿薪水的=>sal
+salad=> [sal盐，-ad名词后缀，表示物] 色拉，沙拉，一种用盐调拌的凉菜=>sal
+salify=> [sal盐，-i-，-fy动词后缀，使成…] 使成盐，使变咸=>sal
+salification=> [见上，-fication名词后缀] (化学)成盐作用=>sal
+saline=> [sal盐，-ine形容词后缀，…的] 含盐的，咸的;[转为名词] 盐湖，盐渍地，盐碱滩=>sal
+salinity=> [见上，-ity表示性质，情况] 含盐量，盐浓度，咸度=>sal
+salina=> [见上，-a名词后缀，表示物] 盐碱滩，盐沼区=>sal
+salt=>盐=>sal
+saltish=> [salt盐，ish略…的] 略有咸味的=>sal
+salty=> [salty盐，-y形容词后缀，…的，有…的] 盐的，含盐的，咸的=>sal
+saltern=> [salt盐，-ern表示场所，地点] (制)盐场=>sal
+desalt=> [de-除去，salt盐] 除去…的盐分，脱盐=>sal
+ascend=> [a-=ad-表示to，scend爬;’爬上”] 上升;登高，攀登=>scend
+ascendent=> [见上，-ent形容词后缀，…的] 上升的，向上的=>scend
+ascendancy=> [见上，-ency名词后缀;’升到高处”] 优势，支配地位=>scend
+ascension=> [见上，-ion名词后缀] 上升，升高=>scend
+ascensive=> [见上，-ive形容词后缀，…的] 上升的，使上升的=>scend
+ascent=> [见上，由ascend转成的名词] 上升，升高，登高=>scend
+reascend=> [re-再，ascend上升] 再上升，再升高=>scend
+descend=> [de-下，向下，scend爬] 下降，传下，遗传=>scend
+descender=> [见上，-er表示人和物] 下降者，下降物=>scend
+descendent=> [见上，-ent表示人;’传下来的人”] 子孙，后代，后裔=>scend
+descent=> [见上，由descend转成的名词] 下降，降下=>scend
+redescend=> [re-再，descend下降] 再下降=>scend
+condescend=> [con-表示加强意义，descend下降→卑→谦] 谦逊，俯就，屈尊=>scend
+condescension=> [见上，-ion名词后缀] 屈尊=>scend
+transcend=> [tran-=trans-越过，超，scend爬，攀行] 超出，超过，超越=>scend
+transcendency=> [见上，-ency名词后缀] 超越，卓越=>scend
+transcendent=> [见上，-ent形容词及名词后缀] 卓越的，卓越的人=>scend
+science=> [sci知→知识，-ence表示抽象名词;’系统的知识”] 科学=>sci
+scientist=> [见上，字母拼写改变’ce→t，ist表示人] 科学家=>sci
+scientific=> [见上，-i-，-fic形容词后缀，…的] 科学(上)的，符合科学规律的=>sci
+conscious=> [con-加强意义，sci知，知道，-ous形容词后缀，…的;’知道的”，感觉到的”’觉悟到的”] 意识到的，有意识的，自觉的=>sci
+consciousness=> [见上，-ness表示抽象名词] 意识，觉悟，知觉=>sci
+unconscious=>[un-无，不，见上] 无意识的，不知不觉的=>sci
+subconscious=> [sub-下，见上] 下意识的，潜意识的=>sci
+conscience=> [con-共同，完全，sci知，-ence名词后缀;’完成知道善恶是非之分”] 良心，道德心=>sci
+conscientious=> [见上，字母拼写改变;ce→t ，-ious形容词后缀，…的] 凭良心的，诚心的，认真的=>sci
+scient=> [sci知→知识，-ent形容词后缀，…的] 有知识的=>sci
+sciential=> [见上，-ial形容词后缀，…的] 知识的，产生知识的，有充分知识的=>sci
+omniscient=> [omni-全，sci知，-ent形容词后缀，…的] 全知的，无所不知的=>sci
+nescient=> [ne-无，sci知，-ent形容词后缀，…的] 无知的，缺乏知识的=>sci
+nescience=> [ne-无，sci知，-ence名词后缀] 无知，缺乏知识=>sci
+prescient=> [pre-先，预先，sci知，-ent形容词后缀，…的] 预知，先见=>sci
+prescience=> [见上，-ence名词后缀] 预知，先见=>sci
+pseudoscience=> [pseudo-假，science科学] 假科学，伪科学=>sci
+geoscience=> [geo地，地球，science科学] 地球科学=>sci
+second=> [sec跟随;’跟随第一个之后”] 第二;[一小时第一次分为六十分，’第二次”再各分为六十秒] 秒=>sec，sequ
+secondary=> [见上，-ary形容词后缀，…的] 第二的，第二位的，第二次的=>sec，sequ
+persecute=> [per-从头到尾，一直，sec跟随;’一直跟随”→追踪→追捕] 迫害=>sec，sequ
+persecution=> [见上，-ion名词后缀] 迫害=>sec，sequ
+persecutor=> [见上，-or者] 迫害者=>sec，sequ
+consecution=> [con-=together，sec跟随→相随，相连] 连贯，连续，一致=>sec，sequ
+consecutive=> [见上，-ive形容词后缀，…的] 连贯的，连续的=>sec，sequ
+sequence=> [sequ跟，随，随其后→接着，相连接，-ence名词后缀] 继续，连续，一连串=>sec，sequ
+sequent=> [见上，-ent形容词后缀，…的] 连续的，相继的=>sec，sequ
+sequential=> [见上，-ial形容词后缀，…的] 连续的，相继的=>sec，sequ
+consequence=> [con-=together，sequ跟随，随后，-ence名词后缀，表示事物;’随后发生的事”] 后果，结果=>sec，sequ
+consequent=> [见上，-ent形容词后缀，…的;随后发生的”] 随之发生的，必然的=>sec，sequ
+subsequence=> [sub-下面，后面，sequ跟随，-ence表示事物] 随后，后果，随后发生的事情=>sec，sequ
+subsequent=> [见上，-ent形容词后缀，…的] 随后的，继…之后的，后来的=>sec，sequ
+sequacious=> [sequ跟随，随从，-acious形容词后缀，…的] 盲从的=>sec，sequ
+sequacity=> [见上，-acity名词后缀，表示情况，性质] 盲从=>sec，sequ
+insect=> [in-入内，sect切，割;’切入”，’切裂”→昆虫躯体分节，节与节之间宛如’切裂”，’割断”之状，故名] 昆虫=>sect
+insectology=> [见上，-o-，logy…学] 昆虫学=>sect
+section=> [sect切，-ion名词后缀，表示行为及行为的结果] 切开，切断，切下的部分，一部分;[由大机关中’分割”出来的小机关] 科，处，组，股=>sect
+sectional=> [见上，-al形容词后缀，…的] 部分的=>sect
+sectile=> [sect切，-ile易…的，可…的] 可切开的=>sect
+bisect=> [bi-两，二，sect切;’切成两份”] 二等分，平分=>sect
+bisection=> [见上，-ion名词后缀] 二等分，平分=>sect
+trisect=> [tri-三，sect切] 把…分成三份，三等分=>sect
+trisection=> [见上，-ion名词后缀] 三等分，分成三份=>sect
+dissect=> [dis-分开，sect切] 切开，解剖，仔细分析=>sect
+dissection=> [见上，-ion名词后缀] 解剖，分析=>sect
+transect=> [tran-横越，sect切] 横切，切断，横断=>sect
+transaction=> [见上，-ion名词后缀] 横切面，横切=>sect
+vivisect=> [viv(i)活→活体，sect切→解剖] 解剖动物活体=>sect
+vivisection=> [见上，-ion名词后缀] 活体解剖=>sect
+resect=> [re-再，sect切] 切除=>sect
+resectable=> [见上，-able形容词后缀，可…的] 可切除的=>sect
+resection=> [见上，-ion名词后缀] 切除，切除术=>sect
+intersect=> [inter中间，sect切;’从中间切”] 横切，横断，和…交叉=>sect
+intersection=> [见上，ion名词后缀] 横断，交叉，交叉点，交叉路口=>sect
+secant=> [sec=sect割，-ant名词后缀] (数学)割线，正割=>sect
+cosecant=> [co-余，见上] (数学)余割=>sect
+sentiment=> [sent感觉→感情，情绪，-i-，-ment名词后缀] 感情，情绪，思想感情，意见=>sent
+sentimental=> [见上，-al形容词后缀，…的] 情感(上)的，伤感的，多愁善感的=>sent
+consent=> [con-同，共同，sent感觉→感觉→意识，意见;’共同的意见”] 同意，赞同=>sent
+consenter=> [见上，-er者] 同意者，赞同者=>sent
+consentient=> [见上，-i-，-ent形容词后缀，…的] 同意的，赞成的，一致的=>sent
+consentaneous=> [见上，consent同意，-aneous形容词后缀，…的] 同意的，一致的=>sent
+consensus=> [con-同，共同，sens感觉，认识，意见，-us名词后缀;’共同的认识”] 共识，意见一致=>sent
+consensual=> [见上，-ual形容词后缀，…的] (法律)经双方同意的=>sent
+dissent=> [dis-分开→不同，sent感觉→意见] 不同意，持不同意见，持异议=>sent
+dissension=> [见上，t→s，-ion名词后缀] 意见分歧，和各，争论，纠纷=>sent
+dissenter=> [见上，-er者] 不同意者，反对者，持异议者=>sent
+dissentient=> [见上，-i-.-ent形容词后缀，…的] 不同意的=>sent
+resent=> [re-相反，sent感觉，感情;’反感”] 对…不满，怨恨=>sent
+resentful=> [见上，-ful形容词后缀，…的] 不满的，忿恨的=>sent
+resentment=> [见上，ment名词后缀] 不满，忿恨，怨恨=>sent
+presentiment=> [pre-先，预先，sent感觉，-i-，-ment名词后缀] 预感=>sent
+sense=> [sens感觉，-ible形容词后缀，可…的] 能感觉到的，可觉察的=>sent
+sensibility=> [sens感觉，-bility名词后缀，…性] 敏感性，感受性，感觉(力)，触觉=>sent
+sensitive=> [sens感觉，-itive形容词后缀，…的] 敏感的，神经过敏的=>sent
+sensation=> [sens感觉，-ation名词后缀] 感觉，知觉=>sent
+sensational=> [见上，-al形容词后缀，…的] 感觉的=>sent
+sensory=> [sens感觉，-ory形容词后缀，…的] 感觉的=>sent
+senseless=> [sense感觉，-less无…的] 无感觉的，无知觉的，无意义的=>sent
+nonsense=> [non-无，sense感觉，意识→意义;’无意义”的话] 胡说，废话，胡闹=>sent
+insensible=> [in-无，不，sensible感觉的] 无感觉的，失去知觉的=>sent
+insensitive=> [in-无，sens感觉，-itive形容词后缀，…的] 感觉迟钝的=>sent
+hypersensitive=> [hyper-过于，sens感觉，-itive形容词后缀，…的] 过敏的=>sent
+oversensitive=> [over-过于] 过分敏感的=>sent
+sentitize=> [sens感觉，-it-，-ize使…] 使敏感，变敏感=>sent
+desensitize=> [de-除去，消除，见上] 使不敏感，使脱敏=>sent
+desensitization=> [见上，-ation名词后缀，表示情况，状态] 脱敏(现象) desensitizer [见上，-er表示物] 脱敏药，脱敏剂=>sent
+extrasensory=> [extra-超，sens感觉，-ory形容词后缀，…的] 超感觉的=>sent
+assent=> [as-=to，sent感觉→意识，意见;’go join one’s sentiment or opinion to another’s”(使自己的意见与别人的意见统一起来)] 同意，赞同，赞成=>sent
+assentation=> [见上，-ation名词后缀] 赞同，随声附和=>sent
+assentor=> [见上，-or表示人] 同意者，赞成者=>sent
+assentient=> [见上，-i-，-ent形容词后缀，…的] 同意的，赞成的=>sent
+sentence=> [sent感觉，-ence名词后缀;表达一种感觉或意义的一组单词] 句子=>sent
+sensual=> [sens感觉，-ual形容词后缀，…的] 感觉的，肉感的=>sent
+sensuous=> [sens感觉，-uous形容词后缀，…的] 感官方面的，感觉上的=>sent
+preside=> [pre-前，sid坐;开会时’坐在前面主要位置上”→主持会议] 作会议的主席，主持，指挥，统辖=>sid
+president=> [见上，-ent表示;’指挥者”，”统辖者”→首脑] 总统，大学校长，会长，总裁=>sid
+presidential=> [见上，-ial形容词后缀，…的] 总统(或校长)的，总统(或校长)职务的=>sid
+presidium=> [见上，-ium名词后缀] 主席团=>sid
+reside=> [re-后，sid坐，’to sit back”→to stay behind，留下来，安顿下来→住下] 居住=>sid
+resident=> [见上，-ent表示人] 居民;[-ent形容词后缀，…的] 居住的，居留的=>sid
+residence=> [见上，-ence名词后缀] 居住，住宅，住处，住处，公馆=>sid
+residential=> [见上，-ial形容词后缀，…的] 居住的，住宅的=>sid
+subside=> [sub-下，sid坐;’坐下”→沉下] 沉降，沉淀;[‘坐下”→落下→沉静下来，平静下来] 平息=>sid
+subsidence=> [见上，-ence名词后缀] 沉降，沉淀，平息=>sid
+dissidence=> [dis-分开，sid坐，-ence名词后缀;’与别人分开坐”→与别人不致→持相反意见] 意见不同，不一致，不同意，异议=>sid
+dissident=> [见上，-ent表示人] 不同意的人，持异议的=>sid
+assiduous=> [as-=ad-，表示at，sit坐，-uous的;’能坐下来坚持工作的”] 刻苦的，勤奋的=>sid
+resist=> [re-相反，反对，sist立;’to stand against”] 反抗，抵抗，对抗=>sist
+resistance=> [见上，-ance名词后缀] 抵抗，反抗=>sist
+resistant=> [见上，-ant形容词后缀，…的] 抵抗的’[-ant表示人] 抵抗者=>sist
+resistible=> [见上，-ible形容词后缀，可…的] 可抵抗的，抵抗得住的=>sist
+consist=> [con-共同，一起，sist立;’立在一起”] 组合在一起→共同组成] 由…组成=>sist
+assist=> [as-表示at，sist立，’立于一旁”] 帮助，援助，辅助=>sist
+assistance=> [见上，-ance名词后缀] 帮助，援助，辅助=>sist
+exist=> [ex-外，出(在x后省略s)ist=sist立;’to stand forth”→to emerge，to appear] 存在=>sist
+existence=> [见上，-ence名词后缀] 存在，存在物=>sist
+existent=> [见上，-ent形容词后缀，…的] 存在的=>sist
+insist=> [in-加强意义，sist立;’坚定不移”] 坚决主张，坚持=>sist
+insistence=> [见上，-ence名词后缀] 坚决主张，坚持=>sist
+persist=> [per-贯穿，从头到尾，自始至终，sist立] 坚持，持续=>sist
+persistence=> [见上， -ence名词后缀] 坚持，持续=>sist
+persistent=> [见上，-ent形容词后缀，…的] 坚持的，持续的=>sist
+sonic=> [son声音，-ic形容词后缀，…的] 声音的，音速的=>son
+supersonic=> [super-超，son声音，ic形容词后缀，…的] 超音速的=>son
+subsonic=> [sub-亚，次，son声音，-ic形容词后缀，…的] 亚音速的=>son
+stereosonic=> [stereo-立体，son声音，-ic形容词后缀，…的] 立体声的=>son
+unison=> [uni单一，son声音;’同一声音”] 同音，齐唱，一致，调和=>son
+unisonant=> [见上，-ant形容词后缀，…的] 同意的，一致的=>son
+dissonant=> [dis-分开→不同，son声音，-ant形容词后缀，…的;’不同声音的”] 不和谐的，不一致的=>son
+dissonance=> [见上，-ance名词后缀] 不和谐，不一致=>son
+resonant=> [re-回，son声音，-ant形容词后缀，…的] 回声的，反响的=>son
+resonate=> [见上，-ate动词后缀] 回声，反响，共鸣，共振=>son
+resonator=> [见上，-or表示物] 共鸣器，谐振器=>son
+ultrasonic=> [ultra-超，son声音，-ic形容词后缀，…的] 超声的，超音速的;[转作名词] 超声波=>son
+sonics=> [son声音，-ics…学] 声能学=>son
+spectacle=> [spect看，-acle名词后缀，表示物;’观看的东西”] 光景，景象，奇观，壮观=>spect
+prospect=> [pro-向前，spect看;’向前看”] 展望，期望，前景=>spect
+prospective=> [见上，-ive形容词后缀，…的] 盼望中的，未来的=>spect
+retrospect=> [retro-向后，spect看;’向后看”] 回顾，追溯=>spect
+retrospection=> [见上，-ion名词后缀] 回顾，追溯=>spect
+retrospective=> [见上，-ive形容词后缀，…的] 回顾的，追溯的=>spect
+inspect=> [in-内，里，spect看;’向里面仔细看”] 检查，审查=>spect
+inspection=> [见上，-ion名词后缀] 检查，审查=>spect
+inspector=> [见上，-or表示人] 检查员=>spect
+expect=> [ex-外，(在x后省略s)pect=spect看;’向外望”] 盼望，期待，期望=>spect
+expectation=> [见上，-ation名词后缀] 盼望，期待，期望=>spect
+expectant=> [见上，-ant形容词后缀，…的] 盼望的，期待的;[-ant者] 期待者=>spect
+respect=> [re-再，重复，spect看;’再看”，’重复地看”→重视，看重] 尊重，尊敬=>spect
+respectable=> [见上，-able形容词后缀，可…的] 可敬的，值得尊敬的=>spect
+respectful=> [见上，-ful形容词后缀，…的] 尊敬人的，恭敬的=>spect
+suspect=> [sus-=sub-下，(s)pect看;’由下看”→偷偷地看，斜眼看] 怀疑，猜疑，疑心=>spect
+suspectable=> [见上，-able形容词后缀，…的] 可疑的=>spect
+suspicious=> [见spect→spic，-ious形容词后缀，…的] 多疑的，可疑的，疑心的=>spect
+suspicion=> [见上，-ion名词后缀] 怀疑，疑心，猜疑=>spect
+introspect=> [intro-向内，spect看] 内省，进行自我反省=>spect
+conspectus=> [con-共同，全，spect看，-us表示物’’全看到”→总览] 一览表，大纲，概况=>spect
+circumspect=> [circum-周围，四周，spect看;’向四周细看”] 谨慎的，小心的，慎重的，仔细的=>spect
+aspect=> [a-=ad-表示to，spect看→外观] 面貌，外表=>spect
+spectate=> [spect看，-ate动词后缀] 出席观看=>spect
+spectator=> [spect看，-ator表示人] 旁观者，观众=>spect
+conspicuous=> [con-共同，spic(-spect)看，-uous形容词后缀，…的;’共同看见的”→大家都能看见的，有目共睹的] 明显的，显著的，惹人注目的=>spect
+specious=> [spec=(spect)看，ious形容词后缀，…的;’中看的”] 外表美观的，华而不实的=>spect
+perspective=> [per-透过，spect看] 透视，透视的，透视图，透镜=>spect
+special=> [spec(=spect)看→外观，形状，形象;-ial形容词后缀，…的;容易被’看”出的，外观明显的，形状特别醒目的] 特殊的，特别的=>spect
+speciality=> [见上，-ity名词后缀] 特性，特质，特长，专业=>spect
+specialist=> [见上，-ist表示人;’特殊的人”有特别专长的人] 专家=>spect
+specialize=> [见上，-ize动词后缀] 特别指出，专门研究，专攻=>spect
+specially=> [见上，-ly副词后缀] 特别地，专门地=>spect
+specific=> [见上，-ific=-fic形容词后缀，…的] 特有的，特定的，明确的=>spect
+specifically=> [见上，-ally副词后缀，…地] 特别地，尤其=>spect
+especial=> [e-加强意义，special特别的] 特别的，特殊的=>spect
+especially=> [见上，-ly副词后缀，…地] 特别地，尤其，格外=>spect
+speculate=> [spec(=spect)看，-ul，-ate动词后缀;看→观察，观测→推测→思考] 思索，沉思，推测，投机=>spect
+speculation=> [见上，-ation名词后缀] 思索，沉思，推测，投机=>spect
+speculator=> [见上，-or表示人] 思索者，推测者，投机者=>spect
+specimen=> [spec(-spect)看，-i-，men名词后缀;’给人看的东西] 样品，样本，标本=>spect
+conspire=> [con-共同，spir呼吸;’共呼吸”→互通气息] 共谋，同谋，阴谋，密谋策划=>spir
+conspirator=> [见上，-ator表示人] 共谋者，阴谋家=>spir
+conspiracy=> [见上，-acy名词后缀，表示行为] 共谋，同谋，阴谋，密谋=>spir
+inspire=> [in-入，spir呼吸;’吸入”，吸气，注入→注入勇气，注入生气] 鼓舞，激励，吸入，使生灵感=>spir
+inspiration=> [见上，-ation名词后缀，表示行为及行为结果] 鼓舞，激励，吸气，灵感=>spir
+expire=> [ex-出，(s)pir呼吸，’呼出气体”] 呼气，吐气;[呼出最后一口气] 断气，死亡，终止=>spir
+expiration=> [见上，-ation名词后缀，表示行为] 吐气，断气，死亡，告终=>spir
+respire=> [re-再，spir呼吸] (尤其连续地)呼吸=>spir
+respiration=> [见上，-ation名词后缀] 呼吸，呼吸作用=>spir
+respirator=> [见上，-ator表示物] 呼吸器，防毒面具，防尘口罩=>spir
+spirit=> [spir呼吸，-it名词后缀;呼吸→气息，the breath of life] 精神，心灵，灵魂=>spir
+spiritual=> [见上，-ual形容词后缀，…的] 精神(上)的，心灵的=>spir
+dispirit=> [di-=dis-取消，除掉spirit精神;’使失去精神”→使失去勇气] 使气馁，使沮丧=>spir
+perspire=> [per-贯穿，透过，spir呼吸;’呼透”→由手孔呼出] 出汗，排汗=>spir
+perspiration=> [见上，-ation名词后缀] 排汗=>spir
+perspiratory=> [见上，-atory形容词后缀，…的] 排汗的=>spir
+aspirate=> [a-加强意义，spir呼吸，-ate动词后缀;’呼气→送气] 发送气音;[转作名词] 送气音=>spir
+tailor=> [tail切割→剪裁，-or表示人;剪裁者] 裁缝，成衣工，成衣商=>tail
+tailoress=> [见上，-ess表示女性] 女裁缝，女成衣工=>tail
+detail=> [de-加强意义，tail切;’切碎的”，由整体切碎细分而成的部分] 细节，细目，详情，零件=>tail
+detailed=> [见上，-ed形容词后缀，…的] 细节的，详细的=>tail
+retail=> [re-再，tail切;’再切”→切碎→细分→由整变零] 零售，零卖，零售的=>tail
+retailer=> [见上，-er表示人] 零售商=>tail
+contain=> [con-共同，tain握，持’to hold together，to hold within fixed limits”] 容纳，包含，内装=>tain，tan，tin
+container=> [见上，-er表示物] 容器，集装箱=>tain，tan，tin
+obtain=> [ob-加强意义，tain握，持;’to get hold of by effort”] 取得，得到，买到=>tain，tan，tin
+obtainable=> [见上，-able形容词后缀，可…的] 可获得的，可取得的，可买到的=>tain，tan，tin
+sustain=> [sus-=sub-下，tain握，持;’在下面支持”] 支持，支撑，维持，供养=>tain，tan，tin
+sustenance=> [见上，ten=tain，-ance名词后缀] 支持，维持，供养，粮食，食物=>tain，tan，tin
+tenant=> [ten持，握→握有，占有，-ant者;’房屋、田地等的占有者”] 房客，承租人，租户，佃户=>tain，tan，tin
+tenancy=> [见上，-ancy表示行为，情况] 租赁，租用，租佃=>tain，tan，tin
+maintain=> [main=man手，tain握，持;’to hold in the hand， to keep up，to uphold”] 保持，保存，维持，坚持，供养=>tain，tan，tin
+maintainable=> [见上，-able形容词后缀，可…的] 可保持的，可维持的=>tain，tan，tin
+maintenance=> [见上，ten=tain，-ance名词后缀] 保持，维持，坚持=>tain，tan，tin
+tenable=> [ten持，握，守，保有，-able形容词后缀，可…的] 可保持的，可防守的，守得住的=>tain，tan，tin
+tenacious=> [ten握，持，执，守，-acious形容词后缀，…的] 紧握的，坚持的，固执的，顽强的=>tain，tan，tin
+tenacity=> [见上，-acity名词后缀，表示性质] 紧握，坚持，固执，顽强=>tain，tan，tin
+abstain=> [abs-=ab-离(from)，tain握，持，守;’go hold(or keep) oneself from”] 戒，避免，避开=>tain，tan，tin
+abstention=> [见上，ten=tain，-tion名词后缀] 戒，避免，避开=>tain，tan，tin
+continue=> [con-共同，一起，tin退，持;’把前后各种事物保持在一起”→使连在一起，使相连] 连续，继续，使连续，使继续=>tain，tan，tin
+continuation=> [见上，-ation名词后缀] 连续，继续，持续，继续部分=>tain，tan，tin
+continued=> [见上，-ed形容词后缀，…的] 连续的，继续的=>tain，tan，tin
+continent=> [con-共同，一起，tin握，持，-ent表示物;’保持连在一起的陆地”] 大陆，陆地，大洲=>tain，tan，tin
+continental=> [见上，-al形容词后缀，…的] 大陆的，大陆性的=>tain，tan，tin
+detect =>[de-除去，取消，tect掩盖;’除去掩盖”→揭露秘密→查明真相] 侦查，侦察，发觉=>tect
+detection=> [见上，-ion名词后缀] 侦查，侦察，察觉=>tect
+detective=> [见上，-ive形容词后缀，…的] 侦探的，侦察的;[-ive表示人] 侦察=>tect
+detectaphone=> [detect侦察，-a-，phone电话] 侦听电话机，侦听器，窃听器=>tect
+protect=> [pro-前面，tect掩盖;’在前面掩护”] 保护=>tect
+protection=> [见上，-ion名词后缀] 保护，护卫，防护物=>tect
+protectionism=> [见上，-ism主义] 保护(贸易)主义=>tect
+protective=> [见上，-ive形容词后缀，…的] 保护的，防护的=>tect
+protector=> [见上，-or表示人或物] 保护者，保护器=>tect
+unprotected=> [un-无，protect保护，-ed形容词后缀，…的] 无掩护的，没有防卫的，未设防的=>tect
+telecontrol=> [tele远，control控制] 远距离控制，遥控=>tele
+telescope=> [tele远，scop镜] 望远镜=>tele
+telephone=> [tele远，phon声音;’由远处通过电波传来的声音”] 电话=>tele
+telegram=> [tele远，gram写，文字] 电报=>tele
+telegraph=> [见上，graph写，文字] 电报，电报机=>tele
+television=> [tele远，vis看，-ion名词后缀;’由远处通过电波传来可观看的图象”] 电视=>tele
+televisor=> [见上，-or表示人或物] 电视广播员，电视接收机=>tele
+teleview=> [见上，-view看] 收看电视=>tele
+telecourse=> [tele电视，course课程] 电视课程=>tele
+telecast=> [tele电视，cast播] 电视广播=>tele
+telefilm=> [tele电视，film影片] 电视影片=>tele
+teleplay=> [tele电视，play剧] 电视(广播)剧=>tele
+telescript=> [tele电视，script稿] 电视广播]稿，电视剧本=>tele
+teleset=> [tele电视，set装置，设备] 电视机=>tele
+telepaper=> [tele电传，paper报纸] 电传传真报机=>tele
+teleprinter=> [tele电传，printer印字机] 电传打字电报机=>tele
+teletype=> [tele电传，type打字机] 电传打字电报机，电传打字电报=>tele
+telephoto=> [tele远，photo相片] 远距离照相的，传真照片=>tele
+teleswitch=> [tele远，switch开关] 遥控开关，遥控键=>tele
+telemeter=> [tele远，meter测量仪] 遥测仪，测远仪=>tele
+temporary=> [tempor时，-ary形容词后缀，…的;’?lasting for a time only”] 暂时的，临时的=>tempor
+contemporary=>[con-同，tempor时→时代，-ary形容词后缀，…的] 同时代的，同龄的，当代的;[-ary表示人] 同时代的人，同年龄的人=>tempor
+contemporize=> [con-同，tempor时，-ize动词后缀] 同时发生，使同时发生=>tempor
+contemporaneous=> [con-同，tempor时，-aneous形容词后缀，…的] 同时期的，同时代的，同时发生的=>tempor
+contemporaneity=> [见上，-aneity名词后缀，表示性质] 同时代性，同时发生性，同时期性=>tempor
+extempore=> [ex-外，tempor时，时间;’在规定时间之外的”→不在计划时间之内的] 临时的，即席的，当场的，无准备的=>tempor
+extemporize=> [见上，-ize动词后缀，作…] 临时作成，即席发言，即席演奏=>tempor
+extemporization=> [见上，-ization名词后缀，表示行为] 即席创作，即席发言=>tempor
+extemporaneous=> [见上，-aneous形容词后缀，…的] 临时的，当场的，无准备的=>tempor
+extemporary=> [见上，-ary形容词后缀，…的] =extemporaneous temporal [tempor时间，-al形容词后缀，…的] 时间的，(语法)时态的，短暂的=>tempor
+temporize=> [tempor时，-ize动词后缀，做…] 顺应时势，迎合潮流;(为争取时间面)拖延，应付=>tempor
+extend=> [ex-外，出，tend伸] 伸出，伸开，扩大，扩展，扩张=>tend
+extension=> [见上，tens=tend，-ion名词后缀] 伸展，扩大，扩展=>tend
+extensible=> [见上，-ible形容词后缀，可…的] 可伸展的，可扩大的，可扩张的=>tend
+extensive=> [见上，伸展→面积扩大→广阔，-ive形容词后缀，…的] 广阔的，广泛的=>tend
+attend=> [at-表示to向，tend伸;’to stretch one’s mind to”，’把精神或心思伸向…’] 注意，关心，出席=>tend
+attention=> [见上，tent=tend，-ion名词后缀] 注意，关心，注意力=>tend
+attentive=> [见上，-ive形容词后缀，…的] 注意的=>tend
+contend=> [con-共同，一起，tend伸→伸取→追求;’与…一起伸取某物”，’与…共同追求某物”] 竞争，斗争=>tend
+contention=> [见上，-ion名词后缀] 竞争，斗争=>tend
+tendency=> [tend伸，-ency名词后缀，表示情况，性质;’伸向”→倾向] 趋向，倾向，趋势，倾向性=>tend
+tendentious=> [见上，-entious(=-ent+ious)…的] 有倾向性的=>tend
+tent=> [tent伸;能够’伸开(张开)”的东西(如皮革，帆布等)，用作掩盖，庇护之用] 帐篷，账棚=>tend
+extent=> [ex-出，tent伸;伸开→广阔] 广度，宽度，长度，一大片(地区) intense [in-加强意义，tens伸，伸展→拉紧，绷紧] 紧张的，强烈的，剧烈的=>tend
+intensify=> [见上，-fy动词后缀，使…] 加剧，加强=>tend
+intensification=> [见上，-fication名词后缀，…化] 强化，增强，加紧=>tend
+intension=> [见上，-ion名词后缀，表示情况，性质] 紧张，强度=>tend
+intensive=> [见上，-ive形容词后缀，…的] 加强的，深入的=>tend
+tension=> [tens伸→绷紧，-ion名词后缀] 拉紧，绷紧，紧张，张力=>tend
+hypertension=> [hyper-超过，tension张力，拉力;’血的压力过高”] 高血压=>tend
+tense=> [tens伸，伸开→拉紧] 拉紧的，绷紧的，紧张的=>tend
+tensible=> [见上，-ible形容词后缀，可…的] 可伸展的，可拉长的=>tend
+tensity=> [见上，ity名词后缀，表示情况，性质] 紧张，紧张度=>tend
+distend=> [dis-散开，tend伸，扩] (使)扩张，(使)膨胀，(使)肿胀=>tend
+distension=> [见上，-ion名词后缀] 扩张，膨胀(作用)=>tend
+tend=> [tend伸;’把注意力伸向某人或某事”] 照料，照管，护理，服侍=>tend
+tendance=> [见上，-ance名词后缀] 服侍，照料，看护=>tend
+tend=> [tend伸;’伸”] 走向，趋向，倾向=>tend
+protend=> [pro-向前，tend伸;’向前伸”] (使)伸出，(使)伸展，(使)延伸=>tend
+protensive=> [见上，protens=protend，-ive形容词后缀，…的] 伸长的，延长的，延长时间的=>tend
+portend=> [por-=pro-前，tend伸;’伸到前面”→出现在前面，(某种情况或事物)出现在…之前] 预示，预兆，作为…的兆头=>tend
+portent=> [见上，tent=tend;出现在…之前的情况或事物] 预兆，不详之兆=>tend
+portentous=> [见上，-ous形容词后缀，…的] 预兆的，不详之兆的=>tend
+pretend=> [pre-前，tend伸→伸开→摆开;’在别人面前摆出某种姿势或样子”] 假装，佯装，装作=>tend
+pretense=> [见上，名词] 假装，做作，藉口=>tend
+intend=> [in-入，tend伸;’把心思伸向某事”→打算做某事] 想要，打算=>tend
+intention=> [见上，-ion名词后缀] 意图，打算，目的，意向=>tend
+tender=> [tend伸→伸出;’刚伸出(长出)的嫩芽] 嫩的，柔软的，温柔的=>tend
+territory=> [terr土地，-it-，-ory名词后缀] 领土，领地=>terr
+territorial=> [见上，-al形容词后缀，…的] 领土的=>terr
+exterritorial=> [ex-外，见上;’领土之外的”] 治外法权的=>terr
+exterritoriality=> [见上，-ity名词后缀] 治外法权=>terr
+terrace=> [terr土地，-ace名词后缀] 台地，地坪，平台，阳台=>terr
+mediterranean=> [medi中间，terr土地，陆地] (海等)在陆地中的，被陆地包围的=>terr
+Mediterranean=> [见上] 地中海=>terr
+terrestrial=> [terr土地→地球，-ial形容词后缀，…的] 地球(上)的，陆上的=>terr
+extraterrestrial=> [extra-外，见上] 地球外的=>terr
+inter=> [in-入，内，ter=terr土;’入土”，埋入土内] 埋葬=>terr
+interment=> [见上，-ment名词后缀] 埋葬，葬礼=>terr
+disinter=> [见上，dis-不，相反;’与埋葬相反”] 挖出，发掘出=>terr
+disinterment=> [见上，-ment名词后缀] 挖出，掘出物=>terr
+subterrane=> [sub-下，terr土地，-ane名词后缀] 地下洞穴，地下室=>terr
+subterraneous=> [见上，-aneous形容词后缀，…的] 地下的=>terr
+superterrene=> [-super上面，见上] 地面上的，地上的=>terr
+terrain=> [terr土地，-ain名词后缀] 地面;地带，地域，地形=>terr
+terraneous=> [terr土地，-aneous形容词后缀] 地上生长的，陆生的=>terr
+terramycin=> [terr土，-a-，-myc菌→霉，-in素] 土霉素=>terr
+textile=> [text编织，-ile名词后缀，表示物] 纺织品;[-ile形容词后缀，…的] 纺织的=>text
+texture=> [text编织，-ure名词后缀，表示行为的结果] (织物的)组织，结构，织物;(文章的)结构=>text
+intertexture=> [inter-互相，交，text编织，-ure名词后缀] 交织，交织物=>text
+text=> [text编织→编写;’编写成的东西”] 课文，本文，正文=>text
+textual=> [见上，-ual形容词后缀，…的] 本文的，正文的，原文的=>text
+context=> [con-共同，一起，text编织→编写→文字，本文;’相连在一起的文字”] (文章的)上下文=>text
+contextual=> [见上，-ual形容词后缀，…的] 上下文的，按照上下文的=>text
+pretext=> [pre-先，预先，text编织→编造;’预先编造的话”] 借口，托词=>text
+tractor=> [tract拉，-or名词后缀，表示物] 拖拉机=>tract
+attract=> [at-=ad-表示to，tract抽，引] 吸引，诱惑=>tract
+attractive=> [见上，-ive形容词后缀，…的] 有吸引力的，有诱惑力的=>tract
+attraction=> [见上，-ion名词后缀] 吸引，吸引力，诱惑=>tract
+protract=> [pro-向前，tract拉;’向前拉”→拉长] 延长，伸长，拖延=>tract
+protraction=> [见上，-ion名词后缀，表示行为] 延长，拖延=>tract
+protractile=> [见上，-ile形容词后缀，可…的] (爪，舌等)可伸长的，可伸出的=>tract
+protractor=> [见上，-or表示人] 延长者，拖延者=>tract
+protracted=> [见上，-ed形容词后缀，…的] 延长的，拖延的=>tract
+contract=> [con-共同，一起，tract拉;’把二者拉在一起”→使二者结合在一起] 订约，缔结，契约，合同;[‘共同拉紧”] 收缩，(使)缩小，收缩了的=>tract
+contracted=> [见上，-ed形容词后缀，…的] 收缩的，缩小的;已定约的，已订婚的=>tract
+contractible=> [见上，-ible形容词后缀，可…的] 可缩的，会缩的=>tract
+contractile=> [见上，-ile形容词后缀，可…的] 可收缩的，有收缩力的=>tract
+contractive=> [见上，-ive形容词后缀，…的] 收缩的，有收缩力的=>tract
+contracture=> [见上，-ure名词后缀] (医)挛缩，痉挛=>tract
+contractual=> [见上，contract契约，-ual形容词后缀，…的] 契约(性)的=>tract
+contraction=> [见上，-ion名词后缀] 订约，收缩=>tract
+abstract=> [abs-=ab-离开，去，出，tract抽;’抽去”，”抽出”] 抽象，抽象的，抽取，提取，摘要=>tract
+abstraction=> [见上，-ion名词后缀] 抽象(化)，提取，抽出，分离=>tract
+extract=> [ex-出，tract抽] 抽出，拨出，取出=>tract
+extraction=> [见上，-ion名词后缀] 抽出，抽出，摘要=>tract
+extractor=> [见上，-or表示人或物] 抽取者，抽出器=>tract
+retract=> [re-回，tract抽] 缩回，缩进，收回，撤回=>tract
+retraction=> [见上，-ion名词后缀] 缩回，收回，撤销=>tract
+retractive=> [见上，-ive形容词后缀，…的] 缩回的=>tract
+subtract=> [sub-下，tract抽;’抽下”→抽去] 减，减去，去掉=>tract
+subtraction=> [见上，-ion名词后缀] 减，减法=>tract
+subtrahend=> [见上，subtrah=subtract，-end名词后缀] 减数=>tract
+distract=> [dis-分开，离开，tract抽，引;’把注意力引开”] 分散(注意力)，使(人)分心，弄昏，迷惑=>tract
+distraction=> [见上，-ion名词后缀] 心神烦乱，精神错乱=>tract
+distracted=> [见上，-ed形容词后缀，…的] 心烦意乱的，发狂的=>tract
+traction=> [tract拉，拖，引，-ion名词后缀] 拖，牵引(力) tractive [见上，-ive形容词后缀，…的] 拖的，索引的=>tract
+unite=> [un=one一，单一，ite动词后缀，使成….;’使成为一个整体”] 统一，联合，团结=>un
+united=> [见上，-ed形容词后缀，…的] 统一的，联合的=>un
+unitive=> [见上，-itive形容词后缀，…的] 统一的，联合的=>un
+unity=> [un单一，-ity名词后缀，表示情况，性质] 统一，单一，整体，团结=>un
+disunity=> [dis-不，见上] 不统一，不团结=>un
+union=> [un单一，ion名词后缀，表示行为或行为的结果;’联成一体”] 联合，联合会，工会，联盟=>u
+reunion=> [re-再，见上] 再联合，再结合=>un
+disunion=> [dis-不，见上] 不统一，不联合，不团结，分裂=>un
+unit=> [un单一，-it名词后缀，表示物] 单位，单元=>un
+unitize=> [见上，-ize动词后缀，使成…] 使成一个单元=>un
+unique=> [un=one一，单一，-ique(=ic)…的] 唯一的，独一无二的=>un
+unify=> [uni=one一，单一，-fy动词后缀，使成…] 统一，使成一体，使一元化=>un
+unification=> [见上，-fication名词后缀] 统一，联合=>un
+uniform=> [uni单一，form形式，式样] 一样的，相同的，制服=>un
+uniformity=> [见上，-ity名词后缀，表示情况，性质] 一样，一律=>un
+unanimous=> [un单一，一个，anim心神，意志→意见，-ous形容词后缀，…的] 意见统一的，无异议的=>un
+suburban=> [见上，-an形容词后缀，…的] 郊区的;[-an表示人] 郊区居民=>un
+suburbanite=> [见上，-ite表示人] 郊区居民=>un
+suburbanize=> [见上，-ize动词后缀，使…化] (使)市郊化=>un
+urban=> [urb城市，-an形容词后缀，…的] 城市的，都市的=>un
+urbanite=> [见上，-ite表示人] 城市居民=>un
+urbanev=> [urb城市，-ane(=-an)形容词后缀，表示有…性质的，原义来自”城市的人比乡村的人文雅”] 文雅的，有礼貌的=>un
+urbanity=> [见上，-ity名词后缀，表示性质] 文雅，温文尔雅=>un
+inurbane=> [in-不，见上] 不文雅的，粗野的，不礼貌的=>un
+inurbanity=> [见上，-ity名词后缀] 不文雅，粗野=>un
+urbanize=> [见上，-ize动词后缀，使…化] 使都市化=>un
+urbanization=> [见上，-ization名词后缀，...化] 都市化=>un
+urbanology=> [urban城市，-o-，-logy…学] 城市学，都市学=>un
+exurb=> [ex-外，urb城市;’远在城市之外”] 城市远郊地区=>un
+exurban=> [见上，-an形容词后缀，…的] 城市远郊的=>un
+exurbanite=> [见上，-ite表示人] 城市远郊区居民=>un
+interurban=> [inter-在…之间，urb城市，-an形容词后缀，…的] 城市与城市之间的=>un
+conurbation=> [con-共同，urb城市，-ation名词后缀;’几个城市共同组成的大城市”] 集合城市(拥有卫星城市的大都市，如伦敦等)=>un
+vaction=> [vac空，-ation名词后缀，表示情况，状态;’空闲的状态”→无课业，无工作] 休假，假期=> vac
+vactionist=> [见上，-ist表示人] 休假者，度假者=> vac
+vacant=> [vac空，-ant形容词后缀，…的] 空的，空白的，未被占用的=> vac
+vacancy=> [vac空，-ancy表示情况，状态] 空，空白，空处，空虚=> vac
+vacate=> [vac空，-ate动词后缀，使…] 使空出，腾出，搬出=> vac
+evacuate=> [e-外，出，vacu空，-ate动词后缀，使，…;’使某地方空出来”] 撤走，撤空，疏散居民，撤离(某地) evacuation [见上，-ation名词后缀] 疏散，撤走，撤空=> vac
+evacuee=> [见上，-ee被…的人] 被疏散的人员=> vac
+vacuous=> [vacu空，-ous形容词后缀，…的] 空的，空洞的，空虚的=> vac
+vacuity=> [vacu空，-ity名词后缀，表示情况，状态] 空，空白，空虚=> vac
+vacuum=> [vacu空，-um名词后缀] 真空，真空状态，真空度=> vac
+vacuumize=> [见上，-ize动词后缀，使…] 使成真空，真空包装=> vac
+invade=> [in-入，vad走;’走入”→闯入] 侵入，侵略，侵犯=>vad
+invader=> [见上，-er表示人] 入侵者，侵略者，侵犯者=>vad
+invasion=> [见上，vad=vas，-ion名词后缀，表示行为] 入侵，侵略=>vad
+invasive=> [见上，-ive形容词后缀，…的] 入侵的，侵略的=>vad
+evade=> [e-外，出，vad走;’走出”→逃出] 逃避，躲避=>vad
+evasion=> [见上，-ion名词后缀] 逃避，躲避，回避=>vad
+evasive=> [见上，-ive形容词后缀，…的] 逃避的，躲避的=>vad
+pervade=> [per=throughout全，遍，vad走;’走遍”] 遍及，弥漫，渗透，充满=>vad
+pervasion=> [见上，-ion名词后缀] 遍布，弥漫，渗透，充满=>vad
+pervasive=> [见上，-ive形容词后缀，…的] 遍及的，遍布的，弥漫的，充满的=>vad
+wade=> [w=v，wad=vad行走] 跋涉，费力地前进=>vad
+waddle=> [见上，wad=vad行走，d重复字母，-le动词后缀，表示反复，连续动作] 摇摇摆摆地走，蹒跚=>vad
+variable=> [vari变化，-able形容词后缀，可…的] 可变的，反复不定的=>vari
+invariable=> [in-不，见上] 不变的，恒定的=>vari
+various=> [vari变化→多样，-ous形容词后缀，…的] 各种各样的，不同的=>vari
+variety=> [vari变化，-ety名词后缀，表示情况，性质] 变化，多样化，种种=>vari
+vary=> [vari变化，i=y] 改变，变化，变更=>vari
+varied=> [-ed形容词后缀，…的] 多变化的，各式各样的，不同的=>vari
+unvaried=> [un-不，见上] 不变化，经常的，一贯的=>vari
+variant=> [vari变化，-ant形容词后缀，…的] 变异的，不同的，有差别的=>vari
+invariant=> [in-不，见上] 不变性=>vari
+variation=> [vari变化，-ation名词后缀] 变化 ，变动，变更=>vari
+varicoloured=> [vari变化→多样，colour颜色，-ed形容词后缀，…的] 杂色的，五颜六色的=>vari
+variform=> [vari变化→多样，form形状] 有各种形状的，形形色色的=>vari
+varisized=> [vari变化→多样，size大小，-ed形容词后缀，…的] 各种大小的，不同尺寸的=>vari
+intervene=> [inter-之间，中间，ven来;’来到其间”→介入其中] 干预，干涉，介入=>ven
+intervention=> [见上，-ion名词后缀，表示行为] 干预，干涉，介入=>ven
+intervenient=> [见上，-ient=-ent形容词后缀，…的] 干预的，干涉的，介入的=>ven
+intervenor=> [见上，-or表示人] 干涉者，介入者=>ven
+convene=> [con-共同，一起，ven来;’召唤大家来到一起”] 召集(会议)，集合=>ven
+convention=> [见上，-tion名词后缀，表示行为的结果] 集会，会议，大会=>ven
+conventioneer=> [见上，-eer表示人] 参加会议的人，到会的人=>ven
+convener=> [见上，-er表示人] 会议召集人=>ven
+prevent=> [pre-前，先，ven来;’先来”→赶在前面→预先应付→提前准备] 预防，防止=>ven
+prevention=> [见上， -ion名词后缀，表示行为] 预防，防止，阻止=>ven
+preventive=> [见上，-ive形容词后缀，…的] 预防的，防止的=>ven
+event=> [e-=ou出，ven来;’出来”→出现→发生→发生的事情] 事件，大事，事变，偶然事件=>ven
+eventful=> [见上，-ful形容词后缀，多…的] 多事的，充满大事的，多变故的=>ven
+avenue=> [a-=ad-表示to，ven来;’来时所经由的路”] 道路，林荫道，大街=>ven
+revenue=> [re-回，ven来;’回来”→收回→从…收回的东西→收入] (国家的)岁收，税收，收入=>ven
+circumvent=> [circum-周围，四周，ven来，’从四周来”] 包围，围绕=>ven
+circumvention=> [见上，-ion名词后缀，表示行为] 包围，围绕=>ven
+circumventer=> [见上，-er者] 包围者，用计取胜者=>ven
+supervene=> [super-上面，ven来;’由上面来”→降临→突然发生] 意外发生=>ven
+supervention=> [见上，-tion名词后缀，表示情况，事情] 意外发生，意外发生的事件=>ven
+contravene=> [contra-=against反对，相反，ven来;’to come against”→contrary to] 违反，触犯，抵触，与…相冲突，反驳=>ven
+contravention=> [见上，-tion名词后缀] 违反，触犯，抵触，反驳=>ven
+advertise=> [ad-表示to向，vert转，-ise动词后缀，使…;’使(人的注意力)转向…”→使人注意到…→引起人注意] 登广告，为…做广告，大肆宣扬=>vert
+advertisement=> [见上，-ment名词后缀，表示行为，行为的结果] 广告，登广告=>vert
+anniversary=> [ann年，-i-，连接字母，vers转，-ary名词后缀;’时间转了一年”] 周年纪念日，周年纪念;[-ary形容词后缀，…的] 周年纪念的，周年的=>vert
+subvert=> [sub-下，由下，vert转.翻转;’由下翻转”] 推翻，颠覆=>vert
+subversion=> [见上，vert=vers，-ion名词后缀] 推翻，颠覆=>vert
+subversive=> [见上，-ive形容词后缀，…的] 颠覆性的=>vert
+divert=> [di-=dis-分开，离，vert转;’由学习或工作中转移开] 娱乐，使消遣;[转离] 转向，使转移=>vert
+diversion=> [见上，-ion名词后缀] 娱乐，消遣，转向，转移=>vert
+adverse=> [ad-表示to，vers转;’转过来”→反转→相反→敌对] (在位置或方向上)逆的，相反的，(引申为)敌对的=>vert
+adversity=> [见上，advers(e)逆的，-ity名词后缀，表示情况，状态] 逆境，不幸，苦难=>vert
+adversary=> [见上，advers(e)敌对的，-ary表示人] 对手，敌手=>vert
+divorce=> [di-=dis-分开，散，vorc=vers转;’to turn apart”] 离婚，分离，脱离=>vert
+reverse=> [re-回，反→倒，vers转] 倒转，翻转，回复，反向=>vert
+reversion=> [见上，-ion名词后缀] 倒转，翻转，回复，反向=>vert
+reversible=> [见上，-ible形容词后缀，可…的] 可倒转的，可逆的=>vert
+irreversible=> [ir-不，见上] 不可倒转的，不可逆的=>vert
+introvert=> [intro-向内，vert转] 使(思想)内向，内省，使内弯，内向性格的人=>vert
+introversion=> [见上，-ion名词后缀] 内向，内省，内弯=>vert
+extrovert=> [extro-=extra-外，vert转，转向] 外向性格的人=>vert
+convert=> [con-加强意义，vert转→转变] 变换，转变=>vert
+conversion=> [见上，-ion名词后缀] 变换，转化=>vert
+versatile=> [vers转，-atile形容词后缀，可…的] 可转动的，多方面的，多才多艺的=>vert
+controvert=> [contro-=contra-相反，相对，vert转;’to turn against”，针锋相对] 争论，辩论，论战，反驳=>vert
+controversy=> [见上，-y名词后缀] 争论，论战，争吵=>vert
+controversial=> [见上，-ial形容词后缀，…的] 争论的，好争论的=>vert
+invert=> [in-内，vert转;’内转”→翻转] 倒转，使倒转，使反向，倒置，转换=>vert
+inverse=> [见上] 相反的，倒转的=>vert
+inversion=> [见上，-ion名词后缀] 反向，倒转，转换=>vert
+inversive=> [见上，?-ive形容词后缀，…的] 反向的，倒转的=>vert
+diverse=> [di-=dis-离，分开，分数，vers转;’转离原样”，’转为多样的”] (和…)不一样的，多种多样的，形形色色的=>vert
+diversify=> [见上，-i-，-fy动词后缀，使…] 使不同，使多样化=>vert
+diversified=> [见上，-ed形容词后缀，…的] 多样化的=>vert
+diversification=> [见上，-fication名词后缀…化] 多样化=>vert
+diversiform=> [见上，-form有…形状的] 各种形状的，各式各样的=>vert
+diversity=> [见上，-ity名词后缀，表示性质，情况] 多样性，变化，异样=>vert
+retrovert=> [retro-向后，vert转;’转向后”] 使向后弯曲，使反转，使后倾=>vert
+retroversion=> [见上，-ion名词后缀] 后转，后倾，倒退，回顾=>vert
+avert=> [a-=awary，vert=turn;’to turn away”，’转移”→移开] 避开(灾难等)，避免(危险等)，转移(目光，思想等) =>vert
+version=> [vers转，-ion名词后缀;’转”→转换→由一种文字转换为另一种文字→转译→转译的文字] 译文，译本，翻译=>vert
+vertigo=> [vert转→旋转，-igo名词后缀，表示疾病，头’旋转”] 头晕，晕眩，晕头转向=>vert
+obvious=> [ob-表示in(or on)，vi路，-ous形容词后缀，…的;’摆在大路上的”→大家都看得见的] 明显的，显而易见的，显著的=>vi，via
+obviously=> [见上，-ly副词后缀，…地] 明显地，显著地=>vi，via
+previous=> [pre-先，前，vi路→走路，行走，-ous形容词后缀，…的;’going fore”→foregoing] 以前的，先前的=>vi，via
+trivial=> [tri三，vi路，al形容词后缀，…的;’三岔路口上的”→随处都可见到的→极普通的] 平凡的，平常的，不重要的，轻微的，琐细的=>vi，via
+triviality=> [见上，-ity名词后缀] 琐事，琐碎，平凡=>vi，via
+deviate=> [de-离开，vi道路→正道，-ate动词后缀] 背离(正道)，偏离=>vi，via
+deviation=> [见上，-ion名词后缀] 背离，偏离，偏向，偏差=>vi，via
+deviationist=> [见上，-ist表示人] 叛离正道者，(政党的)异端分子=>vi，via
+devious=> [de-离开，vi道路→大道，正道，-ous形容词后缀，…的] 远离大道的，偏远的，偏僻的，离开正道的=>vi，via
+via=> [via道路→经过…道路;’by the way of”] 取道，经由=>vi，via
+viatic=> [via道路，-tic形容词后缀，…的] 道路的，旅行的=>vi，via
+viameter=> [via道路→路程，meter测量仪，计，仪表] 路程计，车程表=>vi，via
+viaduct=> [via道路，duct引导;’把路引导过去”→使路跨越过去] 高架桥，跨线桥，旱桥，栈桥=>vi，via
+visible=> [vis看，-ible形容词后缀，可…的] 看得见的，可见的=>vis
+invisible=> [in-不，见上] 看不见的，无形的=>vis
+visit=> [vis看，观看→参观] 参观，游览，访问=>vis
+visitor=> [见上，?-or表示人] 参观者，观光者，游客，访问者=>vis
+advise=> [ad-表示to向，vis看→看法，意见;’to give one’s opinion to”，’向别人提出自己的看法”] 向…提意见，建议，作顾问，劝告=>vis
+adviser，advisor=> [见上，-er或-or表示人] 顾问，劝告者=>vis
+advisory=> [见上，-ory形容词后缀，…的] 顾问的，劝告的，咨询的=>vis
+advice=> [见上，字母变换;s=c] (医生，顾问的)意见，劝告，忠告=>vis
+revise=> [re-再，vis看;’再看”→审阅→重新审查] 修订，修改，修正=>vis
+revision=> [见上，-ion名词后缀，表示行为，行为的结果] 修订，修改，修正，修订本=>vis
+previse=> [pre-前，先，预见，vis看见] 预见，预知，预测=>vis
+prevision=> [见上，-ion名词后缀] 预见，预知，预测=>vis
+supervise=> [super-上，上面，vis看;’从上面往下看”] 监视，监督，管理=>vis
+supervisor=> [见上，-or表示人] 监视者，监督(人)，管理人=>vis
+supervision=> [见上，-ion名词后缀，表示行为] 监督，管理=>vis
+supervisory=> [见上，-ory形容词后缀，…的] 监督的，管理的=>vis
+visual=> [vis看，-ual形容词后缀，…的] 看的，视觉的，视力的=>vis
+visage=> [vis看，-age表示物] 外观，脸，面容，外表=>vis
+vision=> [vis看，-ion名词后缀] 视，视力，视觉=>vis
+television=> [tele远，vis看，-ion名词后缀;’由远处通过电波传来可观看的图像”] 电视=>vis
+televise=> [见上] 电视播送=>vis
+televisual=> [见上，-ual形容词后缀，…的] 电视的=>vis
+visa=> [vis看→审视，审查→审查后的签字] 签证，签准=>vis
+evident=> [e-出，vid看，-ent形容词后缀，…的;’看得出来的”] 明显的，明白的=>vis
+evidence=> [见上，-ence名词后缀] 明显，明白，迹象，证据=>vis
+provide=> [pro-前，先，预先，vid看见;’预先见到而作准备”] 作准备，预防，提供，装备，供给=>vis
+provision=> [见上，-ion名词后缀] 预备，防备，供应，供应品=>vis
+provident=> [pro-前，先，vid看见，-ent形容词后缀，…的] 有远见的=>vis
+improvident=> [im-无，见上] 无远见的=>vis
+video=> [vid看;’可观看的图像”] 电视;电视的=>vis
+videophone=> [见上，phone电话] 电视电话，可视电话=>vis
+videocast=> [见上，cast广播] 电视广播=>vis
+vital=> [vit生命，-al形容词后缀，…的] 生命的，有生命的，充满活力的，致命的，生命攸关的=>vit
+vitality=> [见上，-ity名词后缀，表示情况，性质] 生命力，生气，活力=>vit
+vitalize=> [见上，-ize动词后缀，使…] 给与…生命力，使有生气=>vit
+revitalize=> [re-再，见上] 使再生，使新生，使恢复元气=>vit
+devitalize=> [de-除去，取消，去掉，见上] 使失去生命(力)，使伤元气=>vit
+vitamin(e)=> [vit生命，amine胺(一种化合物);’维持生命之物”] 维生素，维他命=>vit
+vitaminology=> [见上，-logy…学] 维生素学=>vit
+avitaminosis=> [a-无，vitamin维生素，-osis表示疾病名称] 维生素缺乏症=>vit
+devitaminize=> [de-除去，去掉，vitamin维生素，-ize动词后缀] 使(食物)失去维生素=>vit
+survive=> [sur-超过，viv活;’活得比别人长”，’寿命超过别人”] 比…活得长，后死，幸存，残存=>viv
+survival=> [见上，-al名词后缀，表示情况、状态] 幸存，残存，尚存=>viv
+surviver=> [见上，-or表示人] 幸存者，逃生者=>viv
+revive=> [re-再，viv活]再生，复活，复苏=>viv
+revival=> [见上，-al名词后缀，表示情况、状态] 再生，复活，复苏=>viv
+vivid=> [viv活，-id形容词后缀，…的] 活泼的，有生气的=>viv
+vivacious=> [viv活，-acious形容词后缀，…的] 活泼的，有生气的=>viv
+vivacity=> [viv活，-acity名词后缀，表示情况、状态] 活泼，有生气=>viv
+vivify=> [vivi=viv活，-fy动词后缀，使…] 使活跃，使有生气=>viv
+vivarium=> [viv活→活物，生物，动植物，-arium表示场所] (造成自然环境状态的)动物(或植物)园=>viv
+revivify=> [re-再，viv(i)活，-fy动词后缀，使…] (使)再生，(使)复活，(使)复苏=>viv
+vivisect=> [viv(i)活→活体，sect切，割→解剖] 解剖(动物活体)，进行动物活体解剖=>viv
+vivisection=> [见上，-ion名词后缀，表示行为] 活体解剖=>viv

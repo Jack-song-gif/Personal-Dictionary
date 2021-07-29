@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.fragment0">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#39A4FF">
+
+        <ImageView
+            android:id="@+id/word_form"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/wordform"/>
+
+        <ImageView
+            android:id="@+id/word_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/search_main"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <androidx.appcompat.widget.AppCompatSeekBar
+            android:id="@+id/seek_bar"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:progress="100"
+            android:max="100"
+            android:min="1" />
+
+        <TextView
+            android:id="@+id/test_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="60dp"
+            android:textSize="25sp"
+            android:text="测试单词总数:100"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/bt_start_test"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:textSize="30sp"
+                android:textColor="#fff"
+                android:text="开始测试"
+                android:background="@drawable/start_style"/>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/word_translate"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="3"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="30sp"
+                android:textColor="#fff"
+                android:text="语句翻译"
+                android:background="@drawable/start_style"/>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

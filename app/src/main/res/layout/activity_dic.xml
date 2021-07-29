@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".DicActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#39A4FF">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="backMain"
+            android:src="@drawable/back_form"/>
+
+        <TextView
+            android:id="@+id/word_num"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textSize="25sp"
+            android:text="               查看词典"
+            android:layout_marginLeft="10dp"
+            android:textColor="#FFFFFF"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:padding="45dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:padding="10dp"
+            android:id="@+id/word_Dic"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="常规词库"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:background="@color/coloritem">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+        <TextView
+            android:id="@+id/IWord_Dic"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="不规则名词库"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:background="@color/coloritem">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+        <TextView
+            android:id="@+id/RWord_Dic"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="词根库"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:background="@color/coloritem">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+        <TextView
+            android:id="@+id/EWord_Dic"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="词根衍生词"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:background="@color/coloritem">
+
+        </TextView>
+    </LinearLayout>
+</LinearLayout>

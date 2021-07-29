@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="WordList" />
+    <version value="29"/>
+    <list>
+        <mapping class="com.example.wordapplication.Word"></mapping>
+        <mapping class="com.example.wordapplication.WrWord"></mapping>
+        <mapping class="com.example.wordapplication.IrWord"></mapping>
+        <mapping class="com.example.wordapplication.DaySense"></mapping>
+        <mapping class="com.example.wordapplication.entity.Eword"></mapping>
+        <mapping class="com.example.wordapplication.entity.RootWord"></mapping>
+        <mapping class="com.example.wordapplication.entity.Pword"></mapping>
+    </list>
+</litepal>

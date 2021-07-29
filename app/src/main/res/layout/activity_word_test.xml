@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".WordTest"
+    android:background="#EDECE8">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:onClick="backMain"
+            android:src="@drawable/back_test"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:background="#fff">
+
+            <TextView
+                android:id="@+id/under_tested"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center_vertical"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/has_passed"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center_vertical"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/previous"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textSize="18sp"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3">
+
+        <TextView
+            android:id="@+id/question"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMaxTextSize="45sp"
+            android:autoSizeMinTextSize="30sp"
+            android:autoSizeStepGranularity="2sp"
+            android:textColor="#000"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/optionA"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="13"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMaxTextSize="20sp"
+                android:autoSizeMinTextSize="10sp"
+                android:autoSizeStepGranularity="2sp"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:singleLine="true"
+                android:background="@drawable/answer_style"/>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/optionB"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="13"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="25sp"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:singleLine="true"
+                android:background="@drawable/answer_style"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMaxTextSize="20sp"
+                android:autoSizeMinTextSize="10sp"
+                android:autoSizeStepGranularity="2sp"/>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/optionC"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="13"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="25sp"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:singleLine="true"
+                android:background="@drawable/answer_style"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMaxTextSize="20sp"
+                android:autoSizeMinTextSize="10sp"
+                android:autoSizeStepGranularity="2sp"/>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/optionD"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="13"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="25sp"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:singleLine="true"
+                android:background="@drawable/answer_style"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMaxTextSize="20sp"
+                android:autoSizeMinTextSize="10sp"
+                android:autoSizeStepGranularity="2sp"/>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>

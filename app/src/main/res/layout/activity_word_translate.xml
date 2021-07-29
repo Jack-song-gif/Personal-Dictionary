@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WordTranslate"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#39A4FF">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/back_form"/>
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/translate_from"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/translate_fromto_style"
+        android:gravity="center"
+        android:hint="input in here"
+        android:padding="10dp"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        
+        <TextView
+            android:id="@+id/translate_method"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="menuClick"
+            android:text="当前模式:汉译英"
+            android:textSize="20sp"
+            android:gravity="center"/>
+            
+        
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="80dp"
+            android:src="@drawable/translate_arrow"/>
+        
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/translate_start"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:text="开始翻译"
+                android:gravity="center"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:textSize="20sp"
+                android:background="@drawable/translate_style"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/translate_to"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="10dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:background="@drawable/translate_fromto_style"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>

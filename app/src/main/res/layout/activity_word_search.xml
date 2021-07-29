@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".WordSearch">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#39A4FF">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:onClick="backMain"
+            android:src="@drawable/back_form"/>
+
+        <EditText
+            android:id="@+id/search_key_new"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:paddingLeft="10dp"
+            android:inputType="text"
+            android:maxLines="1"
+            android:background="@drawable/search_style"/>
+
+        <ImageView
+            android:id="@+id/word_search_new"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/search"/>
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/search_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"/>
+
+
+</LinearLayout>

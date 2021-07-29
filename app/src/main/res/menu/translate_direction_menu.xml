@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/zh_to_en"
+        android:title="汉译英"/>
+    <item android:id="@+id/en_to_zh"
+        android:title="英译汉"/>
+</menu>
